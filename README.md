@@ -4,11 +4,11 @@
 
 - EAGLE-INPUT_OUTPUT_CONNECTORS-rev17b.lbr (Rev. 17b)
 - EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b.lbr (Rev. 16b)
+- EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c.lbr (Rev. 16c)
 
 
 ## Library Component TODO:
 
-- EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c.lbr (Rev. 16c)
 - EAGLE-BATTERY_HOLDERS-rev16b.lbr (Rev. 16b)
 - EAGLE-DIP_SWITCHES-rev17b.lbr (Rev. 17b)
 - EAGLE-FUSEHOLDERS-rev16c.lbr (Rev. 16c)
