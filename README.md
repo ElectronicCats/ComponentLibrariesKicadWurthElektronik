@@ -5,6 +5,7 @@
 - EAGLE-INPUT_OUTPUT_CONNECTORS-rev17b.lbr (Rev. 17b)
 - EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b.lbr (Rev. 16b)
 - EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c.lbr (Rev. 16c)
+- EAGLE-WIRE-TO-BOARD-rev17a.lbr (Rev. 17a)
 
 
 ## Library Component TODO:
@@ -26,7 +27,6 @@
 - EAGLE-SPACERS_1-rev16c.lbr (Rev. 16c)
 - EAGLE-TACT_SWITCHES-rev17b.lbr (Rev. 17b)
 - EAGLE-TERMINAL_BLOCKS-rev16e.lbr (Rev. 16e)
-- EAGLE-WIRE-TO-BOARD-rev17a.lbr (Rev. 17a)
 - EAGLE-WR-DC_POWER_JACK_CONNECTORS-rev16b.lbr (Rev. 16b)
 - EAGLE-WR-FFC-rev16a.lbr (Rev. 16a)
 - EAGLE-COLOR_LED-rev17b.lbr (Rev. 17b)
