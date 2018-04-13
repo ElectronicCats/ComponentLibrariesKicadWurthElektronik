@@ -1,923 +1,923 @@
 PCBNEW-LibModule-V1   13/04/2018-01:11:45
 $INDEX
-SignalCommunications (rev18a)-74990-WITH-LED
-SignalCommunications (rev18a)-74990-WITH-LED-TYPE2
-SignalCommunications (rev18a)-74990-WITHOUT-LED
-SignalCommunications (rev18a)-74990-WITHOUT-LED-(21.84X15.88MM)
-SignalCommunications (rev18a)-74990-WITHOUT-LED-(21.84X16.2MM)
-SignalCommunications (rev18a)-8492121
-SignalCommunications (rev18a)-74901401X
-SignalCommunications (rev18a)-74902001XA
-SignalCommunications (rev18a)-749013011A
-SignalCommunications (rev18a)-749014010
-SignalCommunications (rev18a)-749014011
-SignalCommunications (rev18a)-749014012
-SignalCommunications (rev18a)-749014013
-SignalCommunications (rev18a)-749014018
-SignalCommunications (rev18a)-749020020A
-SignalCommunications (rev18a)-749020022A
-SignalCommunications (rev18a)-749020100
-SignalCommunications (rev18a)-749020100A
-SignalCommunications (rev18a)-749020111A
-SignalCommunications (rev18a)-749022012X
-SignalCommunications (rev18a)-749022015
-SignalCommunications (rev18a)-749023010A
-SignalCommunications (rev18a)-749023015
-SignalCommunications (rev18a)-749023016
-SignalCommunications (rev18a)-749024012
-SignalCommunications (rev18a)-749050010A
-SignalCommunications (rev18a)-749050010U
-SignalCommunications (rev18a)-749801100X
-SignalCommunications (rev18a)-7490100110A_749010012A
-SignalCommunications (rev18a)-7490100111A
-SignalCommunications (rev18a)-7490100161A
-SignalCommunications (rev18a)-7490101120
-SignalCommunications (rev18a)-7490120110
-SignalCommunications (rev18a)-7490140110
-SignalCommunications (rev18a)-7490140112
-SignalCommunications (rev18a)-7490200136
-SignalCommunications (rev18a)-7490220115
-SignalCommunications (rev18a)-7497011611A
-SignalCommunications (rev18a)-7497110616
-SignalCommunications (rev18a)-7497111611A
-SignalCommunications (rev18a)-74980111211
-SignalCommunications (rev18a)-7498011122R
-SignalCommunications (rev18a)-7498011211
-SignalCommunications (rev18a)-7498111001
-SignalCommunications (rev18a)-7498111001A
-SignalCommunications (rev18a)-7498111120R
-SignalCommunications (rev18a)-7498210002
-SignalCommunications (rev18a)-7498210003
-SignalCommunications (rev18a)-7498210220A
-SignalCommunications (rev18a)-7499010003A
-SignalCommunications (rev18a)-7499010004A
-SignalCommunications (rev18a)-74990101210
-SignalCommunications (rev18a)-74990101212
-SignalCommunications (rev18a)-74990101241
-SignalCommunications (rev18a)-7499010126A
-SignalCommunications (rev18a)-7499010441
-SignalCommunications (rev18a)-74990110030
-SignalCommunications (rev18a)-74990111211
-SignalCommunications (rev18a)-74990111215A
-SignalCommunications (rev18a)-74990111217
-SignalCommunications (rev18a)-7499011121A
-SignalCommunications (rev18a)-7499011222A
-SignalCommunications (rev18a)-7499011441A
-SignalCommunications (rev18a)-7499021002A
-SignalCommunications (rev18a)-7499021125-2PORTS-HORIZONTAL
-SignalCommunications (rev18a)-7499031001A
-SignalCommunications (rev18a)-7499031120A-4PORTS-HORIZONTAL
-SignalCommunications (rev18a)-7499051002-1X2-STACKED
-SignalCommunications (rev18a)-7499110120A
-SignalCommunications (rev18a)-7499110122
-SignalCommunications (rev18a)-7499110123
-SignalCommunications (rev18a)-7499110124
-SignalCommunications (rev18a)-7499111000A
-SignalCommunications (rev18a)-7499111001A
-SignalCommunications (rev18a)-7499111121A
-SignalCommunications (rev18a)-7499111221A
-SignalCommunications (rev18a)-7499111446
-SignalCommunications (rev18a)-7499111447
-SignalCommunications (rev18a)-7499111614A
-SignalCommunications (rev18a)-7499151120
-SignalCommunications (rev18a)-7499210001A
-SignalCommunications (rev18a)-7499210121A
-SignalCommunications (rev18a)-7499210123A
-SignalCommunications (rev18a)-7499210124A
-SignalCommunications (rev18a)-7499211002A
-SignalCommunications (rev18a)-7499211121A
-SignalCommunications (rev18a)-7499211122A
-SignalCommunications (rev18a)-7499211123A
-SignalCommunications (rev18a)-7499211125
-SignalCommunications (rev18a)-7499410213
-SignalCommunications (rev18a)-7499410221
-SignalCommunications (rev18a)-7499411122A
-SignalCommunications (rev18a)-7499511002A
-SignalCommunications (rev18a)-7499511440
-SignalCommunications (rev18a)-7499511611A
-SignalCommunications (rev18a)-7499611421
-SignalCommunications (rev18a)-VARTVSP_SMA_DO-214AC
-SignalCommunications (rev18a)-VARTVSP_SMA_DO-214AC_UNI
-SignalCommunications (rev18a)-VARTVSP_SMB_DO-214AA
-SignalCommunications (rev18a)-VARTVSP_SMB_DO-214AA_UNI
-SignalCommunications (rev18a)-VARTVSP_SMC&SMD_DO-214AB
-SignalCommunications (rev18a)-VARTVSP_SMC&SMD_DO-214AB_UNI
-SignalCommunications (rev18a)-WE-3WAY_74273001
-SignalCommunications (rev18a)-WE-4WAY_74273002
-SignalCommunications (rev18a)-WE-4WAY_742730021
-SignalCommunications (rev18a)-WE-4WAY_742730022
-SignalCommunications (rev18a)-WE-4WAY_742730023
-SignalCommunications (rev18a)-WE-4WAY_742730321
-SignalCommunications (rev18a)-WE-ACHC_1010
-SignalCommunications (rev18a)-WE-ACHC_1212
-SignalCommunications (rev18a)-WE-ASI_L
-SignalCommunications (rev18a)-WE-ASI_M
-SignalCommunications (rev18a)-WE-ASI_SENSOR
-SignalCommunications (rev18a)-WE-BAL_0603
-SignalCommunications (rev18a)-WE-BAL_0805
-SignalCommunications (rev18a)-WE-BPF_0805_T1
-SignalCommunications (rev18a)-WE-BPF_1008_T5
-SignalCommunications (rev18a)-WE-BPF_1206_748333024
-SignalCommunications (rev18a)-WE-BPF_1206_T3
-SignalCommunications (rev18a)-WE-CAIR_1322
-SignalCommunications (rev18a)-WE-CAIR_1340
-SignalCommunications (rev18a)-WE-CAIR_3136
-SignalCommunications (rev18a)-WE-CAIR_3168
-SignalCommunications (rev18a)-WE-CAIR_4248
-SignalCommunications (rev18a)-WE-CBA_0402(W=1.5)
-SignalCommunications (rev18a)-WE-CBA_0402(W=2.2)
-SignalCommunications (rev18a)-WE-CBA_0603(W=2.2)
-SignalCommunications (rev18a)-WE-CBA_0603(W=2.6)
-SignalCommunications (rev18a)-WE-CBA_0805(W=3)
-SignalCommunications (rev18a)-WE-CBA_0805(W=4)
-SignalCommunications (rev18a)-WE-CBA_1206(W=4.2)
-SignalCommunications (rev18a)-WE-CBA_1206(W=5.2)
-SignalCommunications (rev18a)-WE-CBA_1806(W=5.5)
-SignalCommunications (rev18a)-WE-CBA_1806(W=6.5)
-SignalCommunications (rev18a)-WE-CBF_0402(W=1.5)
-SignalCommunications (rev18a)-WE-CBF_0402(W=2.2)
-SignalCommunications (rev18a)-WE-CBF_0603(W=2.2)
-SignalCommunications (rev18a)-WE-CBF_0603(W=2.6)
-SignalCommunications (rev18a)-WE-CBF_0805(W=3.0)
-SignalCommunications (rev18a)-WE-CBF_0805(W=4.0)
-SignalCommunications (rev18a)-WE-CBF_1206(W=4.2)
-SignalCommunications (rev18a)-WE-CBF_1206(W=5.2)
-SignalCommunications (rev18a)-WE-CBF_1210(W=4.2)
-SignalCommunications (rev18a)-WE-CBF_1210(W=5.2)
-SignalCommunications (rev18a)-WE-CBF_1806(W=5.5)
-SignalCommunications (rev18a)-WE-CBF_1806(W=6.5)
-SignalCommunications (rev18a)-WE-CBF_1812(W=6.3)
-SignalCommunications (rev18a)-WE-CBF_1812(W=7.3)
-SignalCommunications (rev18a)-WE-CBF_HF_0402(W=1.5)
-SignalCommunications (rev18a)-WE-CBF_HF_0402(W=2.2)
-SignalCommunications (rev18a)-WE-CBF_HF_0603(W=2.2)
-SignalCommunications (rev18a)-WE-CBF_HF_0603(W=2.6)
-SignalCommunications (rev18a)-WE-CFWI_1310
-SignalCommunications (rev18a)-WE-CFWI_1312
-SignalCommunications (rev18a)-WE-CFWI_1813
-SignalCommunications (rev18a)-WE-CHSA_1011
-SignalCommunications (rev18a)-WE-CHSA_1212
-SignalCommunications (rev18a)-WE-CHSA_8090
-SignalCommunications (rev18a)-WE-CMBHV_XL_744830007215
-SignalCommunications (rev18a)-WE-CMBHV_XL_744830010185
-SignalCommunications (rev18a)-WE-CMBHV_XL_744830017132
-SignalCommunications (rev18a)-WE-CMBHV_XL_744830025103
-SignalCommunications (rev18a)-WE-CMBHV_XL_744830039080
-SignalCommunications (rev18a)-WE-CMBHV_XXL_744831010205
-SignalCommunications (rev18a)-WE-CMBHV_XXL_744831016164
-SignalCommunications (rev18a)-WE-CMBHV_XXL_744831020133
-SignalCommunications (rev18a)-WE-CMBHV_XXL_744831034090
-SignalCommunications (rev18a)-WE-CMBHV_XXL_744831047068
-SignalCommunications (rev18a)-WE-CMBH_1.2MM
-SignalCommunications (rev18a)-WE-CMBH_1.5MM
-SignalCommunications (rev18a)-WE-CMBNC_L
-SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448040707
-SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041104
-SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041502
-SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041801
-SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448042001
-SignalCommunications (rev18a)-WE-CMBNC_M
-SignalCommunications (rev18a)-WE-CMBNC_M(WITHOUT-PINS)_7448031002
-SignalCommunications (rev18a)-WE-CMBNC_M(WITHOUT-PINS)_7448031501
-SignalCommunications (rev18a)-WE-CMBNC_XL
-SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448050530
-SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448051012
-SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448051804
-SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448052303
-SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448052502
-SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448053201
-SignalCommunications (rev18a)-WE-CMBNC_XS_744801XXXX
-SignalCommunications (rev18a)-WE-CMBNC_XS_744801XXXX-A
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060535
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060620
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060814
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448061309
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448061507
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448062105
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448062603
-SignalCommunications (rev18a)-WE-CMBNC_XXL_7448063801
-SignalCommunications (rev18a)-WE-CMB_HC_S
-SignalCommunications (rev18a)-WE-CMB_L
-SignalCommunications (rev18a)-WE-CMB_M_744823210_20
-SignalCommunications (rev18a)-WE-CMB_M_744823305
-SignalCommunications (rev18a)-WE-CMB_M_744823333
-SignalCommunications (rev18a)-WE-CMB_M_744823422
-SignalCommunications (rev18a)-WE-CMB_M_744823601
-SignalCommunications (rev18a)-WE-CMB_NIZN_S
-SignalCommunications (rev18a)-WE-CMB_NIZN_XS
-SignalCommunications (rev18a)-WE-CMB_S
-SignalCommunications (rev18a)-WE-CMB_XL_744825XXX
-SignalCommunications (rev18a)-WE-CMB_XL_7448251201
-SignalCommunications (rev18a)-WE-CMB_XS
-SignalCommunications (rev18a)-WE-CMB_XXL_7448261418
-SignalCommunications (rev18a)-WE-CMB_XXL_7448262013
-SignalCommunications (rev18a)-WE-CMB_XXL_7448262510
-SignalCommunications (rev18a)-WE-CMB_XXL_7448263505
-SignalCommunications (rev18a)-WE-CMS_7427520
-SignalCommunications (rev18a)-WE-CMS_7427521
-SignalCommunications (rev18a)-WE-CNSW_0603
-SignalCommunications (rev18a)-WE-CNSW_0805
-SignalCommunications (rev18a)-WE-CNSW_1206
-SignalCommunications (rev18a)-WE-CNSW_1812
-SignalCommunications (rev18a)-WE-CNSW_HF_0504
-SignalCommunications (rev18a)-WE-CPI_HV_4828
-SignalCommunications (rev18a)-WE-CST
-SignalCommunications (rev18a)-WE-DAA
-SignalCommunications (rev18a)-WE-DAA_750082157
-SignalCommunications (rev18a)-WE-DCT
-SignalCommunications (rev18a)-WE-DD_1210_1260_1280_CROSSED
-SignalCommunications (rev18a)-WE-DD_1260_1280
-SignalCommunications (rev18a)-WE-DD_7332
-SignalCommunications (rev18a)-WE-DD_7345
-SignalCommunications (rev18a)-WE-DPC_4818_4828
-SignalCommunications (rev18a)-WE-DPC_5838
-SignalCommunications (rev18a)-WE-DPC_HV_5030
-SignalCommunications (rev18a)-WE-DS_2101120X3
-SignalCommunications (rev18a)-WE-DS_2106110X3
-SignalCommunications (rev18a)-WE-DS_2106120X3
-SignalCommunications (rev18a)-WE-DS_2121110X3
-SignalCommunications (rev18a)-WE-DS_2121120X3
-SignalCommunications (rev18a)-WE-DS_2126110X3
-SignalCommunications (rev18a)-WE-DS_2126120X3
-SignalCommunications (rev18a)-WE-DS_2141110X3
-SignalCommunications (rev18a)-WE-DS_2141120X3
-SignalCommunications (rev18a)-WE-DS_2146110X3
-SignalCommunications (rev18a)-WE-DS_2146120X3
-SignalCommunications (rev18a)-WE-DS_2161110X3
-SignalCommunications (rev18a)-WE-DS_2161120X3
-SignalCommunications (rev18a)-WE-DS_2166110X3
-SignalCommunications (rev18a)-WE-DS_2166120X3
-SignalCommunications (rev18a)-WE-DS_210111003
-SignalCommunications (rev18a)-WE-DS_210111023
-SignalCommunications (rev18a)-WE-DS_240117113
-SignalCommunications (rev18a)-WE-DS_240617113
-SignalCommunications (rev18a)-WE-DS_242117113
-SignalCommunications (rev18a)-WE-DS_242617113
-SignalCommunications (rev18a)-WE-DS_244117113
-SignalCommunications (rev18a)-WE-DS_244617113
-SignalCommunications (rev18a)-WE-DS_246117113
-SignalCommunications (rev18a)-WE-DS_246617113
-SignalCommunications (rev18a)-WE-EHPI
-SignalCommunications (rev18a)-WE-EP5_6PIN_2
-SignalCommunications (rev18a)-WE-EXB_744844XXX
-SignalCommunications (rev18a)-WE-EXB_744844102
-SignalCommunications (rev18a)-WE-FAMI_1012_744750340047
-SignalCommunications (rev18a)-WE-FAMI_1012_744750340150
-SignalCommunications (rev18a)-WE-FAMI_1215_744750460100
-SignalCommunications (rev18a)-WE-FAMI_1215_744750460150
-SignalCommunications (rev18a)-WE-FAMI_1215_744750460220
-SignalCommunications (rev18a)-WE-FAMI_1280_744750420047
-SignalCommunications (rev18a)-WE-FAMI_1280_744750420068
-SignalCommunications (rev18a)-WE-FAMI_1280_744750420100
-SignalCommunications (rev18a)-WE-FAMI_1280_744750420150
-SignalCommunications (rev18a)-WE-FAMI_1280_744750420220
-SignalCommunications (rev18a)-WE-FAMI_1410_744750530047
-SignalCommunications (rev18a)-WE-FAMI_1410_744750530068
-SignalCommunications (rev18a)-WE-FAMI_1410_744750530100
-SignalCommunications (rev18a)-WE-FAMI_1415_744750560047
-SignalCommunications (rev18a)-WE-FAMI_1415_744750560100
-SignalCommunications (rev18a)-WE-FAMI_1415_744750560220
-SignalCommunications (rev18a)-WE-FAMI_8010_744750230030
-SignalCommunications (rev18a)-WE-FAMI_8010_744750230047
-SignalCommunications (rev18a)-WE-FAMI_8010_744750230068
-SignalCommunications (rev18a)-WE-FAMI_8010_744750230100
-SignalCommunications (rev18a)-WE-FAMI_8010_744750230150
-SignalCommunications (rev18a)-WE-FB3751_EE35_18_10
-SignalCommunications (rev18a)-WE-FB3751_EFD20
-SignalCommunications (rev18a)-WE-FB_EE16_8_5
-SignalCommunications (rev18a)-WE-FB_EE20_10_6
-SignalCommunications (rev18a)-WE-FB_EFD20
-SignalCommunications (rev18a)-WE-FB_EFD25
-SignalCommunications (rev18a)-WE-FB_EP7_DIMENSION1
-SignalCommunications (rev18a)-WE-FB_EP7_DIMENSION2
-SignalCommunications (rev18a)-WE-FB_EP10
-SignalCommunications (rev18a)-WE-FB_EP13_DIMENSION1
-SignalCommunications (rev18a)-WE-FB_EP13_DIMENSION2
-SignalCommunications (rev18a)-WE-FB_ER9.5
-SignalCommunications (rev18a)-WE-FCL_ET35
-SignalCommunications (rev18a)-WE-FC_ET
-SignalCommunications (rev18a)-WE-FC_UT
-SignalCommunications (rev18a)-WE-FI_7447010
-SignalCommunications (rev18a)-WE-FI_7447011
-SignalCommunications (rev18a)-WE-FI_7447012
-SignalCommunications (rev18a)-WE-FI_7447013
-SignalCommunications (rev18a)-WE-FI_7447014
-SignalCommunications (rev18a)-WE-FI_7447015
-SignalCommunications (rev18a)-WE-FI_7447016
-SignalCommunications (rev18a)-WE-FI_7447017
-SignalCommunications (rev18a)-WE-FI_7447018
-SignalCommunications (rev18a)-WE-FI_7447019
-SignalCommunications (rev18a)-WE-FI_7447020
-SignalCommunications (rev18a)-WE-FI_7447021
-SignalCommunications (rev18a)-WE-FI_7447022
-SignalCommunications (rev18a)-WE-FI_7447023
-SignalCommunications (rev18a)-WE-FI_7447024
-SignalCommunications (rev18a)-WE-FI_7447025
-SignalCommunications (rev18a)-WE-FI_7447026
-SignalCommunications (rev18a)-WE-FI_7447027
-SignalCommunications (rev18a)-WE-FI_7447028
-SignalCommunications (rev18a)-WE-FI_7447030
-SignalCommunications (rev18a)-WE-FI_7447031
-SignalCommunications (rev18a)-WE-FI_7447032
-SignalCommunications (rev18a)-WE-FI_7447033
-SignalCommunications (rev18a)-WE-FI_7447034
-SignalCommunications (rev18a)-WE-FI_7447035
-SignalCommunications (rev18a)-WE-FI_7447036
-SignalCommunications (rev18a)-WE-FI_7447037
-SignalCommunications (rev18a)-WE-FI_7447040
-SignalCommunications (rev18a)-WE-FI_7447041
-SignalCommunications (rev18a)-WE-FI_7447042
-SignalCommunications (rev18a)-WE-FI_7447043
-SignalCommunications (rev18a)-WE-FI_7447044
-SignalCommunications (rev18a)-WE-FI_7447045
-SignalCommunications (rev18a)-WE-FI_7447050
-SignalCommunications (rev18a)-WE-FI_7447051
-SignalCommunications (rev18a)-WE-FI_7447052
-SignalCommunications (rev18a)-WE-FI_7447053
-SignalCommunications (rev18a)-WE-FI_7447054
-SignalCommunications (rev18a)-WE-FI_7447055
-SignalCommunications (rev18a)-WE-FI_7447060
-SignalCommunications (rev18a)-WE-FI_7447065
-SignalCommunications (rev18a)-WE-FI_7447070
-SignalCommunications (rev18a)-WE-FI_7447071
-SignalCommunications (rev18a)-WE-FI_7447075
-SignalCommunications (rev18a)-WE-FI_7447076
-SignalCommunications (rev18a)-WE-FI_7447077
-SignalCommunications (rev18a)-WE-FI_7447078
-SignalCommunications (rev18a)-WE-FI_7447079
-SignalCommunications (rev18a)-WE-FI_74470291
-SignalCommunications (rev18a)-WE-FI_74470292
-SignalCommunications (rev18a)-WE-FLEX+_ETD29
-SignalCommunications (rev18a)-WE-FLEX+_ETD34
-SignalCommunications (rev18a)-WE-FLEX+_ETD39
-SignalCommunications (rev18a)-WE-FLEXHV_EFD15
-SignalCommunications (rev18a)-WE-FLEXHV_EFD20
-SignalCommunications (rev18a)-WE-FLEXHV_ER11_5
-SignalCommunications (rev18a)-WE-FLEXHV_ER14.5_6
-SignalCommunications (rev18a)-WE-FLEX_EFD15
-SignalCommunications (rev18a)-WE-FLEX_EFD20
-SignalCommunications (rev18a)-WE-FLEX_ER11_5
-SignalCommunications (rev18a)-WE-FLEX_ER14.5_6
-SignalCommunications (rev18a)-WE-GDTI_EP7
-SignalCommunications (rev18a)-WE-GFH_2520
-SignalCommunications (rev18a)-WE-GFH_3225
-SignalCommunications (rev18a)-WE-GFH_4532
-SignalCommunications (rev18a)-WE-GF_1210
-SignalCommunications (rev18a)-WE-GF_1812
-SignalCommunications (rev18a)-WE-HCC_1090
-SignalCommunications (rev18a)-WE-HCC_1210
-SignalCommunications (rev18a)-WE-HCC_8070
-SignalCommunications (rev18a)-WE-HCF_2013
-SignalCommunications (rev18a)-WE-HCF_2815
-SignalCommunications (rev18a)-WE-HCF_2818
-SignalCommunications (rev18a)-WE-HCF_LITZ
-SignalCommunications (rev18a)-WE-HCF_ROUND
-SignalCommunications (rev18a)-WE-HCI_1030
-SignalCommunications (rev18a)-WE-HCI_1040
-SignalCommunications (rev18a)-WE-HCI_1050
-SignalCommunications (rev18a)-WE-HCI_1335
-SignalCommunications (rev18a)-WE-HCI_1350_1365
-SignalCommunications (rev18a)-WE-HCI_1890
-SignalCommunications (rev18a)-WE-HCI_2212
-SignalCommunications (rev18a)-WE-HCI_5040
-SignalCommunications (rev18a)-WE-HCI_7030_7040_7050
-SignalCommunications (rev18a)-WE-HCM_1050
-SignalCommunications (rev18a)-WE-HCM_1052
-SignalCommunications (rev18a)-WE-HCM_1070
-SignalCommunications (rev18a)-WE-HCM_1078
-SignalCommunications (rev18a)-WE-HCM_1088
-SignalCommunications (rev18a)-WE-HCM_1190
-SignalCommunications (rev18a)-WE-HCM_1240
-SignalCommunications (rev18a)-WE-HCM_1350
-SignalCommunications (rev18a)-WE-HCM_1390
-SignalCommunications (rev18a)-WE-HCM_7050
-SignalCommunications (rev18a)-WE-HCM_7070
-SignalCommunications (rev18a)-WE-ISDN
-SignalCommunications (rev18a)-WE-KIHC_0402
-SignalCommunications (rev18a)-WE-KIHC_0603
-SignalCommunications (rev18a)-WE-KI_0402A
-SignalCommunications (rev18a)-WE-KI_0603A
-SignalCommunications (rev18a)-WE-KI_0603C
-SignalCommunications (rev18a)-WE-KI_0805A
-SignalCommunications (rev18a)-WE-KI_0805C
-SignalCommunications (rev18a)-WE-KI_1008A
-SignalCommunications (rev18a)-WE-LAN10G1.27MM
-SignalCommunications (rev18a)-WE-LAN10G:0.99MM
-SignalCommunications (rev18a)-WE-LANAQ_749020310
-SignalCommunications (rev18a)-WE-LAN_AQ_749010310
-SignalCommunications (rev18a)-WE-LF_612_SV
-SignalCommunications (rev18a)-WE-LF_622_MV
-SignalCommunications (rev18a)-WE-LF_632_LV
-SignalCommunications (rev18a)-WE-LF_642_XV
-SignalCommunications (rev18a)-WE-LF_662_SH
-SignalCommunications (rev18a)-WE-LF_672_MH
-SignalCommunications (rev18a)-WE-LF_682_LH
-SignalCommunications (rev18a)-WE-LF_692_XH
-SignalCommunications (rev18a)-WE-LF_SMD
-SignalCommunications (rev18a)-WE-LHMI_1040
-SignalCommunications (rev18a)-WE-LHMI_1335
-SignalCommunications (rev18a)-WE-LHMI_1365
-SignalCommunications (rev18a)-WE-LHMI_4012
-SignalCommunications (rev18a)-WE-LHMI_4020
-SignalCommunications (rev18a)-WE-LHMI_5020
-SignalCommunications (rev18a)-WE-LHMI_5030
-SignalCommunications (rev18a)-WE-LHMI_7030_7050
-SignalCommunications (rev18a)-WE-LHMI_8030
-SignalCommunications (rev18a)-WE-LHMI_8040
-SignalCommunications (rev18a)-WE-LHMI_8040_3.7
-SignalCommunications (rev18a)-WE-LLCR_ETD34
-SignalCommunications (rev18a)-WE-LLCR_ETD39
-SignalCommunications (rev18a)-WE-LLCR_ETD44
-SignalCommunications (rev18a)-WE-LPCC_7448680100
-SignalCommunications (rev18a)-WE-LPCC_7448680120
-SignalCommunications (rev18a)-WE-LPCC_7448680140
-SignalCommunications (rev18a)-WE-LPCC_7448680180
-SignalCommunications (rev18a)-WE-LPCC_7448680200
-SignalCommunications (rev18a)-WE-LPF_0603
-SignalCommunications (rev18a)-WE-LPF_0805
-SignalCommunications (rev18a)-WE-LQFS_48X8
-SignalCommunications (rev18a)-WE-LQFS_3818
-SignalCommunications (rev18a)-WE-LQSH_2010
-SignalCommunications (rev18a)-WE-LQSH_2512
-SignalCommunications (rev18a)-WE-LQSH_3012
-SignalCommunications (rev18a)-WE-LQSH_4020
-SignalCommunications (rev18a)-WE-LQS_2010
-SignalCommunications (rev18a)-WE-LQS_2512
-SignalCommunications (rev18a)-WE-LQS_3012
-SignalCommunications (rev18a)-WE-LQS_3015
-SignalCommunications (rev18a)-WE-LQS_4012
-SignalCommunications (rev18a)-WE-LQS_4018
-SignalCommunications (rev18a)-WE-LQS_4025
-SignalCommunications (rev18a)-WE-LQS_5020
-SignalCommunications (rev18a)-WE-LQS_5040
-SignalCommunications (rev18a)-WE-LQS_6028
-SignalCommunications (rev18a)-WE-LQS_6045
-SignalCommunications (rev18a)-WE-LQS_8040
-SignalCommunications (rev18a)-WE-LQS_8065
-SignalCommunications (rev18a)-WE-LQ_L
-SignalCommunications (rev18a)-WE-LQ_M
-SignalCommunications (rev18a)-WE-MAIA_2506
-SignalCommunications (rev18a)-WE-MAIA_2508
-SignalCommunications (rev18a)-WE-MAIA_2510
-SignalCommunications (rev18a)-WE-MAIA_2512
-SignalCommunications (rev18a)-WE-MAIA_3010
-SignalCommunications (rev18a)-WE-MAIA_3012
-SignalCommunications (rev18a)-WE-MAIA_3015
-SignalCommunications (rev18a)-WE-MAIA_3020
-SignalCommunications (rev18a)-WE-MAIA_4020
-SignalCommunications (rev18a)-WE-MAIA_4030
-SignalCommunications (rev18a)-WE-MAPI_20XX
-SignalCommunications (rev18a)-WE-MAPI_25XX
-SignalCommunications (rev18a)-WE-MAPI_30XX
-SignalCommunications (rev18a)-WE-MAPI_40XX
-SignalCommunications (rev18a)-WE-MAPI_1610
-SignalCommunications (rev18a)-WE-MAPI_2010
-SignalCommunications (rev18a)-WE-MAPI_2506
-SignalCommunications (rev18a)-WE-MAPI_2508
-SignalCommunications (rev18a)-WE-MAPI_2510_2512
-SignalCommunications (rev18a)-WE-MAPI_3010
-SignalCommunications (rev18a)-WE-MAPI_3012_STANDER
-SignalCommunications (rev18a)-WE-MAPI_3015_3020
-SignalCommunications (rev18a)-WE-MCA_7488105XX_7488940245
-SignalCommunications (rev18a)-WE-MCA_7488910043
-SignalCommunications (rev18a)-WE-MCA_7488910092
-SignalCommunications (rev18a)-WE-MCA_7488910245
-SignalCommunications (rev18a)-WE-MCA_7488912455
-SignalCommunications (rev18a)-WE-MCA_7488920245
-SignalCommunications (rev18a)-WE-MCA_7488930245
-SignalCommunications (rev18a)-WE-MCRI_1090
-SignalCommunications (rev18a)-WE-MI_0603
-SignalCommunications (rev18a)-WE-MI_0805
-SignalCommunications (rev18a)-WE-MI_1206
-SignalCommunications (rev18a)-WE-MK_0201
-SignalCommunications (rev18a)-WE-MK_0402
-SignalCommunications (rev18a)-WE-MK_0603
-SignalCommunications (rev18a)-WE-MPSB_0603(W=2.6)
-SignalCommunications (rev18a)-WE-MPSB_0805(W=4.0)
-SignalCommunications (rev18a)-WE-MPSB_1206(W=5.2)
-SignalCommunications (rev18a)-WE-MPSB_1612
-SignalCommunications (rev18a)-WE-MPSB_1812
-SignalCommunications (rev18a)-WE-MPSB_2220
-SignalCommunications (rev18a)-WE-MPSB_3312
-SignalCommunications (rev18a)-WE-MTCI_5030
-SignalCommunications (rev18a)-WE-PBF_7427930
-SignalCommunications (rev18a)-WE-PBF_7427931
-SignalCommunications (rev18a)-WE-PBF_7427932
-SignalCommunications (rev18a)-WE-PD2A_1054
-SignalCommunications (rev18a)-WE-PD2A_4532
-SignalCommunications (rev18a)-WE-PD2A_5848
-SignalCommunications (rev18a)-WE-PD2A_7850
-SignalCommunications (rev18a)-WE-PD2SA_7850
-SignalCommunications (rev18a)-WE-PD2SR_7850
-SignalCommunications (rev18a)-WE-PD2_1054
-SignalCommunications (rev18a)-WE-PD2_3521
-SignalCommunications (rev18a)-WE-PD2_4532
-SignalCommunications (rev18a)-WE-PD2_5848_5820
-SignalCommunications (rev18a)-WE-PD2_7850
-SignalCommunications (rev18a)-WE-PD2_HV_1060
-SignalCommunications (rev18a)-WE-PD3_L
-SignalCommunications (rev18a)-WE-PD3_M
-SignalCommunications (rev18a)-WE-PD3_S
-SignalCommunications (rev18a)-WE-PD3_X
-SignalCommunications (rev18a)-WE-PD4_XL
-SignalCommunications (rev18a)-WE-PDA_1210
-SignalCommunications (rev18a)-WE-PDA_1260
-SignalCommunications (rev18a)-WE-PDA_1280
-SignalCommunications (rev18a)-WE-PDA_7332
-SignalCommunications (rev18a)-WE-PDA_7345
-SignalCommunications (rev18a)-WE-PDF
-SignalCommunications (rev18a)-WE-PD_1030_1050
-SignalCommunications (rev18a)-WE-PD_1260_1245_1280_1210
-SignalCommunications (rev18a)-WE-PD_6033_6050_PLASTIC_BASE
-SignalCommunications (rev18a)-WE-PD_7332_7345
-SignalCommunications (rev18a)-WE-PD_7332_7345_PLASTIC_BASE
-SignalCommunications (rev18a)-WE-PD_7332_CLIP
-SignalCommunications (rev18a)-WE-PD_HV_1060
-SignalCommunications (rev18a)-WE-PFC_EE20_10_6
-SignalCommunications (rev18a)-WE-PFC_EER28
-SignalCommunications (rev18a)-WE-PFC_EFD25
-SignalCommunications (rev18a)-WE-PFC_EFD30
-SignalCommunications (rev18a)-WE-PFC_PQ38_11
-SignalCommunications (rev18a)-WE-PFC_RM10
-SignalCommunications (rev18a)-WE-PFC_RM12
-SignalCommunications (rev18a)-WE-PFC_RM14
-SignalCommunications (rev18a)-WE-PF_7427929XXX
-SignalCommunications (rev18a)-WE-PMCI_0603_74479262XXX
-SignalCommunications (rev18a)-WE-PMCI_0805_74479275XXX
-SignalCommunications (rev18a)-WE-PMCI_0806_74479276XXX
-SignalCommunications (rev18a)-WE-PMCI_0806_74479276XXXC
-SignalCommunications (rev18a)-WE-PMCI_1008_74479287XXX
-SignalCommunications (rev18a)-WE-PMCI_1008_74479288XXX
-SignalCommunications (rev18a)-WE-PMCI_1210_74479298XXX
-SignalCommunications (rev18a)-WE-PMCI_1210_74479299XXX
-SignalCommunications (rev18a)-WE-PMI_0603
-SignalCommunications (rev18a)-WE-PMI_0805
-SignalCommunications (rev18a)-WE-PMI_0806
-SignalCommunications (rev18a)-WE-PMI_1008
-SignalCommunications (rev18a)-WE-PMI_1210
-SignalCommunications (rev18a)-WE-PMMI_0805
-SignalCommunications (rev18a)-WE-PMMI_0806
-SignalCommunications (rev18a)-WE-POE+_EFD20
-SignalCommunications (rev18a)-WE-POE+_EP13
-SignalCommunications (rev18a)-WE-POE_EFD15
-SignalCommunications (rev18a)-WE-POE_EP10
-SignalCommunications (rev18a)-WE-POE_EP13
-SignalCommunications (rev18a)-WE-POE_ER11_5
-SignalCommunications (rev18a)-WE-POE_ER14.5_6
-SignalCommunications (rev18a)-WE-PP_750031160
-SignalCommunications (rev18a)-WE-RFH
-SignalCommunications (rev18a)-WE-RFI_0805A
-SignalCommunications (rev18a)-WE-RFI_1008A
-SignalCommunications (rev18a)-WE-SCC_1260_1210
-SignalCommunications (rev18a)-WE-SCC_7345
-SignalCommunications (rev18a)-WE-SD_744710203
-SignalCommunications (rev18a)-WE-SD_744710205
-SignalCommunications (rev18a)-WE-SD_744710210
-SignalCommunications (rev18a)-WE-SD_744710215
-SignalCommunications (rev18a)-WE-SD_744710603
-SignalCommunications (rev18a)-WE-SD_744710605
-SignalCommunications (rev18a)-WE-SD_744710610
-SignalCommunications (rev18a)-WE-SD_744710615
-SignalCommunications (rev18a)-WE-SD_744711003
-SignalCommunications (rev18a)-WE-SD_744711005
-SignalCommunications (rev18a)-WE-SD_744711010
-SignalCommunications (rev18a)-WE-SD_744711015
-SignalCommunications (rev18a)-WE-SECF-0557
-SignalCommunications (rev18a)-WE-SECF-1562
-SignalCommunications (rev18a)-WE-SECF_0135
-SignalCommunications (rev18a)-WE-SECF_0148
-SignalCommunications (rev18a)-WE-SECF_0315
-SignalCommunications (rev18a)-WE-SECF_0320
-SignalCommunications (rev18a)-WE-SECF_0453
-SignalCommunications (rev18a)-WE-SECF_0610
-SignalCommunications (rev18a)-WE-SECF_0825
-SignalCommunications (rev18a)-WE-SECF_1440
-SignalCommunications (rev18a)-WE-SECF_1613
-SignalCommunications (rev18a)-WE-SECF_1670
-SignalCommunications (rev18a)-WE-SECF_1730
-SignalCommunications (rev18a)-WE-SECF_1735
-SignalCommunications (rev18a)-WE-SECF_2140
-SignalCommunications (rev18a)-WE-SECF_2240
-SignalCommunications (rev18a)-WE-SECF_2353
-SignalCommunications (rev18a)-WE-SECF_2640
-SignalCommunications (rev18a)-WE-SHC_36103166S
-SignalCommunications (rev18a)-WE-SHC_36103205
-SignalCommunications (rev18a)-WE-SHC_36103205S
-SignalCommunications (rev18a)-WE-SHC_36103255
-SignalCommunications (rev18a)-WE-SHC_36103255S
-SignalCommunications (rev18a)-WE-SHC_36103305
-SignalCommunications (rev18a)-WE-SHC_36103305S
-SignalCommunications (rev18a)-WE-SHC_36103505
-SignalCommunications (rev18a)-WE-SHC_36103505S
-SignalCommunications (rev18a)-WE-SHC_36103605
-SignalCommunications (rev18a)-WE-SHC_36103605S
-SignalCommunications (rev18a)-WE-SHC_36105266S
-SignalCommunications (rev18a)-WE-SHC_36105366S
-SignalCommunications (rev18a)-WE-SHC_36106326S
-SignalCommunications (rev18a)-WE-SHC_36107406S
-SignalCommunications (rev18a)-WE-SHC_36503205
-SignalCommunications (rev18a)-WE-SHC_36503205S
-SignalCommunications (rev18a)-WE-SHC_36503255
-SignalCommunications (rev18a)-WE-SHC_36503255S
-SignalCommunications (rev18a)-WE-SHC_36503305
-SignalCommunications (rev18a)-WE-SHC_36503505
-SignalCommunications (rev18a)-WE-SHC_36503505S
-SignalCommunications (rev18a)-WE-SHC_36503605
-SignalCommunications (rev18a)-WE-SHC_36503605S
-SignalCommunications (rev18a)-WE-SHC_36903205S
-SignalCommunications (rev18a)-WE-SHC_36903255S
-SignalCommunications (rev18a)-WE-SHC_36903305S
-SignalCommunications (rev18a)-WE-SHC_36905266S
-SignalCommunications (rev18a)-WE-SHC_36906326S
-SignalCommunications (rev18a)-WE-SHC_36907406S
-SignalCommunications (rev18a)-WE-SHC_369010302X
-SignalCommunications (rev18a)-WE-SHC_3610213126S
-SignalCommunications (rev18a)-WE-SHC_3610536336S
-SignalCommunications (rev18a)-WE-SHC_3610637256S
-SignalCommunications (rev18a)-WE-SHC_S11100108
-SignalCommunications (rev18a)-WE-SI_744101
-SignalCommunications (rev18a)-WE-SI_744102
-SignalCommunications (rev18a)-WE-SI_744103
-SignalCommunications (rev18a)-WE-SI_744104
-SignalCommunications (rev18a)-WE-SI_744105
-SignalCommunications (rev18a)-WE-SI_744106
-SignalCommunications (rev18a)-WE-SI_744107
-SignalCommunications (rev18a)-WE-SI_744111
-SignalCommunications (rev18a)-WE-SI_744112
-SignalCommunications (rev18a)-WE-SI_744113
-SignalCommunications (rev18a)-WE-SI_744114
-SignalCommunications (rev18a)-WE-SI_744115
-SignalCommunications (rev18a)-WE-SI_744116
-SignalCommunications (rev18a)-WE-SI_744117
-SignalCommunications (rev18a)-WE-SI_744118
-SignalCommunications (rev18a)-WE-SI_744119
-SignalCommunications (rev18a)-WE-SI_744131
-SignalCommunications (rev18a)-WE-SI_744132
-SignalCommunications (rev18a)-WE-SI_744133
-SignalCommunications (rev18a)-WE-SI_744134
-SignalCommunications (rev18a)-WE-SI_744135
-SignalCommunications (rev18a)-WE-SI_744136
-SignalCommunications (rev18a)-WE-SI_744137
-SignalCommunications (rev18a)-WE-SI_744138
-SignalCommunications (rev18a)-WE-SI_744139
-SignalCommunications (rev18a)-WE-SI_744150
-SignalCommunications (rev18a)-WE-SI_744151
-SignalCommunications (rev18a)-WE-SI_744152
-SignalCommunications (rev18a)-WE-SI_744153
-SignalCommunications (rev18a)-WE-SI_744154
-SignalCommunications (rev18a)-WE-SI_744155
-SignalCommunications (rev18a)-WE-SI_744156
-SignalCommunications (rev18a)-WE-SI_7441110
-SignalCommunications (rev18a)-WE-SI_7441501
-SignalCommunications (rev18a)-WE-SL1
-SignalCommunications (rev18a)-WE-SL2
-SignalCommunications (rev18a)-WE-SL3_744252XXX
-SignalCommunications (rev18a)-WE-SL3_744253XXX
-SignalCommunications (rev18a)-WE-SL3_HV
-SignalCommunications (rev18a)-WE-SL5
-SignalCommunications (rev18a)-WE-SL5_HC
-SignalCommunications (rev18a)-WE-SLM
-SignalCommunications (rev18a)-WE-SL_2WINDING
-SignalCommunications (rev18a)-WE-SL_4WINDING
-SignalCommunications (rev18a)-WE-SPC_48XX
-SignalCommunications (rev18a)-WE-SUKW_7427511
-SignalCommunications (rev18a)-WE-SUKW_7427512
-SignalCommunications (rev18a)-WE-TCI_0201
-SignalCommunications (rev18a)-WE-TCI_0402
-SignalCommunications (rev18a)-WE-TDC_80XX
-SignalCommunications (rev18a)-WE-TDC_HV_80XX
-SignalCommunications (rev18a)-WE-TFC
-SignalCommunications (rev18a)-WE-TFCH
-SignalCommunications (rev18a)-WE-TI_TIHV_8095_SHRINKING
-SignalCommunications (rev18a)-WE-TI_TIHV_SHRINK_8055
-SignalCommunications (rev18a)-WE-TIF
-SignalCommunications (rev18a)-WE-TIF_1016
-SignalCommunications (rev18a)-WE-TIS_1111
-SignalCommunications (rev18a)-WE-TIS_8075
-SignalCommunications (rev18a)-WE-TI_1014
-SignalCommunications (rev18a)-WE-TI_1020
-SignalCommunications (rev18a)-WE-TI_5075
-SignalCommunications (rev18a)-WE-TI_6065
-SignalCommunications (rev18a)-WE-TI_8012
-SignalCommunications (rev18a)-WE-TI_8012B
-SignalCommunications (rev18a)-WE-TI_8075
-SignalCommunications (rev18a)-WE-TI_8075_SHRINKTUBE
-SignalCommunications (rev18a)-WE-TI_TIHV_8095
-SignalCommunications (rev18a)-WE-TMSB_0201
-SignalCommunications (rev18a)-WE-TPBHV_Φ1.3
-SignalCommunications (rev18a)-WE-TPBHV_Φ1.6
-SignalCommunications (rev18a)-WE-TPBHV_Φ2.0
-SignalCommunications (rev18a)-WE-TPBHV_Φ2.4
-SignalCommunications (rev18a)-WE-TPBHV_Φ2.6
-SignalCommunications (rev18a)-WE-TPBHV_Φ4.0
-SignalCommunications (rev18a)-WE-TPBHV_Φ4.2
-SignalCommunications (rev18a)-WE-TPBHV_Φ4.5
-SignalCommunications (rev18a)-WE-TPBHV_Φ5.5
-SignalCommunications (rev18a)-WE-TPC_1028_1038
-SignalCommunications (rev18a)-WE-TPC_2811_2813_OLD
-SignalCommunications (rev18a)-WE-TPC_2828_OLD
-SignalCommunications (rev18a)-WE-TPC_3510
-SignalCommunications (rev18a)-WE-TPC_3816
-SignalCommunications (rev18a)-WE-TPC_4818_4828
-SignalCommunications (rev18a)-WE-TPC_5818_5828
-SignalCommunications (rev18a)-WE-TPC_6823
-SignalCommunications (rev18a)-WE-TPC_8015_8012
-SignalCommunications (rev18a)-WE-TPC_8020_8043
-SignalCommunications (rev18a)-WE-TVS_DFN1210_6L
-SignalCommunications (rev18a)-WE-TVS_DFN1610-2L
-SignalCommunications (rev18a)-WE-TVS_DFN3810_9L
-SignalCommunications (rev18a)-WE-TVS_MSOP-8L
-SignalCommunications (rev18a)-WE-TVS_MSOP-10L
-SignalCommunications (rev18a)-WE-TVS_SC70-5L
-SignalCommunications (rev18a)-WE-TVS_SC70-6L
-SignalCommunications (rev18a)-WE-TVS_SOT23-3L
-SignalCommunications (rev18a)-WE-TVS_SOT23-5L
-SignalCommunications (rev18a)-WE-TVS_SOT23-6L
-SignalCommunications (rev18a)-WE-TVS_SOT143-4L
-SignalCommunications (rev18a)-WE-TVS_SOT563
-SignalCommunications (rev18a)-WE-UCF
-SignalCommunications (rev18a)-WE-UKW_7427501
-SignalCommunications (rev18a)-WE-UKW_7427502
-SignalCommunications (rev18a)-WE-UKW_7427503
-SignalCommunications (rev18a)-WE-UKW_7427504
-SignalCommunications (rev18a)-WE-UKW_74275010
-SignalCommunications (rev18a)-WE-UKW_74275011
-SignalCommunications (rev18a)-WE-UKW_74275013
-SignalCommunications (rev18a)-WE-UKW_74275022
-SignalCommunications (rev18a)-WE-UKW_74275023
-SignalCommunications (rev18a)-WE-UKW_74275043
-SignalCommunications (rev18a)-WE-UKW_74275046
-SignalCommunications (rev18a)-WE-UKW_74275143
-SignalCommunications (rev18a)-WE-UKW_74275223
-SignalCommunications (rev18a)-WE-UKW_74275243
-SignalCommunications (rev18a)-WE-UKW_742750421
-SignalCommunications (rev18a)-WE-UNIT_750370024
-SignalCommunications (rev18a)-WE-UNIT_750370026
-SignalCommunications (rev18a)-WE-UNIT_750871111
-SignalCommunications (rev18a)-WE-UNIT_760871131
-SignalCommunications (rev18a)-WE-UNIT_E13_7_4_HORIZONTAL
-SignalCommunications (rev18a)-WE-UNIT_E13_7_4_VERTICAL
-SignalCommunications (rev18a)-WE-UNIT_E16_7_4
-SignalCommunications (rev18a)-WE-UNIT_E16_8_5
-SignalCommunications (rev18a)-WE-UOST
-SignalCommunications (rev18a)-WE-VD_5MM-1.0
-SignalCommunications (rev18a)-WE-VD_5MM-1.1
-SignalCommunications (rev18a)-WE-VD_5MM-1.3
-SignalCommunications (rev18a)-WE-VD_5MM-1.5
-SignalCommunications (rev18a)-WE-VD_5MM-1.7
-SignalCommunications (rev18a)-WE-VD_5MM-1.8
-SignalCommunications (rev18a)-WE-VD_5MM-2.1
-SignalCommunications (rev18a)-WE-VD_5MM-2.4
-SignalCommunications (rev18a)-WE-VD_5MM-2.7
-SignalCommunications (rev18a)-WE-VD_5MM-3.0
-SignalCommunications (rev18a)-WE-VD_5MM-DIA
-SignalCommunications (rev18a)-WE-VD_7MM-1.0
-SignalCommunications (rev18a)-WE-VD_7MM-1.1
-SignalCommunications (rev18a)-WE-VD_7MM-1.3
-SignalCommunications (rev18a)-WE-VD_7MM-1.4
-SignalCommunications (rev18a)-WE-VD_7MM-1.5
-SignalCommunications (rev18a)-WE-VD_7MM-1.7
-SignalCommunications (rev18a)-WE-VD_7MM-1.8
-SignalCommunications (rev18a)-WE-VD_7MM-2.1
-SignalCommunications (rev18a)-WE-VD_7MM-2.4
-SignalCommunications (rev18a)-WE-VD_7MM-2.7
-SignalCommunications (rev18a)-WE-VD_7MM-3.0
-SignalCommunications (rev18a)-WE-VD_7MM-3.1
-SignalCommunications (rev18a)-WE-VD_7MM-3.3
-SignalCommunications (rev18a)-WE-VD_7MM-DIA
-SignalCommunications (rev18a)-WE-VD_10MM-0.9
-SignalCommunications (rev18a)-WE-VD_10MM-1.1
-SignalCommunications (rev18a)-WE-VD_10MM-1.3
-SignalCommunications (rev18a)-WE-VD_10MM-1.5
-SignalCommunications (rev18a)-WE-VD_10MM-1.6
-SignalCommunications (rev18a)-WE-VD_10MM-1.9
-SignalCommunications (rev18a)-WE-VD_10MM-2.2
-SignalCommunications (rev18a)-WE-VD_10MM-2.5
-SignalCommunications (rev18a)-WE-VD_10MM-2.8
-SignalCommunications (rev18a)-WE-VD_10MM-2.9
-SignalCommunications (rev18a)-WE-VD_10MM-3.1
-SignalCommunications (rev18a)-WE-VD_10MM-3.7
-SignalCommunications (rev18a)-WE-VD_10MM-4.0
-SignalCommunications (rev18a)-WE-VD_10MM-4.5
-SignalCommunications (rev18a)-WE-VD_10MM-9.8
-SignalCommunications (rev18a)-WE-VD_10MM-DIA
-SignalCommunications (rev18a)-WE-VD_14MM-0.9
-SignalCommunications (rev18a)-WE-VD_14MM-1.1
-SignalCommunications (rev18a)-WE-VD_14MM-1.3
-SignalCommunications (rev18a)-WE-VD_14MM-1.5
-SignalCommunications (rev18a)-WE-VD_14MM-1.6
-SignalCommunications (rev18a)-WE-VD_14MM-1.9
-SignalCommunications (rev18a)-WE-VD_14MM-2.2
-SignalCommunications (rev18a)-WE-VD_14MM-2.5
-SignalCommunications (rev18a)-WE-VD_14MM-2.8
-SignalCommunications (rev18a)-WE-VD_14MM-2.9
-SignalCommunications (rev18a)-WE-VD_14MM-3.1
-SignalCommunications (rev18a)-WE-VD_14MM-3.6
-SignalCommunications (rev18a)-WE-VD_14MM-4.0
-SignalCommunications (rev18a)-WE-VD_14MM-4.5
-SignalCommunications (rev18a)-WE-VD_14MM-10.2
-SignalCommunications (rev18a)-WE-VD_14MM-DIA
-SignalCommunications (rev18a)-WE-VD_20MM-0.9
-SignalCommunications (rev18a)-WE-VD_20MM-1.1
-SignalCommunications (rev18a)-WE-VD_20MM-1.2
-SignalCommunications (rev18a)-WE-VD_20MM-1.3
-SignalCommunications (rev18a)-WE-VD_20MM-1.5
-SignalCommunications (rev18a)-WE-VD_20MM-1.7
-SignalCommunications (rev18a)-WE-VD_20MM-2.0
-SignalCommunications (rev18a)-WE-VD_20MM-2.3
-SignalCommunications (rev18a)-WE-VD_20MM-2.6
-SignalCommunications (rev18a)-WE-VD_20MM-2.8
-SignalCommunications (rev18a)-WE-VD_20MM-2.9
-SignalCommunications (rev18a)-WE-VD_20MM-3.4
-SignalCommunications (rev18a)-WE-VD_20MM-3.8
-SignalCommunications (rev18a)-WE-VD_20MM-4.3
-SignalCommunications (rev18a)-WE-VD_20MM-4.7
-SignalCommunications (rev18a)-WE-VD_20MM-5.0
-SignalCommunications (rev18a)-WE-VD_20MM-10.4
-SignalCommunications (rev18a)-WE-VD_20MM-DIA
-SignalCommunications (rev18a)-WE-VEA_0508
-SignalCommunications (rev18a)-WE-VEA_0612
-SignalCommunications (rev18a)-WE-VE_FEMTOF_0402
-SignalCommunications (rev18a)-WE-VE_FEMTOF_0603
-SignalCommunications (rev18a)-WE-VE_ULC_0402
-SignalCommunications (rev18a)-WE-VE_ULC_0603
-SignalCommunications (rev18a)-WE-WAFB_7427602
-SignalCommunications (rev18a)-WE-WAFB_7427603
-SignalCommunications (rev18a)-WE-WAFB_7427604
-SignalCommunications (rev18a)-WE-WAFB_7427605
-SignalCommunications (rev18a)-WE-WAFB_7427606
-SignalCommunications (rev18a)-WE-WAFB_74276031
-SignalCommunications (rev18a)-WE-WAFB_74276032
-SignalCommunications (rev18a)-WE-WAFB_74276041
-SignalCommunications (rev18a)-WE-WAFB_74276051
-SignalCommunications (rev18a)-WE-WPCC_2815
-SignalCommunications (rev18a)-WE-WPCC_2929
-SignalCommunications (rev18a)-WE-WPCC_3426
-SignalCommunications (rev18a)-WE-WPCC_3737
-SignalCommunications (rev18a)-WE-WPCC_3830
-SignalCommunications (rev18a)-WE-WPCC_4027
-SignalCommunications (rev18a)-WE-WPCC_4040
-SignalCommunications (rev18a)-WE-WPCC_4444
-SignalCommunications (rev18a)-WE-WPCC_4544
-SignalCommunications (rev18a)-WE-WPCC_4636
-SignalCommunications (rev18a)-WE-WPCC_4832
-SignalCommunications (rev18a)-WE-WPCC_4832_760308103215
-SignalCommunications (rev18a)-WE-WPCC_5030
-SignalCommunications (rev18a)-WE-WPCC_5353_760308141
-SignalCommunications (rev18a)-WE-WPCC_5353_760308102142
-SignalCommunications (rev18a)-WE-WPCC_5353_760308103102
-SignalCommunications (rev18a)-WE-WPCC_5353_DRILL:2MM
-SignalCommunications (rev18a)-WE-WPCC_5353_DRILL:4MM
-SignalCommunications (rev18a)-WE-WPCC_6052
-SignalCommunications (rev18a)-WE-WPCC_13055
-SignalCommunications (rev18a)-WE-WPCC_760308101221
-SignalCommunications (rev18a)-WE-WPCC_760308103148
-SignalCommunications (rev18a)-WE-WPCC_A6
-SignalCommunications (rev18a)-WE-WPCC_A19
-SignalCommunications (rev18a)-WE-WPCC_A28
-SignalCommunications (rev18a)-WE-WPCC_MP_A6
-SignalCommunications (rev18a)-WE-WPCC_MP_A8
-SignalCommunications (rev18a)-WE-WPCC_QI-A29
-SignalCommunications (rev18a)-WE-WPCC_Φ6
-SignalCommunications (rev18a)-WE-WPCC_Φ10
-SignalCommunications (rev18a)-WE-WPCC_Φ15
-SignalCommunications (rev18a)-WE-WPCC_Φ17
-SignalCommunications (rev18a)-WE-WPCC_Φ19
-SignalCommunications (rev18a)-WE-WPCC_Φ20
-SignalCommunications (rev18a)-WE-WPCC_Φ26
-SignalCommunications (rev18a)-WE-WPCC_Φ30
-SignalCommunications (rev18a)-WE-WPCC_Φ48
-SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100110
-SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100111
-SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100141
-SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100143
-SignalCommunications (rev18a)-WE-WPCC_Φ50_760308101302
-SignalCommunications (rev18a)-WE-XHMI_7070
-SignalCommunications (rev18a)-WE-XHMI_7443934XXXX
-SignalCommunications (rev18a)-WE-XHMI_74439358XXX
-SignalCommunications (rev18a)-WE-XHMI_74439369XXX
-SignalCommunications (rev18a)-WE-XHMI_74439370XXX
-SignalCommunications (rev18a)-WESURGE_0201
-SignalCommunications (rev18a)-WESURGE_0402_REFLOW
-SignalCommunications (rev18a)-WESURGE_0402_WAVE
-SignalCommunications (rev18a)-WESURGE_0603_REFLOW
-SignalCommunications (rev18a)-WESURGE_0603_WAVE
-SignalCommunications (rev18a)-WESURGE_0805_REFLOW
-SignalCommunications (rev18a)-WESURGE_0805_WAVE
-SignalCommunications (rev18a)-WESURGE_1206_REFLOW
-SignalCommunications (rev18a)-WESURGE_1206_WAVE
-SignalCommunications (rev18a)-WESURGE_1210_WAVE
-SignalCommunications (rev18a)-WESURGE_1812_WAVE
-SignalCommunications (rev18a)-WESURGE_2220_WAVE
-SignalCommunications (rev18a)-WE_EP5_SMD_6PIN
-SignalCommunications (rev18a)-WE_EP7_SMD_8PIN
-SignalCommunications (rev18a)-WE_EP13_SMD_9PIN
-SignalCommunications (rev18a)-WE_EP13_SMD_12PIN
-SignalCommunications (rev18a)-WE_EPQ13_SMD_10PIN
+SignalCommunications-74990-WITH-LED
+SignalCommunications-74990-WITH-LED-TYPE2
+SignalCommunications-74990-WITHOUT-LED
+SignalCommunications-74990-WITHOUT-LED-(21.84X15.88MM)
+SignalCommunications-74990-WITHOUT-LED-(21.84X16.2MM)
+SignalCommunications-8492121
+SignalCommunications-74901401X
+SignalCommunications-74902001XA
+SignalCommunications-749013011A
+SignalCommunications-749014010
+SignalCommunications-749014011
+SignalCommunications-749014012
+SignalCommunications-749014013
+SignalCommunications-749014018
+SignalCommunications-749020020A
+SignalCommunications-749020022A
+SignalCommunications-749020100
+SignalCommunications-749020100A
+SignalCommunications-749020111A
+SignalCommunications-749022012X
+SignalCommunications-749022015
+SignalCommunications-749023010A
+SignalCommunications-749023015
+SignalCommunications-749023016
+SignalCommunications-749024012
+SignalCommunications-749050010A
+SignalCommunications-749050010U
+SignalCommunications-749801100X
+SignalCommunications-7490100110A_749010012A
+SignalCommunications-7490100111A
+SignalCommunications-7490100161A
+SignalCommunications-7490101120
+SignalCommunications-7490120110
+SignalCommunications-7490140110
+SignalCommunications-7490140112
+SignalCommunications-7490200136
+SignalCommunications-7490220115
+SignalCommunications-7497011611A
+SignalCommunications-7497110616
+SignalCommunications-7497111611A
+SignalCommunications-74980111211
+SignalCommunications-7498011122R
+SignalCommunications-7498011211
+SignalCommunications-7498111001
+SignalCommunications-7498111001A
+SignalCommunications-7498111120R
+SignalCommunications-7498210002
+SignalCommunications-7498210003
+SignalCommunications-7498210220A
+SignalCommunications-7499010003A
+SignalCommunications-7499010004A
+SignalCommunications-74990101210
+SignalCommunications-74990101212
+SignalCommunications-74990101241
+SignalCommunications-7499010126A
+SignalCommunications-7499010441
+SignalCommunications-74990110030
+SignalCommunications-74990111211
+SignalCommunications-74990111215A
+SignalCommunications-74990111217
+SignalCommunications-7499011121A
+SignalCommunications-7499011222A
+SignalCommunications-7499011441A
+SignalCommunications-7499021002A
+SignalCommunications-7499021125-2PORTS-HORIZONTAL
+SignalCommunications-7499031001A
+SignalCommunications-7499031120A-4PORTS-HORIZONTAL
+SignalCommunications-7499051002-1X2-STACKED
+SignalCommunications-7499110120A
+SignalCommunications-7499110122
+SignalCommunications-7499110123
+SignalCommunications-7499110124
+SignalCommunications-7499111000A
+SignalCommunications-7499111001A
+SignalCommunications-7499111121A
+SignalCommunications-7499111221A
+SignalCommunications-7499111446
+SignalCommunications-7499111447
+SignalCommunications-7499111614A
+SignalCommunications-7499151120
+SignalCommunications-7499210001A
+SignalCommunications-7499210121A
+SignalCommunications-7499210123A
+SignalCommunications-7499210124A
+SignalCommunications-7499211002A
+SignalCommunications-7499211121A
+SignalCommunications-7499211122A
+SignalCommunications-7499211123A
+SignalCommunications-7499211125
+SignalCommunications-7499410213
+SignalCommunications-7499410221
+SignalCommunications-7499411122A
+SignalCommunications-7499511002A
+SignalCommunications-7499511440
+SignalCommunications-7499511611A
+SignalCommunications-7499611421
+SignalCommunications-VARTVSP_SMA_DO-214AC
+SignalCommunications-VARTVSP_SMA_DO-214AC_UNI
+SignalCommunications-VARTVSP_SMB_DO-214AA
+SignalCommunications-VARTVSP_SMB_DO-214AA_UNI
+SignalCommunications-VARTVSP_SMC&SMD_DO-214AB
+SignalCommunications-VARTVSP_SMC&SMD_DO-214AB_UNI
+SignalCommunications-WE-3WAY_74273001
+SignalCommunications-WE-4WAY_74273002
+SignalCommunications-WE-4WAY_742730021
+SignalCommunications-WE-4WAY_742730022
+SignalCommunications-WE-4WAY_742730023
+SignalCommunications-WE-4WAY_742730321
+SignalCommunications-WE-ACHC_1010
+SignalCommunications-WE-ACHC_1212
+SignalCommunications-WE-ASI_L
+SignalCommunications-WE-ASI_M
+SignalCommunications-WE-ASI_SENSOR
+SignalCommunications-WE-BAL_0603
+SignalCommunications-WE-BAL_0805
+SignalCommunications-WE-BPF_0805_T1
+SignalCommunications-WE-BPF_1008_T5
+SignalCommunications-WE-BPF_1206_748333024
+SignalCommunications-WE-BPF_1206_T3
+SignalCommunications-WE-CAIR_1322
+SignalCommunications-WE-CAIR_1340
+SignalCommunications-WE-CAIR_3136
+SignalCommunications-WE-CAIR_3168
+SignalCommunications-WE-CAIR_4248
+SignalCommunications-WE-CBA_0402(W=1.5)
+SignalCommunications-WE-CBA_0402(W=2.2)
+SignalCommunications-WE-CBA_0603(W=2.2)
+SignalCommunications-WE-CBA_0603(W=2.6)
+SignalCommunications-WE-CBA_0805(W=3)
+SignalCommunications-WE-CBA_0805(W=4)
+SignalCommunications-WE-CBA_1206(W=4.2)
+SignalCommunications-WE-CBA_1206(W=5.2)
+SignalCommunications-WE-CBA_1806(W=5.5)
+SignalCommunications-WE-CBA_1806(W=6.5)
+SignalCommunications-WE-CBF_0402(W=1.5)
+SignalCommunications-WE-CBF_0402(W=2.2)
+SignalCommunications-WE-CBF_0603(W=2.2)
+SignalCommunications-WE-CBF_0603(W=2.6)
+SignalCommunications-WE-CBF_0805(W=3.0)
+SignalCommunications-WE-CBF_0805(W=4.0)
+SignalCommunications-WE-CBF_1206(W=4.2)
+SignalCommunications-WE-CBF_1206(W=5.2)
+SignalCommunications-WE-CBF_1210(W=4.2)
+SignalCommunications-WE-CBF_1210(W=5.2)
+SignalCommunications-WE-CBF_1806(W=5.5)
+SignalCommunications-WE-CBF_1806(W=6.5)
+SignalCommunications-WE-CBF_1812(W=6.3)
+SignalCommunications-WE-CBF_1812(W=7.3)
+SignalCommunications-WE-CBF_HF_0402(W=1.5)
+SignalCommunications-WE-CBF_HF_0402(W=2.2)
+SignalCommunications-WE-CBF_HF_0603(W=2.2)
+SignalCommunications-WE-CBF_HF_0603(W=2.6)
+SignalCommunications-WE-CFWI_1310
+SignalCommunications-WE-CFWI_1312
+SignalCommunications-WE-CFWI_1813
+SignalCommunications-WE-CHSA_1011
+SignalCommunications-WE-CHSA_1212
+SignalCommunications-WE-CHSA_8090
+SignalCommunications-WE-CMBHV_XL_744830007215
+SignalCommunications-WE-CMBHV_XL_744830010185
+SignalCommunications-WE-CMBHV_XL_744830017132
+SignalCommunications-WE-CMBHV_XL_744830025103
+SignalCommunications-WE-CMBHV_XL_744830039080
+SignalCommunications-WE-CMBHV_XXL_744831010205
+SignalCommunications-WE-CMBHV_XXL_744831016164
+SignalCommunications-WE-CMBHV_XXL_744831020133
+SignalCommunications-WE-CMBHV_XXL_744831034090
+SignalCommunications-WE-CMBHV_XXL_744831047068
+SignalCommunications-WE-CMBH_1.2MM
+SignalCommunications-WE-CMBH_1.5MM
+SignalCommunications-WE-CMBNC_L
+SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448040707
+SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041104
+SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041502
+SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041801
+SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448042001
+SignalCommunications-WE-CMBNC_M
+SignalCommunications-WE-CMBNC_M(WITHOUT-PINS)_7448031002
+SignalCommunications-WE-CMBNC_M(WITHOUT-PINS)_7448031501
+SignalCommunications-WE-CMBNC_XL
+SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448050530
+SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448051012
+SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448051804
+SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448052303
+SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448052502
+SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448053201
+SignalCommunications-WE-CMBNC_XS_744801XXXX
+SignalCommunications-WE-CMBNC_XS_744801XXXX-A
+SignalCommunications-WE-CMBNC_XXL_7448060535
+SignalCommunications-WE-CMBNC_XXL_7448060620
+SignalCommunications-WE-CMBNC_XXL_7448060814
+SignalCommunications-WE-CMBNC_XXL_7448061309
+SignalCommunications-WE-CMBNC_XXL_7448061507
+SignalCommunications-WE-CMBNC_XXL_7448062105
+SignalCommunications-WE-CMBNC_XXL_7448062603
+SignalCommunications-WE-CMBNC_XXL_7448063801
+SignalCommunications-WE-CMB_HC_S
+SignalCommunications-WE-CMB_L
+SignalCommunications-WE-CMB_M_744823210_20
+SignalCommunications-WE-CMB_M_744823305
+SignalCommunications-WE-CMB_M_744823333
+SignalCommunications-WE-CMB_M_744823422
+SignalCommunications-WE-CMB_M_744823601
+SignalCommunications-WE-CMB_NIZN_S
+SignalCommunications-WE-CMB_NIZN_XS
+SignalCommunications-WE-CMB_S
+SignalCommunications-WE-CMB_XL_744825XXX
+SignalCommunications-WE-CMB_XL_7448251201
+SignalCommunications-WE-CMB_XS
+SignalCommunications-WE-CMB_XXL_7448261418
+SignalCommunications-WE-CMB_XXL_7448262013
+SignalCommunications-WE-CMB_XXL_7448262510
+SignalCommunications-WE-CMB_XXL_7448263505
+SignalCommunications-WE-CMS_7427520
+SignalCommunications-WE-CMS_7427521
+SignalCommunications-WE-CNSW_0603
+SignalCommunications-WE-CNSW_0805
+SignalCommunications-WE-CNSW_1206
+SignalCommunications-WE-CNSW_1812
+SignalCommunications-WE-CNSW_HF_0504
+SignalCommunications-WE-CPI_HV_4828
+SignalCommunications-WE-CST
+SignalCommunications-WE-DAA
+SignalCommunications-WE-DAA_750082157
+SignalCommunications-WE-DCT
+SignalCommunications-WE-DD_1210_1260_1280_CROSSED
+SignalCommunications-WE-DD_1260_1280
+SignalCommunications-WE-DD_7332
+SignalCommunications-WE-DD_7345
+SignalCommunications-WE-DPC_4818_4828
+SignalCommunications-WE-DPC_5838
+SignalCommunications-WE-DPC_HV_5030
+SignalCommunications-WE-DS_2101120X3
+SignalCommunications-WE-DS_2106110X3
+SignalCommunications-WE-DS_2106120X3
+SignalCommunications-WE-DS_2121110X3
+SignalCommunications-WE-DS_2121120X3
+SignalCommunications-WE-DS_2126110X3
+SignalCommunications-WE-DS_2126120X3
+SignalCommunications-WE-DS_2141110X3
+SignalCommunications-WE-DS_2141120X3
+SignalCommunications-WE-DS_2146110X3
+SignalCommunications-WE-DS_2146120X3
+SignalCommunications-WE-DS_2161110X3
+SignalCommunications-WE-DS_2161120X3
+SignalCommunications-WE-DS_2166110X3
+SignalCommunications-WE-DS_2166120X3
+SignalCommunications-WE-DS_210111003
+SignalCommunications-WE-DS_210111023
+SignalCommunications-WE-DS_240117113
+SignalCommunications-WE-DS_240617113
+SignalCommunications-WE-DS_242117113
+SignalCommunications-WE-DS_242617113
+SignalCommunications-WE-DS_244117113
+SignalCommunications-WE-DS_244617113
+SignalCommunications-WE-DS_246117113
+SignalCommunications-WE-DS_246617113
+SignalCommunications-WE-EHPI
+SignalCommunications-WE-EP5_6PIN_2
+SignalCommunications-WE-EXB_744844XXX
+SignalCommunications-WE-EXB_744844102
+SignalCommunications-WE-FAMI_1012_744750340047
+SignalCommunications-WE-FAMI_1012_744750340150
+SignalCommunications-WE-FAMI_1215_744750460100
+SignalCommunications-WE-FAMI_1215_744750460150
+SignalCommunications-WE-FAMI_1215_744750460220
+SignalCommunications-WE-FAMI_1280_744750420047
+SignalCommunications-WE-FAMI_1280_744750420068
+SignalCommunications-WE-FAMI_1280_744750420100
+SignalCommunications-WE-FAMI_1280_744750420150
+SignalCommunications-WE-FAMI_1280_744750420220
+SignalCommunications-WE-FAMI_1410_744750530047
+SignalCommunications-WE-FAMI_1410_744750530068
+SignalCommunications-WE-FAMI_1410_744750530100
+SignalCommunications-WE-FAMI_1415_744750560047
+SignalCommunications-WE-FAMI_1415_744750560100
+SignalCommunications-WE-FAMI_1415_744750560220
+SignalCommunications-WE-FAMI_8010_744750230030
+SignalCommunications-WE-FAMI_8010_744750230047
+SignalCommunications-WE-FAMI_8010_744750230068
+SignalCommunications-WE-FAMI_8010_744750230100
+SignalCommunications-WE-FAMI_8010_744750230150
+SignalCommunications-WE-FB3751_EE35_18_10
+SignalCommunications-WE-FB3751_EFD20
+SignalCommunications-WE-FB_EE16_8_5
+SignalCommunications-WE-FB_EE20_10_6
+SignalCommunications-WE-FB_EFD20
+SignalCommunications-WE-FB_EFD25
+SignalCommunications-WE-FB_EP7_DIMENSION1
+SignalCommunications-WE-FB_EP7_DIMENSION2
+SignalCommunications-WE-FB_EP10
+SignalCommunications-WE-FB_EP13_DIMENSION1
+SignalCommunications-WE-FB_EP13_DIMENSION2
+SignalCommunications-WE-FB_ER9.5
+SignalCommunications-WE-FCL_ET35
+SignalCommunications-WE-FC_ET
+SignalCommunications-WE-FC_UT
+SignalCommunications-WE-FI_7447010
+SignalCommunications-WE-FI_7447011
+SignalCommunications-WE-FI_7447012
+SignalCommunications-WE-FI_7447013
+SignalCommunications-WE-FI_7447014
+SignalCommunications-WE-FI_7447015
+SignalCommunications-WE-FI_7447016
+SignalCommunications-WE-FI_7447017
+SignalCommunications-WE-FI_7447018
+SignalCommunications-WE-FI_7447019
+SignalCommunications-WE-FI_7447020
+SignalCommunications-WE-FI_7447021
+SignalCommunications-WE-FI_7447022
+SignalCommunications-WE-FI_7447023
+SignalCommunications-WE-FI_7447024
+SignalCommunications-WE-FI_7447025
+SignalCommunications-WE-FI_7447026
+SignalCommunications-WE-FI_7447027
+SignalCommunications-WE-FI_7447028
+SignalCommunications-WE-FI_7447030
+SignalCommunications-WE-FI_7447031
+SignalCommunications-WE-FI_7447032
+SignalCommunications-WE-FI_7447033
+SignalCommunications-WE-FI_7447034
+SignalCommunications-WE-FI_7447035
+SignalCommunications-WE-FI_7447036
+SignalCommunications-WE-FI_7447037
+SignalCommunications-WE-FI_7447040
+SignalCommunications-WE-FI_7447041
+SignalCommunications-WE-FI_7447042
+SignalCommunications-WE-FI_7447043
+SignalCommunications-WE-FI_7447044
+SignalCommunications-WE-FI_7447045
+SignalCommunications-WE-FI_7447050
+SignalCommunications-WE-FI_7447051
+SignalCommunications-WE-FI_7447052
+SignalCommunications-WE-FI_7447053
+SignalCommunications-WE-FI_7447054
+SignalCommunications-WE-FI_7447055
+SignalCommunications-WE-FI_7447060
+SignalCommunications-WE-FI_7447065
+SignalCommunications-WE-FI_7447070
+SignalCommunications-WE-FI_7447071
+SignalCommunications-WE-FI_7447075
+SignalCommunications-WE-FI_7447076
+SignalCommunications-WE-FI_7447077
+SignalCommunications-WE-FI_7447078
+SignalCommunications-WE-FI_7447079
+SignalCommunications-WE-FI_74470291
+SignalCommunications-WE-FI_74470292
+SignalCommunications-WE-FLEX+_ETD29
+SignalCommunications-WE-FLEX+_ETD34
+SignalCommunications-WE-FLEX+_ETD39
+SignalCommunications-WE-FLEXHV_EFD15
+SignalCommunications-WE-FLEXHV_EFD20
+SignalCommunications-WE-FLEXHV_ER11_5
+SignalCommunications-WE-FLEXHV_ER14.5_6
+SignalCommunications-WE-FLEX_EFD15
+SignalCommunications-WE-FLEX_EFD20
+SignalCommunications-WE-FLEX_ER11_5
+SignalCommunications-WE-FLEX_ER14.5_6
+SignalCommunications-WE-GDTI_EP7
+SignalCommunications-WE-GFH_2520
+SignalCommunications-WE-GFH_3225
+SignalCommunications-WE-GFH_4532
+SignalCommunications-WE-GF_1210
+SignalCommunications-WE-GF_1812
+SignalCommunications-WE-HCC_1090
+SignalCommunications-WE-HCC_1210
+SignalCommunications-WE-HCC_8070
+SignalCommunications-WE-HCF_2013
+SignalCommunications-WE-HCF_2815
+SignalCommunications-WE-HCF_2818
+SignalCommunications-WE-HCF_LITZ
+SignalCommunications-WE-HCF_ROUND
+SignalCommunications-WE-HCI_1030
+SignalCommunications-WE-HCI_1040
+SignalCommunications-WE-HCI_1050
+SignalCommunications-WE-HCI_1335
+SignalCommunications-WE-HCI_1350_1365
+SignalCommunications-WE-HCI_1890
+SignalCommunications-WE-HCI_2212
+SignalCommunications-WE-HCI_5040
+SignalCommunications-WE-HCI_7030_7040_7050
+SignalCommunications-WE-HCM_1050
+SignalCommunications-WE-HCM_1052
+SignalCommunications-WE-HCM_1070
+SignalCommunications-WE-HCM_1078
+SignalCommunications-WE-HCM_1088
+SignalCommunications-WE-HCM_1190
+SignalCommunications-WE-HCM_1240
+SignalCommunications-WE-HCM_1350
+SignalCommunications-WE-HCM_1390
+SignalCommunications-WE-HCM_7050
+SignalCommunications-WE-HCM_7070
+SignalCommunications-WE-ISDN
+SignalCommunications-WE-KIHC_0402
+SignalCommunications-WE-KIHC_0603
+SignalCommunications-WE-KI_0402A
+SignalCommunications-WE-KI_0603A
+SignalCommunications-WE-KI_0603C
+SignalCommunications-WE-KI_0805A
+SignalCommunications-WE-KI_0805C
+SignalCommunications-WE-KI_1008A
+SignalCommunications-WE-LAN10G1.27MM
+SignalCommunications-WE-LAN10G:0.99MM
+SignalCommunications-WE-LANAQ_749020310
+SignalCommunications-WE-LAN_AQ_749010310
+SignalCommunications-WE-LF_612_SV
+SignalCommunications-WE-LF_622_MV
+SignalCommunications-WE-LF_632_LV
+SignalCommunications-WE-LF_642_XV
+SignalCommunications-WE-LF_662_SH
+SignalCommunications-WE-LF_672_MH
+SignalCommunications-WE-LF_682_LH
+SignalCommunications-WE-LF_692_XH
+SignalCommunications-WE-LF_SMD
+SignalCommunications-WE-LHMI_1040
+SignalCommunications-WE-LHMI_1335
+SignalCommunications-WE-LHMI_1365
+SignalCommunications-WE-LHMI_4012
+SignalCommunications-WE-LHMI_4020
+SignalCommunications-WE-LHMI_5020
+SignalCommunications-WE-LHMI_5030
+SignalCommunications-WE-LHMI_7030_7050
+SignalCommunications-WE-LHMI_8030
+SignalCommunications-WE-LHMI_8040
+SignalCommunications-WE-LHMI_8040_3.7
+SignalCommunications-WE-LLCR_ETD34
+SignalCommunications-WE-LLCR_ETD39
+SignalCommunications-WE-LLCR_ETD44
+SignalCommunications-WE-LPCC_7448680100
+SignalCommunications-WE-LPCC_7448680120
+SignalCommunications-WE-LPCC_7448680140
+SignalCommunications-WE-LPCC_7448680180
+SignalCommunications-WE-LPCC_7448680200
+SignalCommunications-WE-LPF_0603
+SignalCommunications-WE-LPF_0805
+SignalCommunications-WE-LQFS_48X8
+SignalCommunications-WE-LQFS_3818
+SignalCommunications-WE-LQSH_2010
+SignalCommunications-WE-LQSH_2512
+SignalCommunications-WE-LQSH_3012
+SignalCommunications-WE-LQSH_4020
+SignalCommunications-WE-LQS_2010
+SignalCommunications-WE-LQS_2512
+SignalCommunications-WE-LQS_3012
+SignalCommunications-WE-LQS_3015
+SignalCommunications-WE-LQS_4012
+SignalCommunications-WE-LQS_4018
+SignalCommunications-WE-LQS_4025
+SignalCommunications-WE-LQS_5020
+SignalCommunications-WE-LQS_5040
+SignalCommunications-WE-LQS_6028
+SignalCommunications-WE-LQS_6045
+SignalCommunications-WE-LQS_8040
+SignalCommunications-WE-LQS_8065
+SignalCommunications-WE-LQ_L
+SignalCommunications-WE-LQ_M
+SignalCommunications-WE-MAIA_2506
+SignalCommunications-WE-MAIA_2508
+SignalCommunications-WE-MAIA_2510
+SignalCommunications-WE-MAIA_2512
+SignalCommunications-WE-MAIA_3010
+SignalCommunications-WE-MAIA_3012
+SignalCommunications-WE-MAIA_3015
+SignalCommunications-WE-MAIA_3020
+SignalCommunications-WE-MAIA_4020
+SignalCommunications-WE-MAIA_4030
+SignalCommunications-WE-MAPI_20XX
+SignalCommunications-WE-MAPI_25XX
+SignalCommunications-WE-MAPI_30XX
+SignalCommunications-WE-MAPI_40XX
+SignalCommunications-WE-MAPI_1610
+SignalCommunications-WE-MAPI_2010
+SignalCommunications-WE-MAPI_2506
+SignalCommunications-WE-MAPI_2508
+SignalCommunications-WE-MAPI_2510_2512
+SignalCommunications-WE-MAPI_3010
+SignalCommunications-WE-MAPI_3012_STANDER
+SignalCommunications-WE-MAPI_3015_3020
+SignalCommunications-WE-MCA_7488105XX_7488940245
+SignalCommunications-WE-MCA_7488910043
+SignalCommunications-WE-MCA_7488910092
+SignalCommunications-WE-MCA_7488910245
+SignalCommunications-WE-MCA_7488912455
+SignalCommunications-WE-MCA_7488920245
+SignalCommunications-WE-MCA_7488930245
+SignalCommunications-WE-MCRI_1090
+SignalCommunications-WE-MI_0603
+SignalCommunications-WE-MI_0805
+SignalCommunications-WE-MI_1206
+SignalCommunications-WE-MK_0201
+SignalCommunications-WE-MK_0402
+SignalCommunications-WE-MK_0603
+SignalCommunications-WE-MPSB_0603(W=2.6)
+SignalCommunications-WE-MPSB_0805(W=4.0)
+SignalCommunications-WE-MPSB_1206(W=5.2)
+SignalCommunications-WE-MPSB_1612
+SignalCommunications-WE-MPSB_1812
+SignalCommunications-WE-MPSB_2220
+SignalCommunications-WE-MPSB_3312
+SignalCommunications-WE-MTCI_5030
+SignalCommunications-WE-PBF_7427930
+SignalCommunications-WE-PBF_7427931
+SignalCommunications-WE-PBF_7427932
+SignalCommunications-WE-PD2A_1054
+SignalCommunications-WE-PD2A_4532
+SignalCommunications-WE-PD2A_5848
+SignalCommunications-WE-PD2A_7850
+SignalCommunications-WE-PD2SA_7850
+SignalCommunications-WE-PD2SR_7850
+SignalCommunications-WE-PD2_1054
+SignalCommunications-WE-PD2_3521
+SignalCommunications-WE-PD2_4532
+SignalCommunications-WE-PD2_5848_5820
+SignalCommunications-WE-PD2_7850
+SignalCommunications-WE-PD2_HV_1060
+SignalCommunications-WE-PD3_L
+SignalCommunications-WE-PD3_M
+SignalCommunications-WE-PD3_S
+SignalCommunications-WE-PD3_X
+SignalCommunications-WE-PD4_XL
+SignalCommunications-WE-PDA_1210
+SignalCommunications-WE-PDA_1260
+SignalCommunications-WE-PDA_1280
+SignalCommunications-WE-PDA_7332
+SignalCommunications-WE-PDA_7345
+SignalCommunications-WE-PDF
+SignalCommunications-WE-PD_1030_1050
+SignalCommunications-WE-PD_1260_1245_1280_1210
+SignalCommunications-WE-PD_6033_6050_PLASTIC_BASE
+SignalCommunications-WE-PD_7332_7345
+SignalCommunications-WE-PD_7332_7345_PLASTIC_BASE
+SignalCommunications-WE-PD_7332_CLIP
+SignalCommunications-WE-PD_HV_1060
+SignalCommunications-WE-PFC_EE20_10_6
+SignalCommunications-WE-PFC_EER28
+SignalCommunications-WE-PFC_EFD25
+SignalCommunications-WE-PFC_EFD30
+SignalCommunications-WE-PFC_PQ38_11
+SignalCommunications-WE-PFC_RM10
+SignalCommunications-WE-PFC_RM12
+SignalCommunications-WE-PFC_RM14
+SignalCommunications-WE-PF_7427929XXX
+SignalCommunications-WE-PMCI_0603_74479262XXX
+SignalCommunications-WE-PMCI_0805_74479275XXX
+SignalCommunications-WE-PMCI_0806_74479276XXX
+SignalCommunications-WE-PMCI_0806_74479276XXXC
+SignalCommunications-WE-PMCI_1008_74479287XXX
+SignalCommunications-WE-PMCI_1008_74479288XXX
+SignalCommunications-WE-PMCI_1210_74479298XXX
+SignalCommunications-WE-PMCI_1210_74479299XXX
+SignalCommunications-WE-PMI_0603
+SignalCommunications-WE-PMI_0805
+SignalCommunications-WE-PMI_0806
+SignalCommunications-WE-PMI_1008
+SignalCommunications-WE-PMI_1210
+SignalCommunications-WE-PMMI_0805
+SignalCommunications-WE-PMMI_0806
+SignalCommunications-WE-POE+_EFD20
+SignalCommunications-WE-POE+_EP13
+SignalCommunications-WE-POE_EFD15
+SignalCommunications-WE-POE_EP10
+SignalCommunications-WE-POE_EP13
+SignalCommunications-WE-POE_ER11_5
+SignalCommunications-WE-POE_ER14.5_6
+SignalCommunications-WE-PP_750031160
+SignalCommunications-WE-RFH
+SignalCommunications-WE-RFI_0805A
+SignalCommunications-WE-RFI_1008A
+SignalCommunications-WE-SCC_1260_1210
+SignalCommunications-WE-SCC_7345
+SignalCommunications-WE-SD_744710203
+SignalCommunications-WE-SD_744710205
+SignalCommunications-WE-SD_744710210
+SignalCommunications-WE-SD_744710215
+SignalCommunications-WE-SD_744710603
+SignalCommunications-WE-SD_744710605
+SignalCommunications-WE-SD_744710610
+SignalCommunications-WE-SD_744710615
+SignalCommunications-WE-SD_744711003
+SignalCommunications-WE-SD_744711005
+SignalCommunications-WE-SD_744711010
+SignalCommunications-WE-SD_744711015
+SignalCommunications-WE-SECF-0557
+SignalCommunications-WE-SECF-1562
+SignalCommunications-WE-SECF_0135
+SignalCommunications-WE-SECF_0148
+SignalCommunications-WE-SECF_0315
+SignalCommunications-WE-SECF_0320
+SignalCommunications-WE-SECF_0453
+SignalCommunications-WE-SECF_0610
+SignalCommunications-WE-SECF_0825
+SignalCommunications-WE-SECF_1440
+SignalCommunications-WE-SECF_1613
+SignalCommunications-WE-SECF_1670
+SignalCommunications-WE-SECF_1730
+SignalCommunications-WE-SECF_1735
+SignalCommunications-WE-SECF_2140
+SignalCommunications-WE-SECF_2240
+SignalCommunications-WE-SECF_2353
+SignalCommunications-WE-SECF_2640
+SignalCommunications-WE-SHC_36103166S
+SignalCommunications-WE-SHC_36103205
+SignalCommunications-WE-SHC_36103205S
+SignalCommunications-WE-SHC_36103255
+SignalCommunications-WE-SHC_36103255S
+SignalCommunications-WE-SHC_36103305
+SignalCommunications-WE-SHC_36103305S
+SignalCommunications-WE-SHC_36103505
+SignalCommunications-WE-SHC_36103505S
+SignalCommunications-WE-SHC_36103605
+SignalCommunications-WE-SHC_36103605S
+SignalCommunications-WE-SHC_36105266S
+SignalCommunications-WE-SHC_36105366S
+SignalCommunications-WE-SHC_36106326S
+SignalCommunications-WE-SHC_36107406S
+SignalCommunications-WE-SHC_36503205
+SignalCommunications-WE-SHC_36503205S
+SignalCommunications-WE-SHC_36503255
+SignalCommunications-WE-SHC_36503255S
+SignalCommunications-WE-SHC_36503305
+SignalCommunications-WE-SHC_36503505
+SignalCommunications-WE-SHC_36503505S
+SignalCommunications-WE-SHC_36503605
+SignalCommunications-WE-SHC_36503605S
+SignalCommunications-WE-SHC_36903205S
+SignalCommunications-WE-SHC_36903255S
+SignalCommunications-WE-SHC_36903305S
+SignalCommunications-WE-SHC_36905266S
+SignalCommunications-WE-SHC_36906326S
+SignalCommunications-WE-SHC_36907406S
+SignalCommunications-WE-SHC_369010302X
+SignalCommunications-WE-SHC_3610213126S
+SignalCommunications-WE-SHC_3610536336S
+SignalCommunications-WE-SHC_3610637256S
+SignalCommunications-WE-SHC_S11100108
+SignalCommunications-WE-SI_744101
+SignalCommunications-WE-SI_744102
+SignalCommunications-WE-SI_744103
+SignalCommunications-WE-SI_744104
+SignalCommunications-WE-SI_744105
+SignalCommunications-WE-SI_744106
+SignalCommunications-WE-SI_744107
+SignalCommunications-WE-SI_744111
+SignalCommunications-WE-SI_744112
+SignalCommunications-WE-SI_744113
+SignalCommunications-WE-SI_744114
+SignalCommunications-WE-SI_744115
+SignalCommunications-WE-SI_744116
+SignalCommunications-WE-SI_744117
+SignalCommunications-WE-SI_744118
+SignalCommunications-WE-SI_744119
+SignalCommunications-WE-SI_744131
+SignalCommunications-WE-SI_744132
+SignalCommunications-WE-SI_744133
+SignalCommunications-WE-SI_744134
+SignalCommunications-WE-SI_744135
+SignalCommunications-WE-SI_744136
+SignalCommunications-WE-SI_744137
+SignalCommunications-WE-SI_744138
+SignalCommunications-WE-SI_744139
+SignalCommunications-WE-SI_744150
+SignalCommunications-WE-SI_744151
+SignalCommunications-WE-SI_744152
+SignalCommunications-WE-SI_744153
+SignalCommunications-WE-SI_744154
+SignalCommunications-WE-SI_744155
+SignalCommunications-WE-SI_744156
+SignalCommunications-WE-SI_7441110
+SignalCommunications-WE-SI_7441501
+SignalCommunications-WE-SL1
+SignalCommunications-WE-SL2
+SignalCommunications-WE-SL3_744252XXX
+SignalCommunications-WE-SL3_744253XXX
+SignalCommunications-WE-SL3_HV
+SignalCommunications-WE-SL5
+SignalCommunications-WE-SL5_HC
+SignalCommunications-WE-SLM
+SignalCommunications-WE-SL_2WINDING
+SignalCommunications-WE-SL_4WINDING
+SignalCommunications-WE-SPC_48XX
+SignalCommunications-WE-SUKW_7427511
+SignalCommunications-WE-SUKW_7427512
+SignalCommunications-WE-TCI_0201
+SignalCommunications-WE-TCI_0402
+SignalCommunications-WE-TDC_80XX
+SignalCommunications-WE-TDC_HV_80XX
+SignalCommunications-WE-TFC
+SignalCommunications-WE-TFCH
+SignalCommunications-WE-TI_TIHV_8095_SHRINKING
+SignalCommunications-WE-TI_TIHV_SHRINK_8055
+SignalCommunications-WE-TIF
+SignalCommunications-WE-TIF_1016
+SignalCommunications-WE-TIS_1111
+SignalCommunications-WE-TIS_8075
+SignalCommunications-WE-TI_1014
+SignalCommunications-WE-TI_1020
+SignalCommunications-WE-TI_5075
+SignalCommunications-WE-TI_6065
+SignalCommunications-WE-TI_8012
+SignalCommunications-WE-TI_8012B
+SignalCommunications-WE-TI_8075
+SignalCommunications-WE-TI_8075_SHRINKTUBE
+SignalCommunications-WE-TI_TIHV_8095
+SignalCommunications-WE-TMSB_0201
+SignalCommunications-WE-TPBHV_Φ1.3
+SignalCommunications-WE-TPBHV_Φ1.6
+SignalCommunications-WE-TPBHV_Φ2.0
+SignalCommunications-WE-TPBHV_Φ2.4
+SignalCommunications-WE-TPBHV_Φ2.6
+SignalCommunications-WE-TPBHV_Φ4.0
+SignalCommunications-WE-TPBHV_Φ4.2
+SignalCommunications-WE-TPBHV_Φ4.5
+SignalCommunications-WE-TPBHV_Φ5.5
+SignalCommunications-WE-TPC_1028_1038
+SignalCommunications-WE-TPC_2811_2813_OLD
+SignalCommunications-WE-TPC_2828_OLD
+SignalCommunications-WE-TPC_3510
+SignalCommunications-WE-TPC_3816
+SignalCommunications-WE-TPC_4818_4828
+SignalCommunications-WE-TPC_5818_5828
+SignalCommunications-WE-TPC_6823
+SignalCommunications-WE-TPC_8015_8012
+SignalCommunications-WE-TPC_8020_8043
+SignalCommunications-WE-TVS_DFN1210_6L
+SignalCommunications-WE-TVS_DFN1610-2L
+SignalCommunications-WE-TVS_DFN3810_9L
+SignalCommunications-WE-TVS_MSOP-8L
+SignalCommunications-WE-TVS_MSOP-10L
+SignalCommunications-WE-TVS_SC70-5L
+SignalCommunications-WE-TVS_SC70-6L
+SignalCommunications-WE-TVS_SOT23-3L
+SignalCommunications-WE-TVS_SOT23-5L
+SignalCommunications-WE-TVS_SOT23-6L
+SignalCommunications-WE-TVS_SOT143-4L
+SignalCommunications-WE-TVS_SOT563
+SignalCommunications-WE-UCF
+SignalCommunications-WE-UKW_7427501
+SignalCommunications-WE-UKW_7427502
+SignalCommunications-WE-UKW_7427503
+SignalCommunications-WE-UKW_7427504
+SignalCommunications-WE-UKW_74275010
+SignalCommunications-WE-UKW_74275011
+SignalCommunications-WE-UKW_74275013
+SignalCommunications-WE-UKW_74275022
+SignalCommunications-WE-UKW_74275023
+SignalCommunications-WE-UKW_74275043
+SignalCommunications-WE-UKW_74275046
+SignalCommunications-WE-UKW_74275143
+SignalCommunications-WE-UKW_74275223
+SignalCommunications-WE-UKW_74275243
+SignalCommunications-WE-UKW_742750421
+SignalCommunications-WE-UNIT_750370024
+SignalCommunications-WE-UNIT_750370026
+SignalCommunications-WE-UNIT_750871111
+SignalCommunications-WE-UNIT_760871131
+SignalCommunications-WE-UNIT_E13_7_4_HORIZONTAL
+SignalCommunications-WE-UNIT_E13_7_4_VERTICAL
+SignalCommunications-WE-UNIT_E16_7_4
+SignalCommunications-WE-UNIT_E16_8_5
+SignalCommunications-WE-UOST
+SignalCommunications-WE-VD_5MM-1.0
+SignalCommunications-WE-VD_5MM-1.1
+SignalCommunications-WE-VD_5MM-1.3
+SignalCommunications-WE-VD_5MM-1.5
+SignalCommunications-WE-VD_5MM-1.7
+SignalCommunications-WE-VD_5MM-1.8
+SignalCommunications-WE-VD_5MM-2.1
+SignalCommunications-WE-VD_5MM-2.4
+SignalCommunications-WE-VD_5MM-2.7
+SignalCommunications-WE-VD_5MM-3.0
+SignalCommunications-WE-VD_5MM-DIA
+SignalCommunications-WE-VD_7MM-1.0
+SignalCommunications-WE-VD_7MM-1.1
+SignalCommunications-WE-VD_7MM-1.3
+SignalCommunications-WE-VD_7MM-1.4
+SignalCommunications-WE-VD_7MM-1.5
+SignalCommunications-WE-VD_7MM-1.7
+SignalCommunications-WE-VD_7MM-1.8
+SignalCommunications-WE-VD_7MM-2.1
+SignalCommunications-WE-VD_7MM-2.4
+SignalCommunications-WE-VD_7MM-2.7
+SignalCommunications-WE-VD_7MM-3.0
+SignalCommunications-WE-VD_7MM-3.1
+SignalCommunications-WE-VD_7MM-3.3
+SignalCommunications-WE-VD_7MM-DIA
+SignalCommunications-WE-VD_10MM-0.9
+SignalCommunications-WE-VD_10MM-1.1
+SignalCommunications-WE-VD_10MM-1.3
+SignalCommunications-WE-VD_10MM-1.5
+SignalCommunications-WE-VD_10MM-1.6
+SignalCommunications-WE-VD_10MM-1.9
+SignalCommunications-WE-VD_10MM-2.2
+SignalCommunications-WE-VD_10MM-2.5
+SignalCommunications-WE-VD_10MM-2.8
+SignalCommunications-WE-VD_10MM-2.9
+SignalCommunications-WE-VD_10MM-3.1
+SignalCommunications-WE-VD_10MM-3.7
+SignalCommunications-WE-VD_10MM-4.0
+SignalCommunications-WE-VD_10MM-4.5
+SignalCommunications-WE-VD_10MM-9.8
+SignalCommunications-WE-VD_10MM-DIA
+SignalCommunications-WE-VD_14MM-0.9
+SignalCommunications-WE-VD_14MM-1.1
+SignalCommunications-WE-VD_14MM-1.3
+SignalCommunications-WE-VD_14MM-1.5
+SignalCommunications-WE-VD_14MM-1.6
+SignalCommunications-WE-VD_14MM-1.9
+SignalCommunications-WE-VD_14MM-2.2
+SignalCommunications-WE-VD_14MM-2.5
+SignalCommunications-WE-VD_14MM-2.8
+SignalCommunications-WE-VD_14MM-2.9
+SignalCommunications-WE-VD_14MM-3.1
+SignalCommunications-WE-VD_14MM-3.6
+SignalCommunications-WE-VD_14MM-4.0
+SignalCommunications-WE-VD_14MM-4.5
+SignalCommunications-WE-VD_14MM-10.2
+SignalCommunications-WE-VD_14MM-DIA
+SignalCommunications-WE-VD_20MM-0.9
+SignalCommunications-WE-VD_20MM-1.1
+SignalCommunications-WE-VD_20MM-1.2
+SignalCommunications-WE-VD_20MM-1.3
+SignalCommunications-WE-VD_20MM-1.5
+SignalCommunications-WE-VD_20MM-1.7
+SignalCommunications-WE-VD_20MM-2.0
+SignalCommunications-WE-VD_20MM-2.3
+SignalCommunications-WE-VD_20MM-2.6
+SignalCommunications-WE-VD_20MM-2.8
+SignalCommunications-WE-VD_20MM-2.9
+SignalCommunications-WE-VD_20MM-3.4
+SignalCommunications-WE-VD_20MM-3.8
+SignalCommunications-WE-VD_20MM-4.3
+SignalCommunications-WE-VD_20MM-4.7
+SignalCommunications-WE-VD_20MM-5.0
+SignalCommunications-WE-VD_20MM-10.4
+SignalCommunications-WE-VD_20MM-DIA
+SignalCommunications-WE-VEA_0508
+SignalCommunications-WE-VEA_0612
+SignalCommunications-WE-VE_FEMTOF_0402
+SignalCommunications-WE-VE_FEMTOF_0603
+SignalCommunications-WE-VE_ULC_0402
+SignalCommunications-WE-VE_ULC_0603
+SignalCommunications-WE-WAFB_7427602
+SignalCommunications-WE-WAFB_7427603
+SignalCommunications-WE-WAFB_7427604
+SignalCommunications-WE-WAFB_7427605
+SignalCommunications-WE-WAFB_7427606
+SignalCommunications-WE-WAFB_74276031
+SignalCommunications-WE-WAFB_74276032
+SignalCommunications-WE-WAFB_74276041
+SignalCommunications-WE-WAFB_74276051
+SignalCommunications-WE-WPCC_2815
+SignalCommunications-WE-WPCC_2929
+SignalCommunications-WE-WPCC_3426
+SignalCommunications-WE-WPCC_3737
+SignalCommunications-WE-WPCC_3830
+SignalCommunications-WE-WPCC_4027
+SignalCommunications-WE-WPCC_4040
+SignalCommunications-WE-WPCC_4444
+SignalCommunications-WE-WPCC_4544
+SignalCommunications-WE-WPCC_4636
+SignalCommunications-WE-WPCC_4832
+SignalCommunications-WE-WPCC_4832_760308103215
+SignalCommunications-WE-WPCC_5030
+SignalCommunications-WE-WPCC_5353_760308141
+SignalCommunications-WE-WPCC_5353_760308102142
+SignalCommunications-WE-WPCC_5353_760308103102
+SignalCommunications-WE-WPCC_5353_DRILL:2MM
+SignalCommunications-WE-WPCC_5353_DRILL:4MM
+SignalCommunications-WE-WPCC_6052
+SignalCommunications-WE-WPCC_13055
+SignalCommunications-WE-WPCC_760308101221
+SignalCommunications-WE-WPCC_760308103148
+SignalCommunications-WE-WPCC_A6
+SignalCommunications-WE-WPCC_A19
+SignalCommunications-WE-WPCC_A28
+SignalCommunications-WE-WPCC_MP_A6
+SignalCommunications-WE-WPCC_MP_A8
+SignalCommunications-WE-WPCC_QI-A29
+SignalCommunications-WE-WPCC_Φ6
+SignalCommunications-WE-WPCC_Φ10
+SignalCommunications-WE-WPCC_Φ15
+SignalCommunications-WE-WPCC_Φ17
+SignalCommunications-WE-WPCC_Φ19
+SignalCommunications-WE-WPCC_Φ20
+SignalCommunications-WE-WPCC_Φ26
+SignalCommunications-WE-WPCC_Φ30
+SignalCommunications-WE-WPCC_Φ48
+SignalCommunications-WE-WPCC_Φ50_760308100110
+SignalCommunications-WE-WPCC_Φ50_760308100111
+SignalCommunications-WE-WPCC_Φ50_760308100141
+SignalCommunications-WE-WPCC_Φ50_760308100143
+SignalCommunications-WE-WPCC_Φ50_760308101302
+SignalCommunications-WE-XHMI_7070
+SignalCommunications-WE-XHMI_7443934XXXX
+SignalCommunications-WE-XHMI_74439358XXX
+SignalCommunications-WE-XHMI_74439369XXX
+SignalCommunications-WE-XHMI_74439370XXX
+SignalCommunications-WESURGE_0201
+SignalCommunications-WESURGE_0402_REFLOW
+SignalCommunications-WESURGE_0402_WAVE
+SignalCommunications-WESURGE_0603_REFLOW
+SignalCommunications-WESURGE_0603_WAVE
+SignalCommunications-WESURGE_0805_REFLOW
+SignalCommunications-WESURGE_0805_WAVE
+SignalCommunications-WESURGE_1206_REFLOW
+SignalCommunications-WESURGE_1206_WAVE
+SignalCommunications-WESURGE_1210_WAVE
+SignalCommunications-WESURGE_1812_WAVE
+SignalCommunications-WESURGE_2220_WAVE
+SignalCommunications-WE_EP5_SMD_6PIN
+SignalCommunications-WE_EP7_SMD_8PIN
+SignalCommunications-WE_EP13_SMD_9PIN
+SignalCommunications-WE_EP13_SMD_12PIN
+SignalCommunications-WE_EPQ13_SMD_10PIN
 $EndINDEX
-$MODULE SignalCommunications (rev18a)-74990-WITH-LED
+$MODULE SignalCommunications-74990-WITH-LED
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990-WITH-LED
+Li SignalCommunications-74990-WITH-LED
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -1082,9 +1082,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 74990-WITH-LED
-$MODULE SignalCommunications (rev18a)-74990-WITH-LED-TYPE2
+$MODULE SignalCommunications-74990-WITH-LED-TYPE2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990-WITH-LED-TYPE2
+Li SignalCommunications-74990-WITH-LED-TYPE2
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -1233,9 +1233,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 74990-WITH-LED-TYPE2
-$MODULE SignalCommunications (rev18a)-74990-WITHOUT-LED
+$MODULE SignalCommunications-74990-WITHOUT-LED
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990-WITHOUT-LED
+Li SignalCommunications-74990-WITHOUT-LED
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -1352,9 +1352,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 74990-WITHOUT-LED
-$MODULE SignalCommunications (rev18a)-74990-WITHOUT-LED-(21.84X15.88MM)
+$MODULE SignalCommunications-74990-WITHOUT-LED-(21.84X15.88MM)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990-WITHOUT-LED-(21.84X15.88MM)
+Li SignalCommunications-74990-WITHOUT-LED-(21.84X15.88MM)
 Cd MAX HEIGHT=13.95MM
 Kw MAX HEIGHT=13.95MM
 Sc 00000000
@@ -1471,9 +1471,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 74990-WITHOUT-LED-(21.84X15.88MM)
-$MODULE SignalCommunications (rev18a)-74990-WITHOUT-LED-(21.84X16.2MM)
+$MODULE SignalCommunications-74990-WITHOUT-LED-(21.84X16.2MM)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990-WITHOUT-LED-(21.84X16.2MM)
+Li SignalCommunications-74990-WITHOUT-LED-(21.84X16.2MM)
 Cd MAX HEIGHT=13.74MM
 Kw MAX HEIGHT=13.74MM
 Sc 00000000
@@ -1590,9 +1590,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 74990-WITHOUT-LED-(21.84X16.2MM)
-$MODULE SignalCommunications (rev18a)-8492121
+$MODULE SignalCommunications-8492121
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-8492121
+Li SignalCommunications-8492121
 Cd 
 Kw 
 Sc 00000000
@@ -1661,9 +1661,9 @@ Ne 0 ""
 Po 2586 0 
 $EndPAD
 $EndMODULE 8492121
-$MODULE SignalCommunications (rev18a)-74901401X
+$MODULE SignalCommunications-74901401X
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74901401X
+Li SignalCommunications-74901401X
 Cd MAX HEIGHT=10.85 MM
 Kw MAX HEIGHT=10.85 MM
 Sc 00000000
@@ -1842,9 +1842,9 @@ Ne 0 ""
 Po 3194 -3500 
 $EndPAD
 $EndMODULE 74901401X
-$MODULE SignalCommunications (rev18a)-74902001XA
+$MODULE SignalCommunications-74902001XA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74902001XA
+Li SignalCommunications-74902001XA
 Cd 
 Kw 
 Sc 00000000
@@ -2053,9 +2053,9 @@ Ne 0 ""
 Po 2874 -2750 
 $EndPAD
 $EndMODULE 74902001XA
-$MODULE SignalCommunications (rev18a)-749013011A
+$MODULE SignalCommunications-749013011A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749013011A
+Li SignalCommunications-749013011A
 Cd 
 Kw 
 Sc 00000000
@@ -2207,9 +2207,9 @@ Ne 0 ""
 Po 1732 -1750 
 $EndPAD
 $EndMODULE 749013011A
-$MODULE SignalCommunications (rev18a)-749014010
+$MODULE SignalCommunications-749014010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749014010
+Li SignalCommunications-749014010
 Cd MAX HEIGHT=8.40 MM
 Kw MAX HEIGHT=8.40 MM
 Sc 00000000
@@ -2358,9 +2358,9 @@ Ne 0 ""
 Po 2730 -2500 
 $EndPAD
 $EndMODULE 749014010
-$MODULE SignalCommunications (rev18a)-749014011
+$MODULE SignalCommunications-749014011
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749014011
+Li SignalCommunications-749014011
 Cd 
 Kw 
 Sc 00000000
@@ -2503,9 +2503,9 @@ Ne 0 ""
 Po 3196 -3500 
 $EndPAD
 $EndMODULE 749014011
-$MODULE SignalCommunications (rev18a)-749014012
+$MODULE SignalCommunications-749014012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749014012
+Li SignalCommunications-749014012
 Cd 
 Kw 
 Sc 00000000
@@ -2648,9 +2648,9 @@ Ne 0 ""
 Po 3196 -3500 
 $EndPAD
 $EndMODULE 749014012
-$MODULE SignalCommunications (rev18a)-749014013
+$MODULE SignalCommunications-749014013
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749014013
+Li SignalCommunications-749014013
 Cd 
 Kw 
 Sc 00000000
@@ -2793,9 +2793,9 @@ Ne 0 ""
 Po 3196 -3500 
 $EndPAD
 $EndMODULE 749014013
-$MODULE SignalCommunications (rev18a)-749014018
+$MODULE SignalCommunications-749014018
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749014018
+Li SignalCommunications-749014018
 Cd 
 Kw 
 Sc 00000000
@@ -2930,9 +2930,9 @@ Ne 0 ""
 Po 2730 -2500 
 $EndPAD
 $EndMODULE 749014018
-$MODULE SignalCommunications (rev18a)-749020020A
+$MODULE SignalCommunications-749020020A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749020020A
+Li SignalCommunications-749020020A
 Cd MAX HEIGHT = 7.70MM
 Kw MAX HEIGHT = 7.70MM
 Sc 00000000
@@ -3322,9 +3322,9 @@ Ne 0 ""
 Po 2787 -4618 
 $EndPAD
 $EndMODULE 749020020A
-$MODULE SignalCommunications (rev18a)-749020022A
+$MODULE SignalCommunications-749020022A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749020022A
+Li SignalCommunications-749020022A
 Cd 
 Kw 
 Sc 00000000
@@ -3711,9 +3711,9 @@ Ne 0 ""
 Po 1899 -4818 
 $EndPAD
 $EndMODULE 749020022A
-$MODULE SignalCommunications (rev18a)-749020100
+$MODULE SignalCommunications-749020100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749020100
+Li SignalCommunications-749020100
 Cd MAX HEIGHT = 2.16MM
 Kw MAX HEIGHT = 2.16MM
 Sc 00000000
@@ -3849,9 +3849,9 @@ Ne 0 ""
 Po 1698 -1750 
 $EndPAD
 $EndMODULE 749020100
-$MODULE SignalCommunications (rev18a)-749020100A
+$MODULE SignalCommunications-749020100A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749020100A
+Li SignalCommunications-749020100A
 Cd 
 Kw 
 Sc 00000000
@@ -3967,9 +3967,9 @@ Ne 0 ""
 Po 1751 -1750 
 $EndPAD
 $EndMODULE 749020100A
-$MODULE SignalCommunications (rev18a)-749020111A
+$MODULE SignalCommunications-749020111A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749020111A
+Li SignalCommunications-749020111A
 Cd 
 Kw 
 Sc 00000000
@@ -4171,9 +4171,9 @@ Ne 0 ""
 Po 1712 -2750 
 $EndPAD
 $EndMODULE 749020111A
-$MODULE SignalCommunications (rev18a)-749022012X
+$MODULE SignalCommunications-749022012X
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749022012X
+Li SignalCommunications-749022012X
 Cd 
 Kw 
 Sc 00000000
@@ -4378,9 +4378,9 @@ Ne 0 ""
 Po 2850 -2750 
 $EndPAD
 $EndMODULE 749022012X
-$MODULE SignalCommunications (rev18a)-749022015
+$MODULE SignalCommunications-749022015
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749022015
+Li SignalCommunications-749022015
 Cd MAX HEIGHT = 10.26 MM
 Kw MAX HEIGHT = 10.26 MM
 Sc 00000000
@@ -4605,9 +4605,9 @@ Ne 0 ""
 Po 2860 -2750 
 $EndPAD
 $EndMODULE 749022015
-$MODULE SignalCommunications (rev18a)-749023010A
+$MODULE SignalCommunications-749023010A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749023010A
+Li SignalCommunications-749023010A
 Cd MAX HEIGHT = 6.5 MM
 Kw MAX HEIGHT = 6.5 MM
 Sc 00000000
@@ -4813,9 +4813,9 @@ Ne 0 ""
 Po 2874 -2750 
 $EndPAD
 $EndMODULE 749023010A
-$MODULE SignalCommunications (rev18a)-749023015
+$MODULE SignalCommunications-749023015
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749023015
+Li SignalCommunications-749023015
 Cd MAX HEIGHT = 6.35 MM
 Kw MAX HEIGHT = 6.35 MM
 Sc 00000000
@@ -5035,9 +5035,9 @@ Ne 0 ""
 Po 2860 -2750 
 $EndPAD
 $EndMODULE 749023015
-$MODULE SignalCommunications (rev18a)-749023016
+$MODULE SignalCommunications-749023016
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749023016
+Li SignalCommunications-749023016
 Cd MAX HEIGHT = 6.35 MM
 Kw MAX HEIGHT = 6.35 MM
 Sc 00000000
@@ -5257,9 +5257,9 @@ Ne 0 ""
 Po 2860 -2750 
 $EndPAD
 $EndMODULE 749023016
-$MODULE SignalCommunications (rev18a)-749024012
+$MODULE SignalCommunications-749024012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749024012
+Li SignalCommunications-749024012
 Cd MAX HEIGHT=12.70 MM
 Kw MAX HEIGHT=12.70 MM
 Sc 00000000
@@ -5533,9 +5533,9 @@ Ne 0 ""
 Po 2633 -4500 
 $EndPAD
 $EndMODULE 749024012
-$MODULE SignalCommunications (rev18a)-749050010A
+$MODULE SignalCommunications-749050010A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749050010A
+Li SignalCommunications-749050010A
 Cd MAX HEIGHT = 6.32 MM
 Kw MAX HEIGHT = 6.32 MM
 Sc 00000000
@@ -5749,9 +5749,9 @@ Ne 0 ""
 Po 2775 -2143 
 $EndPAD
 $EndMODULE 749050010A
-$MODULE SignalCommunications (rev18a)-749050010U
+$MODULE SignalCommunications-749050010U
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749050010U
+Li SignalCommunications-749050010U
 Cd 
 Kw 
 Sc 00000000
@@ -5957,9 +5957,9 @@ Ne 0 ""
 Po 2677 -2143 
 $EndPAD
 $EndMODULE 749050010U
-$MODULE SignalCommunications (rev18a)-749801100X
+$MODULE SignalCommunications-749801100X
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-749801100X
+Li SignalCommunications-749801100X
 Cd MAX HEIGHT=13.60MM
 Kw MAX HEIGHT=13.60MM
 Sc 00000000
@@ -6066,9 +6066,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 749801100X
-$MODULE SignalCommunications (rev18a)-7490100110A_749010012A
+$MODULE SignalCommunications-7490100110A_749010012A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490100110A_749010012A
+Li SignalCommunications-7490100110A_749010012A
 Cd 
 Kw 
 Sc 00000000
@@ -6220,9 +6220,9 @@ Ne 0 ""
 Po 1732 -1750 
 $EndPAD
 $EndMODULE 7490100110A_749010012A
-$MODULE SignalCommunications (rev18a)-7490100111A
+$MODULE SignalCommunications-7490100111A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490100111A
+Li SignalCommunications-7490100111A
 Cd 
 Kw 
 Sc 00000000
@@ -6373,9 +6373,9 @@ Ne 0 ""
 Po 1732 -1750 
 $EndPAD
 $EndMODULE 7490100111A
-$MODULE SignalCommunications (rev18a)-7490100161A
+$MODULE SignalCommunications-7490100161A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490100161A
+Li SignalCommunications-7490100161A
 Cd 
 Kw 
 Sc 00000000
@@ -6525,9 +6525,9 @@ Ne 0 ""
 Po 1732 -1750 
 $EndPAD
 $EndMODULE 7490100161A
-$MODULE SignalCommunications (rev18a)-7490101120
+$MODULE SignalCommunications-7490101120
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490101120
+Li SignalCommunications-7490101120
 Cd MAX HEIGHT=2.29MM
 Kw MAX HEIGHT=2.29MM
 Sc 00000000
@@ -6685,9 +6685,9 @@ Ne 0 ""
 Po -1750 -1704 
 $EndPAD
 $EndMODULE 7490101120
-$MODULE SignalCommunications (rev18a)-7490120110
+$MODULE SignalCommunications-7490120110
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490120110
+Li SignalCommunications-7490120110
 Cd 
 Kw 
 Sc 00000000
@@ -6837,9 +6837,9 @@ Ne 0 ""
 Po 1726 -1750 
 $EndPAD
 $EndMODULE 7490120110
-$MODULE SignalCommunications (rev18a)-7490140110
+$MODULE SignalCommunications-7490140110
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490140110
+Li SignalCommunications-7490140110
 Cd 
 Kw 
 Sc 00000000
@@ -6981,9 +6981,9 @@ Ne 0 ""
 Po 3194 -3500 
 $EndPAD
 $EndMODULE 7490140110
-$MODULE SignalCommunications (rev18a)-7490140112
+$MODULE SignalCommunications-7490140112
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490140112
+Li SignalCommunications-7490140112
 Cd 
 Kw 
 Sc 00000000
@@ -7151,9 +7151,9 @@ Ne 0 ""
 Po 3194 -3500 
 $EndPAD
 $EndMODULE 7490140112
-$MODULE SignalCommunications (rev18a)-7490200136
+$MODULE SignalCommunications-7490200136
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490200136
+Li SignalCommunications-7490200136
 Cd 
 Kw 
 Sc 00000000
@@ -7360,9 +7360,9 @@ Ne 0 ""
 Po 2899 -2750 
 $EndPAD
 $EndMODULE 7490200136
-$MODULE SignalCommunications (rev18a)-7490220115
+$MODULE SignalCommunications-7490220115
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7490220115
+Li SignalCommunications-7490220115
 Cd 
 Kw 
 Sc 00000000
@@ -7560,9 +7560,9 @@ Ne 0 ""
 Po 2850 -2750 
 $EndPAD
 $EndMODULE 7490220115
-$MODULE SignalCommunications (rev18a)-7497011611A
+$MODULE SignalCommunications-7497011611A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7497011611A
+Li SignalCommunications-7497011611A
 Cd 
 Kw 
 Sc 00000000
@@ -7735,9 +7735,9 @@ Ne 0 ""
 Po 2586 -3192 
 $EndPAD
 $EndMODULE 7497011611A
-$MODULE SignalCommunications (rev18a)-7497110616
+$MODULE SignalCommunications-7497110616
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7497110616
+Li SignalCommunications-7497110616
 Cd INCOMPLETE
 Kw INCOMPLETE
 Sc 00000000
@@ -8054,9 +8054,9 @@ Ne 0 ""
 Po -3838 0 
 $EndPAD
 $EndMODULE 7497110616
-$MODULE SignalCommunications (rev18a)-7497111611A
+$MODULE SignalCommunications-7497111611A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7497111611A
+Li SignalCommunications-7497111611A
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -8325,9 +8325,9 @@ Ne 0 ""
 Po 2584 3228 
 $EndPAD
 $EndMODULE 7497111611A
-$MODULE SignalCommunications (rev18a)-74980111211
+$MODULE SignalCommunications-74980111211
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74980111211
+Li SignalCommunications-74980111211
 Cd MAX HEIGHT=13.61MM
 Kw MAX HEIGHT=13.61MM
 Sc 00000000
@@ -8603,9 +8603,9 @@ Ne 0 ""
 Po -2500 0 
 $EndPAD
 $EndMODULE 74980111211
-$MODULE SignalCommunications (rev18a)-7498011122R
+$MODULE SignalCommunications-7498011122R
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498011122R
+Li SignalCommunications-7498011122R
 Cd MAX HEIGHT=11.30MM
 Kw MAX HEIGHT=11.30MM
 Sc 00000000
@@ -8749,9 +8749,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE 7498011122R
-$MODULE SignalCommunications (rev18a)-7498011211
+$MODULE SignalCommunications-7498011211
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498011211
+Li SignalCommunications-7498011211
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -8879,9 +8879,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7498011211
-$MODULE SignalCommunications (rev18a)-7498111001
+$MODULE SignalCommunications-7498111001
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498111001
+Li SignalCommunications-7498111001
 Cd MAX HEIGHT=13.55MM
 Kw MAX HEIGHT=13.55MM
 Sc 00000000
@@ -9009,9 +9009,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7498111001
-$MODULE SignalCommunications (rev18a)-7498111001A
+$MODULE SignalCommunications-7498111001A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498111001A
+Li SignalCommunications-7498111001A
 Cd 
 Kw 
 Sc 00000000
@@ -9140,9 +9140,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7498111001A
-$MODULE SignalCommunications (rev18a)-7498111120R
+$MODULE SignalCommunications-7498111120R
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498111120R
+Li SignalCommunications-7498111120R
 Cd MAX HEIGHT=11.30MM
 Kw MAX HEIGHT=11.30MM
 Sc 00000000
@@ -9303,9 +9303,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE 7498111120R
-$MODULE SignalCommunications (rev18a)-7498210002
+$MODULE SignalCommunications-7498210002
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498210002
+Li SignalCommunications-7498210002
 Cd 
 Kw 
 Sc 00000000
@@ -9413,9 +9413,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7498210002
-$MODULE SignalCommunications (rev18a)-7498210003
+$MODULE SignalCommunications-7498210003
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498210003
+Li SignalCommunications-7498210003
 Cd 
 Kw 
 Sc 00000000
@@ -9543,9 +9543,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE 7498210003
-$MODULE SignalCommunications (rev18a)-7498210220A
+$MODULE SignalCommunications-7498210220A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7498210220A
+Li SignalCommunications-7498210220A
 Cd 
 Kw 
 Sc 00000000
@@ -9690,9 +9690,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE 7498210220A
-$MODULE SignalCommunications (rev18a)-7499010003A
+$MODULE SignalCommunications-7499010003A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499010003A
+Li SignalCommunications-7499010003A
 Cd 
 Kw 
 Sc 00000000
@@ -9802,9 +9802,9 @@ Ne 0 ""
 Po 2250 -1200 
 $EndPAD
 $EndMODULE 7499010003A
-$MODULE SignalCommunications (rev18a)-7499010004A
+$MODULE SignalCommunications-7499010004A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499010004A
+Li SignalCommunications-7499010004A
 Cd MAX HEIGHT=13.74MM
 Kw MAX HEIGHT=13.74MM
 Sc 00000000
@@ -9921,9 +9921,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499010004A
-$MODULE SignalCommunications (rev18a)-74990101210
+$MODULE SignalCommunications-74990101210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990101210
+Li SignalCommunications-74990101210
 Cd MAX HEIGHT=17.50MM
 Kw MAX HEIGHT=17.50MM
 Sc 00000000
@@ -10080,9 +10080,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 74990101210
-$MODULE SignalCommunications (rev18a)-74990101212
+$MODULE SignalCommunications-74990101212
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990101212
+Li SignalCommunications-74990101212
 Cd 
 Kw 
 Sc 00000000
@@ -10227,9 +10227,9 @@ Ne 0 ""
 Po 2250 -1200 
 $EndPAD
 $EndMODULE 74990101212
-$MODULE SignalCommunications (rev18a)-74990101241
+$MODULE SignalCommunications-74990101241
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990101241
+Li SignalCommunications-74990101241
 Cd 
 Kw 
 Sc 00000000
@@ -10366,9 +10366,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 74990101241
-$MODULE SignalCommunications (rev18a)-7499010126A
+$MODULE SignalCommunications-7499010126A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499010126A
+Li SignalCommunications-7499010126A
 Cd 
 Kw 
 Sc 00000000
@@ -10508,9 +10508,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499010126A
-$MODULE SignalCommunications (rev18a)-7499010441
+$MODULE SignalCommunications-7499010441
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499010441
+Li SignalCommunications-7499010441
 Cd 
 Kw 
 Sc 00000000
@@ -10669,9 +10669,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499010441
-$MODULE SignalCommunications (rev18a)-74990110030
+$MODULE SignalCommunications-74990110030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990110030
+Li SignalCommunications-74990110030
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -10788,9 +10788,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 74990110030
-$MODULE SignalCommunications (rev18a)-74990111211
+$MODULE SignalCommunications-74990111211
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990111211
+Li SignalCommunications-74990111211
 Cd 
 Kw 
 Sc 00000000
@@ -10933,9 +10933,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 74990111211
-$MODULE SignalCommunications (rev18a)-74990111215A
+$MODULE SignalCommunications-74990111215A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990111215A
+Li SignalCommunications-74990111215A
 Cd MAX HEIGHT=13.74MM
 Kw MAX HEIGHT=13.74MM
 Sc 00000000
@@ -11084,9 +11084,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 74990111215A
-$MODULE SignalCommunications (rev18a)-74990111217
+$MODULE SignalCommunications-74990111217
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-74990111217
+Li SignalCommunications-74990111217
 Cd 
 Kw 
 Sc 00000000
@@ -11227,9 +11227,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 74990111217
-$MODULE SignalCommunications (rev18a)-7499011121A
+$MODULE SignalCommunications-7499011121A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499011121A
+Li SignalCommunications-7499011121A
 Cd MAX HEIGHT=13.90MM
 Kw MAX HEIGHT=13.90MM
 Sc 00000000
@@ -11388,9 +11388,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499011121A
-$MODULE SignalCommunications (rev18a)-7499011222A
+$MODULE SignalCommunications-7499011222A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499011222A
+Li SignalCommunications-7499011222A
 Cd 
 Kw 
 Sc 00000000
@@ -11539,9 +11539,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499011222A
-$MODULE SignalCommunications (rev18a)-7499011441A
+$MODULE SignalCommunications-7499011441A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499011441A
+Li SignalCommunications-7499011441A
 Cd 
 Kw 
 Sc 00000000
@@ -11686,9 +11686,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499011441A
-$MODULE SignalCommunications (rev18a)-7499021002A
+$MODULE SignalCommunications-7499021002A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499021002A
+Li SignalCommunications-7499021002A
 Cd 
 Kw 
 Sc 00000000
@@ -11864,9 +11864,9 @@ Ne 0 ""
 Po 5000 0 
 $EndPAD
 $EndMODULE 7499021002A
-$MODULE SignalCommunications (rev18a)-7499021125-2PORTS-HORIZONTAL
+$MODULE SignalCommunications-7499021125-2PORTS-HORIZONTAL
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499021125-2PORTS-HORIZONTAL
+Li SignalCommunications-7499021125-2PORTS-HORIZONTAL
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -12119,9 +12119,9 @@ Ne 0 ""
 Po 5000 0 
 $EndPAD
 $EndMODULE 7499021125-2PORTS-HORIZONTAL
-$MODULE SignalCommunications (rev18a)-7499031001A
+$MODULE SignalCommunications-7499031001A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499031001A
+Li SignalCommunications-7499031001A
 Cd 
 Kw 
 Sc 00000000
@@ -12404,9 +12404,9 @@ Ne 0 ""
 Po 10500 0 
 $EndPAD
 $EndMODULE 7499031001A
-$MODULE SignalCommunications (rev18a)-7499031120A-4PORTS-HORIZONTAL
+$MODULE SignalCommunications-7499031120A-4PORTS-HORIZONTAL
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499031120A-4PORTS-HORIZONTAL
+Li SignalCommunications-7499031120A-4PORTS-HORIZONTAL
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -12867,9 +12867,9 @@ Ne 0 ""
 Po 10500 0 
 $EndPAD
 $EndMODULE 7499031120A-4PORTS-HORIZONTAL
-$MODULE SignalCommunications (rev18a)-7499051002-1X2-STACKED
+$MODULE SignalCommunications-7499051002-1X2-STACKED
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499051002-1X2-STACKED
+Li SignalCommunications-7499051002-1X2-STACKED
 Cd MAX HEIGHT=25.20MM
 Kw MAX HEIGHT=25.20MM
 Sc 00000000
@@ -13062,9 +13062,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499051002-1X2-STACKED
-$MODULE SignalCommunications (rev18a)-7499110120A
+$MODULE SignalCommunications-7499110120A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499110120A
+Li SignalCommunications-7499110120A
 Cd 
 Kw 
 Sc 00000000
@@ -13218,9 +13218,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499110120A
-$MODULE SignalCommunications (rev18a)-7499110122
+$MODULE SignalCommunications-7499110122
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499110122
+Li SignalCommunications-7499110122
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -13379,9 +13379,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499110122
-$MODULE SignalCommunications (rev18a)-7499110123
+$MODULE SignalCommunications-7499110123
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499110123
+Li SignalCommunications-7499110123
 Cd MAX HEIGHT=17.10MM
 Kw MAX HEIGHT=17.10MM
 Sc 00000000
@@ -13538,9 +13538,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499110123
-$MODULE SignalCommunications (rev18a)-7499110124
+$MODULE SignalCommunications-7499110124
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499110124
+Li SignalCommunications-7499110124
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -13700,9 +13700,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499110124
-$MODULE SignalCommunications (rev18a)-7499111000A
+$MODULE SignalCommunications-7499111000A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111000A
+Li SignalCommunications-7499111000A
 Cd MAX HEIGHT=15.79MM
 Kw MAX HEIGHT=15.79MM
 Sc 00000000
@@ -13843,9 +13843,9 @@ Ne 0 ""
 Po -2500 0 
 $EndPAD
 $EndMODULE 7499111000A
-$MODULE SignalCommunications (rev18a)-7499111001A
+$MODULE SignalCommunications-7499111001A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111001A
+Li SignalCommunications-7499111001A
 Cd 
 Kw 
 Sc 00000000
@@ -13975,9 +13975,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499111001A
-$MODULE SignalCommunications (rev18a)-7499111121A
+$MODULE SignalCommunications-7499111121A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111121A
+Li SignalCommunications-7499111121A
 Cd MAX HEIGHT=13.95MM
 Kw MAX HEIGHT=13.95MM
 Sc 00000000
@@ -14134,9 +14134,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499111121A
-$MODULE SignalCommunications (rev18a)-7499111221A
+$MODULE SignalCommunications-7499111221A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111221A
+Li SignalCommunications-7499111221A
 Cd MAX HEIGHT=15.79MM
 Kw MAX HEIGHT=15.79MM
 Sc 00000000
@@ -14308,9 +14308,9 @@ Ne 0 ""
 Po -2500 0 
 $EndPAD
 $EndMODULE 7499111221A
-$MODULE SignalCommunications (rev18a)-7499111446
+$MODULE SignalCommunications-7499111446
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111446
+Li SignalCommunications-7499111446
 Cd MAX HEIGHT=13.95MM
 Kw MAX HEIGHT=13.95MM
 Sc 00000000
@@ -14467,9 +14467,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499111446
-$MODULE SignalCommunications (rev18a)-7499111447
+$MODULE SignalCommunications-7499111447
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111447
+Li SignalCommunications-7499111447
 Cd MAX HEIGHT=13.55MM
 Kw MAX HEIGHT=13.55MM
 Sc 00000000
@@ -14636,9 +14636,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499111447
-$MODULE SignalCommunications (rev18a)-7499111614A
+$MODULE SignalCommunications-7499111614A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499111614A
+Li SignalCommunications-7499111614A
 Cd MAX HEIGHT=13.87MM
 Kw MAX HEIGHT=13.87MM
 Sc 00000000
@@ -14810,9 +14810,9 @@ Ne 0 ""
 Po -2500 0 
 $EndPAD
 $EndMODULE 7499111614A
-$MODULE SignalCommunications (rev18a)-7499151120
+$MODULE SignalCommunications-7499151120
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499151120
+Li SignalCommunications-7499151120
 Cd MAX HEIGHT=26.0MM
 Kw MAX HEIGHT=26.0MM
 Sc 00000000
@@ -15089,9 +15089,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499151120
-$MODULE SignalCommunications (rev18a)-7499210001A
+$MODULE SignalCommunications-7499210001A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499210001A
+Li SignalCommunications-7499210001A
 Cd MAX HEIGHT=13.74MM
 Kw MAX HEIGHT=13.74MM
 Sc 00000000
@@ -15204,9 +15204,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499210001A
-$MODULE SignalCommunications (rev18a)-7499210121A
+$MODULE SignalCommunications-7499210121A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499210121A
+Li SignalCommunications-7499210121A
 Cd MAX HEIGHT=13.95MM
 Kw MAX HEIGHT=13.95MM
 Sc 00000000
@@ -15363,9 +15363,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499210121A
-$MODULE SignalCommunications (rev18a)-7499210123A
+$MODULE SignalCommunications-7499210123A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499210123A
+Li SignalCommunications-7499210123A
 Cd MAX HEIGHT=16.90MM
 Kw MAX HEIGHT=16.90MM
 Sc 00000000
@@ -15522,9 +15522,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499210123A
-$MODULE SignalCommunications (rev18a)-7499210124A
+$MODULE SignalCommunications-7499210124A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499210124A
+Li SignalCommunications-7499210124A
 Cd MAX HEIGHT=13.50MM
 Kw MAX HEIGHT=13.50MM
 Sc 00000000
@@ -15685,9 +15685,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499210124A
-$MODULE SignalCommunications (rev18a)-7499211002A
+$MODULE SignalCommunications-7499211002A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499211002A
+Li SignalCommunications-7499211002A
 Cd MAX HEIGHT=13.74MM
 Kw MAX HEIGHT=13.74MM
 Sc 00000000
@@ -15805,9 +15805,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499211002A
-$MODULE SignalCommunications (rev18a)-7499211121A
+$MODULE SignalCommunications-7499211121A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499211121A
+Li SignalCommunications-7499211121A
 Cd MAX HEIGHT=13.95MM
 Kw MAX HEIGHT=13.95MM
 Sc 00000000
@@ -15964,9 +15964,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499211121A
-$MODULE SignalCommunications (rev18a)-7499211122A
+$MODULE SignalCommunications-7499211122A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499211122A
+Li SignalCommunications-7499211122A
 Cd MAX HEIGHT=13.74MM
 Kw MAX HEIGHT=13.74MM
 Sc 00000000
@@ -16116,9 +16116,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499211122A
-$MODULE SignalCommunications (rev18a)-7499211123A
+$MODULE SignalCommunications-7499211123A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499211123A
+Li SignalCommunications-7499211123A
 Cd MAX HEIGHT=13.95MM
 Kw MAX HEIGHT=13.95MM
 Sc 00000000
@@ -16268,9 +16268,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499211123A
-$MODULE SignalCommunications (rev18a)-7499211125
+$MODULE SignalCommunications-7499211125
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499211125
+Li SignalCommunications-7499211125
 Cd 
 Kw 
 Sc 00000000
@@ -16413,9 +16413,9 @@ Ne 0 ""
 Po -2250 0 
 $EndPAD
 $EndMODULE 7499211125
-$MODULE SignalCommunications (rev18a)-7499410213
+$MODULE SignalCommunications-7499410213
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499410213
+Li SignalCommunications-7499410213
 Cd 
 Kw 
 Sc 00000000
@@ -16569,9 +16569,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499410213
-$MODULE SignalCommunications (rev18a)-7499410221
+$MODULE SignalCommunications-7499410221
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499410221
+Li SignalCommunications-7499410221
 Cd 
 Kw 
 Sc 00000000
@@ -16718,9 +16718,9 @@ Ne 0 ""
 Po 2250 0 
 $EndPAD
 $EndMODULE 7499410221
-$MODULE SignalCommunications (rev18a)-7499411122A
+$MODULE SignalCommunications-7499411122A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499411122A
+Li SignalCommunications-7499411122A
 Cd MAX HEIGHT=13.87MM
 Kw MAX HEIGHT=13.87MM
 Sc 00000000
@@ -16937,9 +16937,9 @@ Ne 0 ""
 Po 2500 0 
 $EndPAD
 $EndMODULE 7499411122A
-$MODULE SignalCommunications (rev18a)-7499511002A
+$MODULE SignalCommunications-7499511002A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499511002A
+Li SignalCommunications-7499511002A
 Cd 
 Kw 
 Sc 00000000
@@ -17109,9 +17109,9 @@ Ne 0 ""
 Po 2500 0 
 $EndPAD
 $EndMODULE 7499511002A
-$MODULE SignalCommunications (rev18a)-7499511440
+$MODULE SignalCommunications-7499511440
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499511440
+Li SignalCommunications-7499511440
 Cd MAX HEIGHT=13.87MM
 Kw MAX HEIGHT=13.87MM
 Sc 00000000
@@ -17315,9 +17315,9 @@ Ne 0 ""
 Po 2500 0 
 $EndPAD
 $EndMODULE 7499511440
-$MODULE SignalCommunications (rev18a)-7499511611A
+$MODULE SignalCommunications-7499511611A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499511611A
+Li SignalCommunications-7499511611A
 Cd MAX HEIGHT=13.87MM
 Kw MAX HEIGHT=13.87MM
 Sc 00000000
@@ -17518,9 +17518,9 @@ Ne 0 ""
 Po 2500 0 
 $EndPAD
 $EndMODULE 7499511611A
-$MODULE SignalCommunications (rev18a)-7499611421
+$MODULE SignalCommunications-7499611421
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-7499611421
+Li SignalCommunications-7499611421
 Cd MAX HEIGHT=13.87MM
 Kw MAX HEIGHT=13.87MM
 Sc 00000000
@@ -17692,9 +17692,9 @@ Ne 0 ""
 Po 2500 0 
 $EndPAD
 $EndMODULE 7499611421
-$MODULE SignalCommunications (rev18a)-VARTVSP_SMA_DO-214AC
+$MODULE SignalCommunications-VARTVSP_SMA_DO-214AC
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-VARTVSP_SMA_DO-214AC
+Li SignalCommunications-VARTVSP_SMA_DO-214AC
 Cd 
 Kw 
 Sc 00000000
@@ -17731,9 +17731,9 @@ Ne 0 ""
 Po 826 0 
 $EndPAD
 $EndMODULE VARTVSP_SMA_DO-214AC
-$MODULE SignalCommunications (rev18a)-VARTVSP_SMA_DO-214AC_UNI
+$MODULE SignalCommunications-VARTVSP_SMA_DO-214AC_UNI
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-VARTVSP_SMA_DO-214AC_UNI
+Li SignalCommunications-VARTVSP_SMA_DO-214AC_UNI
 Cd 
 Kw 
 Sc 00000000
@@ -17770,9 +17770,9 @@ Ne 0 ""
 Po -826 0 
 $EndPAD
 $EndMODULE VARTVSP_SMA_DO-214AC_UNI
-$MODULE SignalCommunications (rev18a)-VARTVSP_SMB_DO-214AA
+$MODULE SignalCommunications-VARTVSP_SMB_DO-214AA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-VARTVSP_SMB_DO-214AA
+Li SignalCommunications-VARTVSP_SMB_DO-214AA
 Cd 
 Kw 
 Sc 00000000
@@ -17809,9 +17809,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE VARTVSP_SMB_DO-214AA
-$MODULE SignalCommunications (rev18a)-VARTVSP_SMB_DO-214AA_UNI
+$MODULE SignalCommunications-VARTVSP_SMB_DO-214AA_UNI
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-VARTVSP_SMB_DO-214AA_UNI
+Li SignalCommunications-VARTVSP_SMB_DO-214AA_UNI
 Cd 
 Kw 
 Sc 00000000
@@ -17848,9 +17848,9 @@ Ne 0 ""
 Po -885 0 
 $EndPAD
 $EndMODULE VARTVSP_SMB_DO-214AA_UNI
-$MODULE SignalCommunications (rev18a)-VARTVSP_SMC&SMD_DO-214AB
+$MODULE SignalCommunications-VARTVSP_SMC&SMD_DO-214AB
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-VARTVSP_SMC&SMD_DO-214AB
+Li SignalCommunications-VARTVSP_SMC&SMD_DO-214AB
 Cd 
 Kw 
 Sc 00000000
@@ -17887,9 +17887,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE VARTVSP_SMC&SMD_DO-214AB
-$MODULE SignalCommunications (rev18a)-VARTVSP_SMC&SMD_DO-214AB_UNI
+$MODULE SignalCommunications-VARTVSP_SMC&SMD_DO-214AB_UNI
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-VARTVSP_SMC&SMD_DO-214AB_UNI
+Li SignalCommunications-VARTVSP_SMC&SMD_DO-214AB_UNI
 Cd 
 Kw 
 Sc 00000000
@@ -17930,9 +17930,9 @@ Ne 0 ""
 Po -1377 0 
 $EndPAD
 $EndMODULE VARTVSP_SMC&SMD_DO-214AB_UNI
-$MODULE SignalCommunications (rev18a)-WE-3WAY_74273001
+$MODULE SignalCommunications-WE-3WAY_74273001
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-3WAY_74273001
+Li SignalCommunications-WE-3WAY_74273001
 Cd MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Kw MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Sc 00000000
@@ -18008,9 +18008,9 @@ Ne 0 ""
 Po 500 1000 
 $EndPAD
 $EndMODULE WE-3WAY_74273001
-$MODULE SignalCommunications (rev18a)-WE-4WAY_74273002
+$MODULE SignalCommunications-WE-4WAY_74273002
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-4WAY_74273002
+Li SignalCommunications-WE-4WAY_74273002
 Cd MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Kw MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Sc 00000000
@@ -18105,9 +18105,9 @@ Ne 0 ""
 Po 500 1500 
 $EndPAD
 $EndMODULE WE-4WAY_74273002
-$MODULE SignalCommunications (rev18a)-WE-4WAY_742730021
+$MODULE SignalCommunications-WE-4WAY_742730021
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-4WAY_742730021
+Li SignalCommunications-WE-4WAY_742730021
 Cd MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Kw MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Sc 00000000
@@ -18202,9 +18202,9 @@ Ne 0 ""
 Po 1500 1500 
 $EndPAD
 $EndMODULE WE-4WAY_742730021
-$MODULE SignalCommunications (rev18a)-WE-4WAY_742730022
+$MODULE SignalCommunications-WE-4WAY_742730022
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-4WAY_742730022
+Li SignalCommunications-WE-4WAY_742730022
 Cd MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Kw MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Sc 00000000
@@ -18299,9 +18299,9 @@ Ne 0 ""
 Po 1500 1500 
 $EndPAD
 $EndMODULE WE-4WAY_742730022
-$MODULE SignalCommunications (rev18a)-WE-4WAY_742730023
+$MODULE SignalCommunications-WE-4WAY_742730023
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-4WAY_742730023
+Li SignalCommunications-WE-4WAY_742730023
 Cd MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Kw MULTILINE EMI SUPPRESSION FERRITE WE-MLS
 Sc 00000000
@@ -18396,9 +18396,9 @@ Ne 0 ""
 Po 1500 1500 
 $EndPAD
 $EndMODULE WE-4WAY_742730023
-$MODULE SignalCommunications (rev18a)-WE-4WAY_742730321
+$MODULE SignalCommunications-WE-4WAY_742730321
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-4WAY_742730321
+Li SignalCommunications-WE-4WAY_742730321
 Cd 
 Kw 
 Sc 00000000
@@ -18473,9 +18473,9 @@ Ne 0 ""
 Po 1500 1500 
 $EndPAD
 $EndMODULE WE-4WAY_742730321
-$MODULE SignalCommunications (rev18a)-WE-ACHC_1010
+$MODULE SignalCommunications-WE-ACHC_1010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-ACHC_1010
+Li SignalCommunications-WE-ACHC_1010
 Cd 
 Kw 
 Sc 00000000
@@ -18507,9 +18507,9 @@ Ne 0 ""
 Po 1555 0 
 $EndPAD
 $EndMODULE WE-ACHC_1010
-$MODULE SignalCommunications (rev18a)-WE-ACHC_1212
+$MODULE SignalCommunications-WE-ACHC_1212
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-ACHC_1212
+Li SignalCommunications-WE-ACHC_1212
 Cd 
 Kw 
 Sc 00000000
@@ -18541,9 +18541,9 @@ Ne 0 ""
 Po 1732 0 
 $EndPAD
 $EndMODULE WE-ACHC_1212
-$MODULE SignalCommunications (rev18a)-WE-ASI_L
+$MODULE SignalCommunications-WE-ASI_L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-ASI_L
+Li SignalCommunications-WE-ASI_L
 Cd SMD-WIRE WOUND INDUCTOR WE-ASI
 Kw SMD-WIRE WOUND INDUCTOR WE-ASI
 Sc 00000000
@@ -18591,9 +18591,9 @@ Ne 0 ""
 Po 3025 0 
 $EndPAD
 $EndMODULE WE-ASI_L
-$MODULE SignalCommunications (rev18a)-WE-ASI_M
+$MODULE SignalCommunications-WE-ASI_M
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-ASI_M
+Li SignalCommunications-WE-ASI_M
 Cd SMD-WIRE WOUND INDUCTOR WE-ASI
 Kw SMD-WIRE WOUND INDUCTOR WE-ASI
 Sc 00000000
@@ -18741,9 +18741,9 @@ Ne 0 ""
 Po 1230 0 
 $EndPAD
 $EndMODULE WE-ASI_M
-$MODULE SignalCommunications (rev18a)-WE-ASI_SENSOR
+$MODULE SignalCommunications-WE-ASI_SENSOR
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-ASI_SENSOR
+Li SignalCommunications-WE-ASI_SENSOR
 Cd SMD-WIRE WOUND INDUCTOR
 Kw SMD-WIRE WOUND INDUCTOR
 Sc 00000000
@@ -18870,9 +18870,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-ASI_SENSOR
-$MODULE SignalCommunications (rev18a)-WE-BAL_0603
+$MODULE SignalCommunications-WE-BAL_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-BAL_0603
+Li SignalCommunications-WE-BAL_0603
 Cd MULTILAYER CHIP BALUNS WE-BAL
 Kw MULTILAYER CHIP BALUNS WE-BAL
 Sc 00000000
@@ -18938,9 +18938,9 @@ Ne 0 ""
 Po 167 -196 
 $EndPAD
 $EndMODULE WE-BAL_0603
-$MODULE SignalCommunications (rev18a)-WE-BAL_0805
+$MODULE SignalCommunications-WE-BAL_0805
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-BAL_0805
+Li SignalCommunications-WE-BAL_0805
 Cd MULTILAYER CHIP BALUNS WE-BAL
 Kw MULTILAYER CHIP BALUNS WE-BAL
 Sc 00000000
@@ -19006,9 +19006,9 @@ Ne 0 ""
 Po 354 -255 
 $EndPAD
 $EndMODULE WE-BAL_0805
-$MODULE SignalCommunications (rev18a)-WE-BPF_0805_T1
+$MODULE SignalCommunications-WE-BPF_0805_T1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-BPF_0805_T1
+Li SignalCommunications-WE-BPF_0805_T1
 Cd MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Kw MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Sc 00000000
@@ -19064,9 +19064,9 @@ Ne 0 ""
 Po -472 0 
 $EndPAD
 $EndMODULE WE-BPF_0805_T1
-$MODULE SignalCommunications (rev18a)-WE-BPF_1008_T5
+$MODULE SignalCommunications-WE-BPF_1008_T5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-BPF_1008_T5
+Li SignalCommunications-WE-BPF_1008_T5
 Cd MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Kw MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Sc 00000000
@@ -19114,9 +19114,9 @@ Ne 0 ""
 Po -570 0 
 $EndPAD
 $EndMODULE WE-BPF_1008_T5
-$MODULE SignalCommunications (rev18a)-WE-BPF_1206_748333024
+$MODULE SignalCommunications-WE-BPF_1206_748333024
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-BPF_1206_748333024
+Li SignalCommunications-WE-BPF_1206_748333024
 Cd MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Kw MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Sc 00000000
@@ -19174,9 +19174,9 @@ Ne 0 ""
 Po -718 0 
 $EndPAD
 $EndMODULE WE-BPF_1206_748333024
-$MODULE SignalCommunications (rev18a)-WE-BPF_1206_T3
+$MODULE SignalCommunications-WE-BPF_1206_T3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-BPF_1206_T3
+Li SignalCommunications-WE-BPF_1206_T3
 Cd MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Kw MULTILAYER CHIP BAND -PASS FILTER WE-BPF
 Sc 00000000
@@ -19239,9 +19239,9 @@ Ne 0 ""
 Po 551 -413 
 $EndPAD
 $EndMODULE WE-BPF_1206_T3
-$MODULE SignalCommunications (rev18a)-WE-CAIR_1322
+$MODULE SignalCommunications-WE-CAIR_1322
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CAIR_1322
+Li SignalCommunications-WE-CAIR_1322
 Cd 
 Kw 
 Sc 00000000
@@ -19276,9 +19276,9 @@ Ne 0 ""
 Po 360 -200 
 $EndPAD
 $EndMODULE WE-CAIR_1322
-$MODULE SignalCommunications (rev18a)-WE-CAIR_1340
+$MODULE SignalCommunications-WE-CAIR_1340
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CAIR_1340
+Li SignalCommunications-WE-CAIR_1340
 Cd 
 Kw 
 Sc 00000000
@@ -19313,9 +19313,9 @@ Ne 0 ""
 Po 720 -200 
 $EndPAD
 $EndMODULE WE-CAIR_1340
-$MODULE SignalCommunications (rev18a)-WE-CAIR_3136
+$MODULE SignalCommunications-WE-CAIR_3136
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CAIR_3136
+Li SignalCommunications-WE-CAIR_3136
 Cd 
 Kw 
 Sc 00000000
@@ -19352,9 +19352,9 @@ Ne 0 ""
 Po 574 -549 
 $EndPAD
 $EndMODULE WE-CAIR_3136
-$MODULE SignalCommunications (rev18a)-WE-CAIR_3168
+$MODULE SignalCommunications-WE-CAIR_3168
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CAIR_3168
+Li SignalCommunications-WE-CAIR_3168
 Cd 
 Kw 
 Sc 00000000
@@ -19391,9 +19391,9 @@ Ne 0 ""
 Po 1175 -549 
 $EndPAD
 $EndMODULE WE-CAIR_3168
-$MODULE SignalCommunications (rev18a)-WE-CAIR_4248
+$MODULE SignalCommunications-WE-CAIR_4248
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CAIR_4248
+Li SignalCommunications-WE-CAIR_4248
 Cd AIR COIL INDUCTOR
 Kw AIR COIL INDUCTOR
 Sc 00000000
@@ -19430,9 +19430,9 @@ Ne 0 ""
 Po 852 -515 
 $EndPAD
 $EndMODULE WE-CAIR_4248
-$MODULE SignalCommunications (rev18a)-WE-CBA_0402(W=1.5)
+$MODULE SignalCommunications-WE-CBA_0402(W=1.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_0402(W=1.5)
+Li SignalCommunications-WE-CBA_0402(W=1.5)
 Cd WE-CBA_0402
 Kw WE-CBA_0402
 Sc 00000000
@@ -19467,9 +19467,9 @@ Ne 0 ""
 Po 196 0 
 $EndPAD
 $EndMODULE WE-CBA_0402(W=1.5)
-$MODULE SignalCommunications (rev18a)-WE-CBA_0402(W=2.2)
+$MODULE SignalCommunications-WE-CBA_0402(W=2.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_0402(W=2.2)
+Li SignalCommunications-WE-CBA_0402(W=2.2)
 Cd WE-CBA_0402
 Kw WE-CBA_0402
 Sc 00000000
@@ -19504,9 +19504,9 @@ Ne 0 ""
 Po 265 0 
 $EndPAD
 $EndMODULE WE-CBA_0402(W=2.2)
-$MODULE SignalCommunications (rev18a)-WE-CBA_0603(W=2.2)
+$MODULE SignalCommunications-WE-CBA_0603(W=2.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_0603(W=2.2)
+Li SignalCommunications-WE-CBA_0603(W=2.2)
 Cd WE-CBA_0603
 Kw WE-CBA_0603
 Sc 00000000
@@ -19541,9 +19541,9 @@ Ne 0 ""
 Po 285 0 
 $EndPAD
 $EndMODULE WE-CBA_0603(W=2.2)
-$MODULE SignalCommunications (rev18a)-WE-CBA_0603(W=2.6)
+$MODULE SignalCommunications-WE-CBA_0603(W=2.6)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_0603(W=2.6)
+Li SignalCommunications-WE-CBA_0603(W=2.6)
 Cd WE-CBA_0603
 Kw WE-CBA_0603
 Sc 00000000
@@ -19578,9 +19578,9 @@ Ne 0 ""
 Po 324 0 
 $EndPAD
 $EndMODULE WE-CBA_0603(W=2.6)
-$MODULE SignalCommunications (rev18a)-WE-CBA_0805(W=3)
+$MODULE SignalCommunications-WE-CBA_0805(W=3)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_0805(W=3)
+Li SignalCommunications-WE-CBA_0805(W=3)
 Cd WE-CBA_0805
 Kw WE-CBA_0805
 Sc 00000000
@@ -19615,9 +19615,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-CBA_0805(W=3)
-$MODULE SignalCommunications (rev18a)-WE-CBA_0805(W=4)
+$MODULE SignalCommunications-WE-CBA_0805(W=4)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_0805(W=4)
+Li SignalCommunications-WE-CBA_0805(W=4)
 Cd WE-CBA_0805
 Kw WE-CBA_0805
 Sc 00000000
@@ -19652,9 +19652,9 @@ Ne 0 ""
 Po 511 0 
 $EndPAD
 $EndMODULE WE-CBA_0805(W=4)
-$MODULE SignalCommunications (rev18a)-WE-CBA_1206(W=4.2)
+$MODULE SignalCommunications-WE-CBA_1206(W=4.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_1206(W=4.2)
+Li SignalCommunications-WE-CBA_1206(W=4.2)
 Cd WE-CBA_1206
 Kw WE-CBA_1206
 Sc 00000000
@@ -19694,9 +19694,9 @@ Ne 0 ""
 Po 610 0 
 $EndPAD
 $EndMODULE WE-CBA_1206(W=4.2)
-$MODULE SignalCommunications (rev18a)-WE-CBA_1206(W=5.2)
+$MODULE SignalCommunications-WE-CBA_1206(W=5.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_1206(W=5.2)
+Li SignalCommunications-WE-CBA_1206(W=5.2)
 Cd WE-CBA_1206
 Kw WE-CBA_1206
 Sc 00000000
@@ -19735,9 +19735,9 @@ Ne 0 ""
 Po 708 0 
 $EndPAD
 $EndMODULE WE-CBA_1206(W=5.2)
-$MODULE SignalCommunications (rev18a)-WE-CBA_1806(W=5.5)
+$MODULE SignalCommunications-WE-CBA_1806(W=5.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_1806(W=5.5)
+Li SignalCommunications-WE-CBA_1806(W=5.5)
 Cd WE-CBA_1806
 Kw WE-CBA_1806
 Sc 00000000
@@ -19776,9 +19776,9 @@ Ne 0 ""
 Po 836 0 
 $EndPAD
 $EndMODULE WE-CBA_1806(W=5.5)
-$MODULE SignalCommunications (rev18a)-WE-CBA_1806(W=6.5)
+$MODULE SignalCommunications-WE-CBA_1806(W=6.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBA_1806(W=6.5)
+Li SignalCommunications-WE-CBA_1806(W=6.5)
 Cd WE-CBA_1806
 Kw WE-CBA_1806
 Sc 00000000
@@ -19818,9 +19818,9 @@ Ne 0 ""
 Po 935 0 
 $EndPAD
 $EndMODULE WE-CBA_1806(W=6.5)
-$MODULE SignalCommunications (rev18a)-WE-CBF_0402(W=1.5)
+$MODULE SignalCommunications-WE-CBF_0402(W=1.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_0402(W=1.5)
+Li SignalCommunications-WE-CBF_0402(W=1.5)
 Cd 
 Kw 
 Sc 00000000
@@ -19857,9 +19857,9 @@ Ne 0 ""
 Po 196 0 
 $EndPAD
 $EndMODULE WE-CBF_0402(W=1.5)
-$MODULE SignalCommunications (rev18a)-WE-CBF_0402(W=2.2)
+$MODULE SignalCommunications-WE-CBF_0402(W=2.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_0402(W=2.2)
+Li SignalCommunications-WE-CBF_0402(W=2.2)
 Cd 
 Kw 
 Sc 00000000
@@ -19896,9 +19896,9 @@ Ne 0 ""
 Po 265 0 
 $EndPAD
 $EndMODULE WE-CBF_0402(W=2.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_0603(W=2.2)
+$MODULE SignalCommunications-WE-CBF_0603(W=2.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_0603(W=2.2)
+Li SignalCommunications-WE-CBF_0603(W=2.2)
 Cd 
 Kw 
 Sc 00000000
@@ -19935,9 +19935,9 @@ Ne 0 ""
 Po 285 0 
 $EndPAD
 $EndMODULE WE-CBF_0603(W=2.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_0603(W=2.6)
+$MODULE SignalCommunications-WE-CBF_0603(W=2.6)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_0603(W=2.6)
+Li SignalCommunications-WE-CBF_0603(W=2.6)
 Cd 
 Kw 
 Sc 00000000
@@ -19974,9 +19974,9 @@ Ne 0 ""
 Po 324 0 
 $EndPAD
 $EndMODULE WE-CBF_0603(W=2.6)
-$MODULE SignalCommunications (rev18a)-WE-CBF_0805(W=3.0)
+$MODULE SignalCommunications-WE-CBF_0805(W=3.0)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_0805(W=3.0)
+Li SignalCommunications-WE-CBF_0805(W=3.0)
 Cd 
 Kw 
 Sc 00000000
@@ -20009,9 +20009,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-CBF_0805(W=3.0)
-$MODULE SignalCommunications (rev18a)-WE-CBF_0805(W=4.0)
+$MODULE SignalCommunications-WE-CBF_0805(W=4.0)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_0805(W=4.0)
+Li SignalCommunications-WE-CBF_0805(W=4.0)
 Cd 
 Kw 
 Sc 00000000
@@ -20044,9 +20044,9 @@ Ne 0 ""
 Po 511 0 
 $EndPAD
 $EndMODULE WE-CBF_0805(W=4.0)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1206(W=4.2)
+$MODULE SignalCommunications-WE-CBF_1206(W=4.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1206(W=4.2)
+Li SignalCommunications-WE-CBF_1206(W=4.2)
 Cd 
 Kw 
 Sc 00000000
@@ -20079,9 +20079,9 @@ Ne 0 ""
 Po 610 0 
 $EndPAD
 $EndMODULE WE-CBF_1206(W=4.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1206(W=5.2)
+$MODULE SignalCommunications-WE-CBF_1206(W=5.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1206(W=5.2)
+Li SignalCommunications-WE-CBF_1206(W=5.2)
 Cd 
 Kw 
 Sc 00000000
@@ -20114,9 +20114,9 @@ Ne 0 ""
 Po 708 0 
 $EndPAD
 $EndMODULE WE-CBF_1206(W=5.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1210(W=4.2)
+$MODULE SignalCommunications-WE-CBF_1210(W=4.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1210(W=4.2)
+Li SignalCommunications-WE-CBF_1210(W=4.2)
 Cd 
 Kw 
 Sc 00000000
@@ -20149,9 +20149,9 @@ Ne 0 ""
 Po 610 0 
 $EndPAD
 $EndMODULE WE-CBF_1210(W=4.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1210(W=5.2)
+$MODULE SignalCommunications-WE-CBF_1210(W=5.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1210(W=5.2)
+Li SignalCommunications-WE-CBF_1210(W=5.2)
 Cd 
 Kw 
 Sc 00000000
@@ -20184,9 +20184,9 @@ Ne 0 ""
 Po 708 0 
 $EndPAD
 $EndMODULE WE-CBF_1210(W=5.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1806(W=5.5)
+$MODULE SignalCommunications-WE-CBF_1806(W=5.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1806(W=5.5)
+Li SignalCommunications-WE-CBF_1806(W=5.5)
 Cd 
 Kw 
 Sc 00000000
@@ -20219,9 +20219,9 @@ Ne 0 ""
 Po 836 0 
 $EndPAD
 $EndMODULE WE-CBF_1806(W=5.5)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1806(W=6.5)
+$MODULE SignalCommunications-WE-CBF_1806(W=6.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1806(W=6.5)
+Li SignalCommunications-WE-CBF_1806(W=6.5)
 Cd 
 Kw 
 Sc 00000000
@@ -20254,9 +20254,9 @@ Ne 0 ""
 Po 935 0 
 $EndPAD
 $EndMODULE WE-CBF_1806(W=6.5)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1812(W=6.3)
+$MODULE SignalCommunications-WE-CBF_1812(W=6.3)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1812(W=6.3)
+Li SignalCommunications-WE-CBF_1812(W=6.3)
 Cd 
 Kw 
 Sc 00000000
@@ -20289,9 +20289,9 @@ Ne 0 ""
 Po 964 0 
 $EndPAD
 $EndMODULE WE-CBF_1812(W=6.3)
-$MODULE SignalCommunications (rev18a)-WE-CBF_1812(W=7.3)
+$MODULE SignalCommunications-WE-CBF_1812(W=7.3)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_1812(W=7.3)
+Li SignalCommunications-WE-CBF_1812(W=7.3)
 Cd 
 Kw 
 Sc 00000000
@@ -20324,9 +20324,9 @@ Ne 0 ""
 Po 1062 0 
 $EndPAD
 $EndMODULE WE-CBF_1812(W=7.3)
-$MODULE SignalCommunications (rev18a)-WE-CBF_HF_0402(W=1.5)
+$MODULE SignalCommunications-WE-CBF_HF_0402(W=1.5)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_HF_0402(W=1.5)
+Li SignalCommunications-WE-CBF_HF_0402(W=1.5)
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -20363,9 +20363,9 @@ Ne 0 ""
 Po 196 0 
 $EndPAD
 $EndMODULE WE-CBF_HF_0402(W=1.5)
-$MODULE SignalCommunications (rev18a)-WE-CBF_HF_0402(W=2.2)
+$MODULE SignalCommunications-WE-CBF_HF_0402(W=2.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_HF_0402(W=2.2)
+Li SignalCommunications-WE-CBF_HF_0402(W=2.2)
 Cd 
 Kw 
 Sc 00000000
@@ -20402,9 +20402,9 @@ Ne 0 ""
 Po 265 0 
 $EndPAD
 $EndMODULE WE-CBF_HF_0402(W=2.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_HF_0603(W=2.2)
+$MODULE SignalCommunications-WE-CBF_HF_0603(W=2.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_HF_0603(W=2.2)
+Li SignalCommunications-WE-CBF_HF_0603(W=2.2)
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -20437,9 +20437,9 @@ Ne 0 ""
 Po 285 0 
 $EndPAD
 $EndMODULE WE-CBF_HF_0603(W=2.2)
-$MODULE SignalCommunications (rev18a)-WE-CBF_HF_0603(W=2.6)
+$MODULE SignalCommunications-WE-CBF_HF_0603(W=2.6)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CBF_HF_0603(W=2.6)
+Li SignalCommunications-WE-CBF_HF_0603(W=2.6)
 Cd 
 Kw 
 Sc 00000000
@@ -20472,9 +20472,9 @@ Ne 0 ""
 Po 324 0 
 $EndPAD
 $EndMODULE WE-CBF_HF_0603(W=2.6)
-$MODULE SignalCommunications (rev18a)-WE-CFWI_1310
+$MODULE SignalCommunications-WE-CFWI_1310
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CFWI_1310
+Li SignalCommunications-WE-CFWI_1310
 Cd COUPLED FLATWIRE INDUCTOR WE-CFWI
 Kw COUPLED FLATWIRE INDUCTOR WE-CFWI
 Sc 00000000
@@ -20561,9 +20561,9 @@ Ne 0 ""
 Po 2106 -1456 
 $EndPAD
 $EndMODULE WE-CFWI_1310
-$MODULE SignalCommunications (rev18a)-WE-CFWI_1312
+$MODULE SignalCommunications-WE-CFWI_1312
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CFWI_1312
+Li SignalCommunications-WE-CFWI_1312
 Cd COUPLED FLATWIRE INDUCTOR WE-CFWI
 Kw COUPLED FLATWIRE INDUCTOR WE-CFWI
 Sc 00000000
@@ -20645,9 +20645,9 @@ Ne 0 ""
 Po 2106 -1456 
 $EndPAD
 $EndMODULE WE-CFWI_1312
-$MODULE SignalCommunications (rev18a)-WE-CFWI_1813
+$MODULE SignalCommunications-WE-CFWI_1813
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CFWI_1813
+Li SignalCommunications-WE-CFWI_1813
 Cd INDCFWI COUPLED FLATWIRE INDUCTOR
 Kw INDCFWI COUPLED FLATWIRE INDUCTOR
 Sc 00000000
@@ -20734,9 +20734,9 @@ Ne 0 ""
 Po 3149 -2125 
 $EndPAD
 $EndMODULE WE-CFWI_1813
-$MODULE SignalCommunications (rev18a)-WE-CHSA_1011
+$MODULE SignalCommunications-WE-CHSA_1011
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CHSA_1011
+Li SignalCommunications-WE-CHSA_1011
 Cd 
 Kw 
 Sc 00000000
@@ -20781,9 +20781,9 @@ Ne 0 ""
 Po 1594 0 
 $EndPAD
 $EndMODULE WE-CHSA_1011
-$MODULE SignalCommunications (rev18a)-WE-CHSA_1212
+$MODULE SignalCommunications-WE-CHSA_1212
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CHSA_1212
+Li SignalCommunications-WE-CHSA_1212
 Cd 
 Kw 
 Sc 00000000
@@ -20832,9 +20832,9 @@ Ne 0 ""
 Po 2007 0 
 $EndPAD
 $EndMODULE WE-CHSA_1212
-$MODULE SignalCommunications (rev18a)-WE-CHSA_8090
+$MODULE SignalCommunications-WE-CHSA_8090
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CHSA_8090
+Li SignalCommunications-WE-CHSA_8090
 Cd 
 Kw 
 Sc 00000000
@@ -20883,9 +20883,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-CHSA_8090
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XL_744830007215
+$MODULE SignalCommunications-WE-CMBHV_XL_744830007215
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XL_744830007215
+Li SignalCommunications-WE-CMBHV_XL_744830007215
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -20936,9 +20936,9 @@ Ne 0 ""
 Po -4921 -2952 
 $EndPAD
 $EndMODULE WE-CMBHV_XL_744830007215
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XL_744830010185
+$MODULE SignalCommunications-WE-CMBHV_XL_744830010185
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XL_744830010185
+Li SignalCommunications-WE-CMBHV_XL_744830010185
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -20989,9 +20989,9 @@ Ne 0 ""
 Po -4921 -2952 
 $EndPAD
 $EndMODULE WE-CMBHV_XL_744830010185
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XL_744830017132
+$MODULE SignalCommunications-WE-CMBHV_XL_744830017132
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XL_744830017132
+Li SignalCommunications-WE-CMBHV_XL_744830017132
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21042,9 +21042,9 @@ Ne 0 ""
 Po -4921 -2952 
 $EndPAD
 $EndMODULE WE-CMBHV_XL_744830017132
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XL_744830025103
+$MODULE SignalCommunications-WE-CMBHV_XL_744830025103
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XL_744830025103
+Li SignalCommunications-WE-CMBHV_XL_744830025103
 Cd 
 Kw 
 Sc 00000000
@@ -21095,9 +21095,9 @@ Ne 0 ""
 Po -4921 -2952 
 $EndPAD
 $EndMODULE WE-CMBHV_XL_744830025103
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XL_744830039080
+$MODULE SignalCommunications-WE-CMBHV_XL_744830039080
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XL_744830039080
+Li SignalCommunications-WE-CMBHV_XL_744830039080
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21148,9 +21148,9 @@ Ne 0 ""
 Po -4921 -2952 
 $EndPAD
 $EndMODULE WE-CMBHV_XL_744830039080
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XXL_744831010205
+$MODULE SignalCommunications-WE-CMBHV_XXL_744831010205
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XXL_744831010205
+Li SignalCommunications-WE-CMBHV_XXL_744831010205
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21215,9 +21215,9 @@ Ne 0 ""
 Po 6496 0 
 $EndPAD
 $EndMODULE WE-CMBHV_XXL_744831010205
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XXL_744831016164
+$MODULE SignalCommunications-WE-CMBHV_XXL_744831016164
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XXL_744831016164
+Li SignalCommunications-WE-CMBHV_XXL_744831016164
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21282,9 +21282,9 @@ Ne 0 ""
 Po 6496 0 
 $EndPAD
 $EndMODULE WE-CMBHV_XXL_744831016164
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XXL_744831020133
+$MODULE SignalCommunications-WE-CMBHV_XXL_744831020133
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XXL_744831020133
+Li SignalCommunications-WE-CMBHV_XXL_744831020133
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21349,9 +21349,9 @@ Ne 0 ""
 Po 6496 0 
 $EndPAD
 $EndMODULE WE-CMBHV_XXL_744831020133
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XXL_744831034090
+$MODULE SignalCommunications-WE-CMBHV_XXL_744831034090
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XXL_744831034090
+Li SignalCommunications-WE-CMBHV_XXL_744831034090
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21416,9 +21416,9 @@ Ne 0 ""
 Po 6496 0 
 $EndPAD
 $EndMODULE WE-CMBHV_XXL_744831034090
-$MODULE SignalCommunications (rev18a)-WE-CMBHV_XXL_744831047068
+$MODULE SignalCommunications-WE-CMBHV_XXL_744831047068
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBHV_XXL_744831047068
+Li SignalCommunications-WE-CMBHV_XXL_744831047068
 Cd WE-CMBHV COMMON MODE POWER LINE CHOKE
 Kw WE-CMBHV COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21483,9 +21483,9 @@ Ne 0 ""
 Po 6496 0 
 $EndPAD
 $EndMODULE WE-CMBHV_XXL_744831047068
-$MODULE SignalCommunications (rev18a)-WE-CMBH_1.2MM
+$MODULE SignalCommunications-WE-CMBH_1.2MM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBH_1.2MM
+Li SignalCommunications-WE-CMBH_1.2MM
 Cd COMMON MODE POWER LINE CHOKE WE-CMBH
 Kw COMMON MODE POWER LINE CHOKE WE-CMBH
 Sc 00000000
@@ -21550,9 +21550,9 @@ Ne 0 ""
 Po -5413 2460 
 $EndPAD
 $EndMODULE WE-CMBH_1.2MM
-$MODULE SignalCommunications (rev18a)-WE-CMBH_1.5MM
+$MODULE SignalCommunications-WE-CMBH_1.5MM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBH_1.5MM
+Li SignalCommunications-WE-CMBH_1.5MM
 Cd COMMON MODE POWER LINE CHOKE WE-CMBH
 Kw COMMON MODE POWER LINE CHOKE WE-CMBH
 Sc 00000000
@@ -21617,9 +21617,9 @@ Ne 0 ""
 Po -5413 2460 
 $EndPAD
 $EndMODULE WE-CMBH_1.5MM
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_L
+$MODULE SignalCommunications-WE-CMBNC_L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_L
+Li SignalCommunications-WE-CMBNC_L
 Cd WE-CMBNC
 Kw WE-CMBNC
 Sc 00000000
@@ -21675,9 +21675,9 @@ Ne 0 ""
 Po 2362 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_L
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448040707
+$MODULE SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448040707
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448040707
+Li SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448040707
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21729,9 +21729,9 @@ Ne 0 ""
 Po 2362 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_L(WITHOUT-PINS)_7448040707
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041104
+$MODULE SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041104
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041104
+Li SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041104
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21783,9 +21783,9 @@ Ne 0 ""
 Po 2362 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_L(WITHOUT-PINS)_7448041104
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041502
+$MODULE SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041502
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041502
+Li SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041502
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21837,9 +21837,9 @@ Ne 0 ""
 Po -2362 1968 
 $EndPAD
 $EndMODULE WE-CMBNC_L(WITHOUT-PINS)_7448041502
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041801
+$MODULE SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041801
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448041801
+Li SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448041801
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21891,9 +21891,9 @@ Ne 0 ""
 Po 2362 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_L(WITHOUT-PINS)_7448041801
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448042001
+$MODULE SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448042001
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_L(WITHOUT-PINS)_7448042001
+Li SignalCommunications-WE-CMBNC_L(WITHOUT-PINS)_7448042001
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -21945,9 +21945,9 @@ Ne 0 ""
 Po 2362 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_L(WITHOUT-PINS)_7448042001
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_M
+$MODULE SignalCommunications-WE-CMBNC_M
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_M
+Li SignalCommunications-WE-CMBNC_M
 Cd 
 Kw 
 Sc 00000000
@@ -21999,9 +21999,9 @@ Ne 0 ""
 Po 2106 -1476 
 $EndPAD
 $EndMODULE WE-CMBNC_M
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_M(WITHOUT-PINS)_7448031002
+$MODULE SignalCommunications-WE-CMBNC_M(WITHOUT-PINS)_7448031002
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_M(WITHOUT-PINS)_7448031002
+Li SignalCommunications-WE-CMBNC_M(WITHOUT-PINS)_7448031002
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22053,9 +22053,9 @@ Ne 0 ""
 Po 2106 -1476 
 $EndPAD
 $EndMODULE WE-CMBNC_M(WITHOUT-PINS)_7448031002
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_M(WITHOUT-PINS)_7448031501
+$MODULE SignalCommunications-WE-CMBNC_M(WITHOUT-PINS)_7448031501
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_M(WITHOUT-PINS)_7448031501
+Li SignalCommunications-WE-CMBNC_M(WITHOUT-PINS)_7448031501
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22107,9 +22107,9 @@ Ne 0 ""
 Po 2106 -1476 
 $EndPAD
 $EndMODULE WE-CMBNC_M(WITHOUT-PINS)_7448031501
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL
+$MODULE SignalCommunications-WE-CMBNC_XL
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL
+Li SignalCommunications-WE-CMBNC_XL
 Cd WE-CMBNC COMMON MODE POWER LINE
 Kw WE-CMBNC COMMON MODE POWER LINE
 Sc 00000000
@@ -22164,9 +22164,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448050530
+$MODULE SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448050530
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448050530
+Li SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448050530
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22217,9 +22217,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL(WITHOUT-PINS)_7448050530
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448051012
+$MODULE SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448051012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448051012
+Li SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448051012
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22271,9 +22271,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL(WITHOUT-PINS)_7448051012
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448051804
+$MODULE SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448051804
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448051804
+Li SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448051804
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22325,9 +22325,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL(WITHOUT-PINS)_7448051804
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448052303
+$MODULE SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448052303
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448052303
+Li SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448052303
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22379,9 +22379,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL(WITHOUT-PINS)_7448052303
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448052502
+$MODULE SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448052502
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448052502
+Li SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448052502
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22433,9 +22433,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL(WITHOUT-PINS)_7448052502
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448053201
+$MODULE SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448053201
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XL(WITHOUT-PINS)_7448053201
+Li SignalCommunications-WE-CMBNC_XL(WITHOUT-PINS)_7448053201
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22547,9 +22547,9 @@ Ne 0 ""
 Po 2952 -4921 
 $EndPAD
 $EndMODULE WE-CMBNC_XL(WITHOUT-PINS)_7448053201
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XS_744801XXXX
+$MODULE SignalCommunications-WE-CMBNC_XS_744801XXXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XS_744801XXXX
+Li SignalCommunications-WE-CMBNC_XS_744801XXXX
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22600,9 +22600,9 @@ Ne 0 ""
 Po 885 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_XS_744801XXXX
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XS_744801XXXX-A
+$MODULE SignalCommunications-WE-CMBNC_XS_744801XXXX-A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XS_744801XXXX-A
+Li SignalCommunications-WE-CMBNC_XS_744801XXXX-A
 Cd 
 Kw 
 Sc 00000000
@@ -22653,9 +22653,9 @@ Ne 0 ""
 Po 885 -1968 
 $EndPAD
 $EndMODULE WE-CMBNC_XS_744801XXXX-A
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060535
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448060535
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060535
+Li SignalCommunications-WE-CMBNC_XXL_7448060535
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22721,9 +22721,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448060535
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060620
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448060620
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060620
+Li SignalCommunications-WE-CMBNC_XXL_7448060620
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22789,9 +22789,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448060620
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060814
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448060814
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448060814
+Li SignalCommunications-WE-CMBNC_XXL_7448060814
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22857,9 +22857,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448060814
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448061309
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448061309
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448061309
+Li SignalCommunications-WE-CMBNC_XXL_7448061309
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22925,9 +22925,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448061309
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448061507
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448061507
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448061507
+Li SignalCommunications-WE-CMBNC_XXL_7448061507
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -22993,9 +22993,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448061507
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448062105
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448062105
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448062105
+Li SignalCommunications-WE-CMBNC_XXL_7448062105
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -23061,9 +23061,9 @@ Ne 0 ""
 Po 0 -6889 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448062105
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448062603
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448062603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448062603
+Li SignalCommunications-WE-CMBNC_XXL_7448062603
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -23129,9 +23129,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448062603
-$MODULE SignalCommunications (rev18a)-WE-CMBNC_XXL_7448063801
+$MODULE SignalCommunications-WE-CMBNC_XXL_7448063801
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMBNC_XXL_7448063801
+Li SignalCommunications-WE-CMBNC_XXL_7448063801
 Cd COMMON MODE POWER LINE CHOKE
 Kw COMMON MODE POWER LINE CHOKE
 Sc 00000000
@@ -23257,9 +23257,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-CMBNC_XXL_7448063801
-$MODULE SignalCommunications (rev18a)-WE-CMB_HC_S
+$MODULE SignalCommunications-WE-CMB_HC_S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_HC_S
+Li SignalCommunications-WE-CMB_HC_S
 Cd CURRENT COMPENSATED CHOKE WE-CMB HC
 Kw CURRENT COMPENSATED CHOKE WE-CMB HC
 Sc 00000000
@@ -23320,9 +23320,9 @@ Ne 0 ""
 Po -984 1515 
 $EndPAD
 $EndMODULE WE-CMB_HC_S
-$MODULE SignalCommunications (rev18a)-WE-CMB_L
+$MODULE SignalCommunications-WE-CMB_L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_L
+Li SignalCommunications-WE-CMB_L
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -23383,9 +23383,9 @@ Ne 0 ""
 Po -2362 -1968 
 $EndPAD
 $EndMODULE WE-CMB_L
-$MODULE SignalCommunications (rev18a)-WE-CMB_M_744823210_20
+$MODULE SignalCommunications-WE-CMB_M_744823210_20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_M_744823210_20
+Li SignalCommunications-WE-CMB_M_744823210_20
 Cd 
 Kw 
 Sc 00000000
@@ -23446,9 +23446,9 @@ Ne 0 ""
 Po 2106 -1476 
 $EndPAD
 $EndMODULE WE-CMB_M_744823210_20
-$MODULE SignalCommunications (rev18a)-WE-CMB_M_744823305
+$MODULE SignalCommunications-WE-CMB_M_744823305
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_M_744823305
+Li SignalCommunications-WE-CMB_M_744823305
 Cd 
 Kw 
 Sc 00000000
@@ -23509,9 +23509,9 @@ Ne 0 ""
 Po -2106 1476 
 $EndPAD
 $EndMODULE WE-CMB_M_744823305
-$MODULE SignalCommunications (rev18a)-WE-CMB_M_744823333
+$MODULE SignalCommunications-WE-CMB_M_744823333
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_M_744823333
+Li SignalCommunications-WE-CMB_M_744823333
 Cd 
 Kw 
 Sc 00000000
@@ -23572,9 +23572,9 @@ Ne 0 ""
 Po 2106 -1476 
 $EndPAD
 $EndMODULE WE-CMB_M_744823333
-$MODULE SignalCommunications (rev18a)-WE-CMB_M_744823422
+$MODULE SignalCommunications-WE-CMB_M_744823422
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_M_744823422
+Li SignalCommunications-WE-CMB_M_744823422
 Cd 
 Kw 
 Sc 00000000
@@ -23635,9 +23635,9 @@ Ne 0 ""
 Po -2106 1476 
 $EndPAD
 $EndMODULE WE-CMB_M_744823422
-$MODULE SignalCommunications (rev18a)-WE-CMB_M_744823601
+$MODULE SignalCommunications-WE-CMB_M_744823601
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_M_744823601
+Li SignalCommunications-WE-CMB_M_744823601
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -23698,9 +23698,9 @@ Ne 0 ""
 Po 2106 -1476 
 $EndPAD
 $EndMODULE WE-CMB_M_744823601
-$MODULE SignalCommunications (rev18a)-WE-CMB_NIZN_S
+$MODULE SignalCommunications-WE-CMB_NIZN_S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_NIZN_S
+Li SignalCommunications-WE-CMB_NIZN_S
 Cd CURRENT COMPENSATED CHOKE WE-CMB NIZN
 Kw CURRENT COMPENSATED CHOKE WE-CMB NIZN
 Sc 00000000
@@ -23761,9 +23761,9 @@ Ne 0 ""
 Po -984 1515 
 $EndPAD
 $EndMODULE WE-CMB_NIZN_S
-$MODULE SignalCommunications (rev18a)-WE-CMB_NIZN_XS
+$MODULE SignalCommunications-WE-CMB_NIZN_XS
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_NIZN_XS
+Li SignalCommunications-WE-CMB_NIZN_XS
 Cd CURRENT COMPENSATED CHOKE WE-CMB NIZN
 Kw CURRENT COMPENSATED CHOKE WE-CMB NIZN
 Sc 00000000
@@ -23824,9 +23824,9 @@ Ne 0 ""
 Po -885 1968 
 $EndPAD
 $EndMODULE WE-CMB_NIZN_XS
-$MODULE SignalCommunications (rev18a)-WE-CMB_S
+$MODULE SignalCommunications-WE-CMB_S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_S
+Li SignalCommunications-WE-CMB_S
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -23888,9 +23888,9 @@ Ne 0 ""
 Po -984 -1515 
 $EndPAD
 $EndMODULE WE-CMB_S
-$MODULE SignalCommunications (rev18a)-WE-CMB_XL_744825XXX
+$MODULE SignalCommunications-WE-CMB_XL_744825XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XL_744825XXX
+Li SignalCommunications-WE-CMB_XL_744825XXX
 Cd 
 Kw 
 Sc 00000000
@@ -23951,9 +23951,9 @@ Ne 0 ""
 Po 2952 5314 
 $EndPAD
 $EndMODULE WE-CMB_XL_744825XXX
-$MODULE SignalCommunications (rev18a)-WE-CMB_XL_7448251201
+$MODULE SignalCommunications-WE-CMB_XL_7448251201
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XL_7448251201
+Li SignalCommunications-WE-CMB_XL_7448251201
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -24014,9 +24014,9 @@ Ne 0 ""
 Po 2952 4921 
 $EndPAD
 $EndMODULE WE-CMB_XL_7448251201
-$MODULE SignalCommunications (rev18a)-WE-CMB_XS
+$MODULE SignalCommunications-WE-CMB_XS
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XS
+Li SignalCommunications-WE-CMB_XS
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -24078,9 +24078,9 @@ Ne 0 ""
 Po 885 1968 
 $EndPAD
 $EndMODULE WE-CMB_XS
-$MODULE SignalCommunications (rev18a)-WE-CMB_XXL_7448261418
+$MODULE SignalCommunications-WE-CMB_XXL_7448261418
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XXL_7448261418
+Li SignalCommunications-WE-CMB_XXL_7448261418
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -24141,9 +24141,9 @@ Ne 0 ""
 Po 3641 -1968 
 $EndPAD
 $EndMODULE WE-CMB_XXL_7448261418
-$MODULE SignalCommunications (rev18a)-WE-CMB_XXL_7448262013
+$MODULE SignalCommunications-WE-CMB_XXL_7448262013
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XXL_7448262013
+Li SignalCommunications-WE-CMB_XXL_7448262013
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -24204,9 +24204,9 @@ Ne 0 ""
 Po 3641 -1968 
 $EndPAD
 $EndMODULE WE-CMB_XXL_7448262013
-$MODULE SignalCommunications (rev18a)-WE-CMB_XXL_7448262510
+$MODULE SignalCommunications-WE-CMB_XXL_7448262510
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XXL_7448262510
+Li SignalCommunications-WE-CMB_XXL_7448262510
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -24267,9 +24267,9 @@ Ne 0 ""
 Po 3641 -1968 
 $EndPAD
 $EndMODULE WE-CMB_XXL_7448262510
-$MODULE SignalCommunications (rev18a)-WE-CMB_XXL_7448263505
+$MODULE SignalCommunications-WE-CMB_XXL_7448263505
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMB_XXL_7448263505
+Li SignalCommunications-WE-CMB_XXL_7448263505
 Cd CURRENT COMPENSATED CHOKE WE-CMB
 Kw CURRENT COMPENSATED CHOKE WE-CMB
 Sc 00000000
@@ -24336,9 +24336,9 @@ Ne 0 ""
 Po 3641 -1968 
 $EndPAD
 $EndMODULE WE-CMB_XXL_7448263505
-$MODULE SignalCommunications (rev18a)-WE-CMS_7427520
+$MODULE SignalCommunications-WE-CMS_7427520
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMS_7427520
+Li SignalCommunications-WE-CMS_7427520
 Cd WE-CMS COMMON MODE SMD BEAD
 Kw WE-CMS COMMON MODE SMD BEAD
 Sc 00000000
@@ -24406,9 +24406,9 @@ Ne 0 ""
 Po 787 -511 
 $EndPAD
 $EndMODULE WE-CMS_7427520
-$MODULE SignalCommunications (rev18a)-WE-CMS_7427521
+$MODULE SignalCommunications-WE-CMS_7427521
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CMS_7427521
+Li SignalCommunications-WE-CMS_7427521
 Cd COMMON MODE SMD BEAD WE-CMS
 Kw COMMON MODE SMD BEAD WE-CMS
 Sc 00000000
@@ -24474,9 +24474,9 @@ Ne 0 ""
 Po 1377 -511 
 $EndPAD
 $EndMODULE WE-CMS_7427521
-$MODULE SignalCommunications (rev18a)-WE-CNSW_0603
+$MODULE SignalCommunications-WE-CNSW_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CNSW_0603
+Li SignalCommunications-WE-CNSW_0603
 Cd SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Kw SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Sc 00000000
@@ -24540,9 +24540,9 @@ Ne 0 ""
 Po -285 98 
 $EndPAD
 $EndMODULE WE-CNSW_0603
-$MODULE SignalCommunications (rev18a)-WE-CNSW_0805
+$MODULE SignalCommunications-WE-CNSW_0805
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CNSW_0805
+Li SignalCommunications-WE-CNSW_0805
 Cd SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Kw SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Sc 00000000
@@ -24604,9 +24604,9 @@ Ne 0 ""
 Po -334 157 
 $EndPAD
 $EndMODULE WE-CNSW_0805
-$MODULE SignalCommunications (rev18a)-WE-CNSW_1206
+$MODULE SignalCommunications-WE-CNSW_1206
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CNSW_1206
+Li SignalCommunications-WE-CNSW_1206
 Cd SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Kw SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Sc 00000000
@@ -24669,9 +24669,9 @@ Ne 0 ""
 Po -531 196 
 $EndPAD
 $EndMODULE WE-CNSW_1206
-$MODULE SignalCommunications (rev18a)-WE-CNSW_1812
+$MODULE SignalCommunications-WE-CNSW_1812
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CNSW_1812
+Li SignalCommunications-WE-CNSW_1812
 Cd SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Kw SMD COMMON MODE NOISE SUPPRESSOR WE-CNSW
 Sc 00000000
@@ -24733,9 +24733,9 @@ Ne 0 ""
 Po -718 -442 
 $EndPAD
 $EndMODULE WE-CNSW_1812
-$MODULE SignalCommunications (rev18a)-WE-CNSW_HF_0504
+$MODULE SignalCommunications-WE-CNSW_HF_0504
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CNSW_HF_0504
+Li SignalCommunications-WE-CNSW_HF_0504
 Cd SMD COMMON MODE LINE FILTER
 Kw SMD COMMON MODE LINE FILTER
 Sc 00000000
@@ -24787,9 +24787,9 @@ Ne 0 ""
 Po -216 137 
 $EndPAD
 $EndMODULE WE-CNSW_HF_0504
-$MODULE SignalCommunications (rev18a)-WE-CPI_HV_4828
+$MODULE SignalCommunications-WE-CPI_HV_4828
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CPI_HV_4828
+Li SignalCommunications-WE-CPI_HV_4828
 Cd 
 Kw 
 Sc 00000000
@@ -24850,9 +24850,9 @@ Ne 0 ""
 Po 826 669 
 $EndPAD
 $EndMODULE WE-CPI_HV_4828
-$MODULE SignalCommunications (rev18a)-WE-CST
+$MODULE SignalCommunications-WE-CST
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-CST
+Li SignalCommunications-WE-CST
 Cd CURRENT SENSE TRANSFORMER WE-CST
 Kw CURRENT SENSE TRANSFORMER WE-CST
 Sc 00000000
@@ -24942,9 +24942,9 @@ Ne 0 ""
 Po 0 -1023 
 $EndPAD
 $EndMODULE WE-CST
-$MODULE SignalCommunications (rev18a)-WE-DAA
+$MODULE SignalCommunications-WE-DAA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DAA
+Li SignalCommunications-WE-DAA
 Cd ANALOG MODEM TRANSFORMER WE-AMT
 Kw ANALOG MODEM TRANSFORMER WE-AMT
 Sc 00000000
@@ -25004,9 +25004,9 @@ Ne 0 ""
 Po -1625 500 
 $EndPAD
 $EndMODULE WE-DAA
-$MODULE SignalCommunications (rev18a)-WE-DAA_750082157
+$MODULE SignalCommunications-WE-DAA_750082157
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DAA_750082157
+Li SignalCommunications-WE-DAA_750082157
 Cd 
 Kw 
 Sc 00000000
@@ -25064,9 +25064,9 @@ Ne 0 ""
 Po -1494 399 
 $EndPAD
 $EndMODULE WE-DAA_750082157
-$MODULE SignalCommunications (rev18a)-WE-DCT
+$MODULE SignalCommunications-WE-DCT
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DCT
+Li SignalCommunications-WE-DCT
 Cd TOROIDAL DOUBLE POWER CHOKE WE-DCT
 Kw TOROIDAL DOUBLE POWER CHOKE WE-DCT
 Sc 00000000
@@ -25130,9 +25130,9 @@ Ne 0 ""
 Po 4055 1968 
 $EndPAD
 $EndMODULE WE-DCT
-$MODULE SignalCommunications (rev18a)-WE-DD_1210_1260_1280_CROSSED
+$MODULE SignalCommunications-WE-DD_1210_1260_1280_CROSSED
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DD_1210_1260_1280_CROSSED
+Li SignalCommunications-WE-DD_1210_1260_1280_CROSSED
 Cd 
 Kw 
 Sc 00000000
@@ -25204,9 +25204,9 @@ Ne 0 ""
 Po 1958 -688 
 $EndPAD
 $EndMODULE WE-DD_1210_1260_1280_CROSSED
-$MODULE SignalCommunications (rev18a)-WE-DD_1260_1280
+$MODULE SignalCommunications-WE-DD_1260_1280
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DD_1260_1280
+Li SignalCommunications-WE-DD_1260_1280
 Cd SMD-SHIELDED COUPLED INDUCTOR WE-DD
 Kw SMD-SHIELDED COUPLED INDUCTOR WE-DD
 Sc 00000000
@@ -25272,9 +25272,9 @@ Ne 0 ""
 Po 1958 -688 
 $EndPAD
 $EndMODULE WE-DD_1260_1280
-$MODULE SignalCommunications (rev18a)-WE-DD_7332
+$MODULE SignalCommunications-WE-DD_7332
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DD_7332
+Li SignalCommunications-WE-DD_7332
 Cd SMD-SHIELDED COUPLED INDUCTOR WE-DD
 Kw SMD-SHIELDED COUPLED INDUCTOR WE-DD
 Sc 00000000
@@ -25342,9 +25342,9 @@ Ne 0 ""
 Po -1043 -354 
 $EndPAD
 $EndMODULE WE-DD_7332
-$MODULE SignalCommunications (rev18a)-WE-DD_7345
+$MODULE SignalCommunications-WE-DD_7345
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DD_7345
+Li SignalCommunications-WE-DD_7345
 Cd 
 Kw 
 Sc 00000000
@@ -25400,9 +25400,9 @@ Ne 0 ""
 Po -1043 -354 
 $EndPAD
 $EndMODULE WE-DD_7345
-$MODULE SignalCommunications (rev18a)-WE-DPC_4818_4828
+$MODULE SignalCommunications-WE-DPC_4818_4828
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DPC_4818_4828
+Li SignalCommunications-WE-DPC_4818_4828
 Cd 
 Kw 
 Sc 00000000
@@ -25454,9 +25454,9 @@ Ne 0 ""
 Po -649 -649 
 $EndPAD
 $EndMODULE WE-DPC_4818_4828
-$MODULE SignalCommunications (rev18a)-WE-DPC_5838
+$MODULE SignalCommunications-WE-DPC_5838
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DPC_5838
+Li SignalCommunications-WE-DPC_5838
 Cd 
 Kw 
 Sc 00000000
@@ -25770,9 +25770,9 @@ Ne 0 ""
 Po 748 -984 
 $EndPAD
 $EndMODULE WE-DPC_5838
-$MODULE SignalCommunications (rev18a)-WE-DPC_HV_5030
+$MODULE SignalCommunications-WE-DPC_HV_5030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DPC_HV_5030
+Li SignalCommunications-WE-DPC_HV_5030
 Cd 
 Kw 
 Sc 00000000
@@ -25825,9 +25825,9 @@ Ne 0 ""
 Po -688 688 
 $EndPAD
 $EndMODULE WE-DPC_HV_5030
-$MODULE SignalCommunications (rev18a)-WE-DS_2101120X3
+$MODULE SignalCommunications-WE-DS_2101120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2101120X3
+Li SignalCommunications-WE-DS_2101120X3
 Cd 
 Kw 
 Sc 00000000
@@ -25929,9 +25929,9 @@ Ne 0 ""
 Po 4921 0 
 $EndPAD
 $EndMODULE WE-DS_2101120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2106110X3
+$MODULE SignalCommunications-WE-DS_2106110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2106110X3
+Li SignalCommunications-WE-DS_2106110X3
 Cd 
 Kw 
 Sc 00000000
@@ -26032,9 +26032,9 @@ Ne 0 ""
 Po 4921 0 
 $EndPAD
 $EndMODULE WE-DS_2106110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2106120X3
+$MODULE SignalCommunications-WE-DS_2106120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2106120X3
+Li SignalCommunications-WE-DS_2106120X3
 Cd 
 Kw 
 Sc 00000000
@@ -26135,9 +26135,9 @@ Ne 0 ""
 Po 4921 0 
 $EndPAD
 $EndMODULE WE-DS_2106120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2121110X3
+$MODULE SignalCommunications-WE-DS_2121110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2121110X3
+Li SignalCommunications-WE-DS_2121110X3
 Cd 
 Kw 
 Sc 00000000
@@ -26280,9 +26280,9 @@ Ne 0 ""
 Po 6555 0 
 $EndPAD
 $EndMODULE WE-DS_2121110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2121120X3
+$MODULE SignalCommunications-WE-DS_2121120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2121120X3
+Li SignalCommunications-WE-DS_2121120X3
 Cd 
 Kw 
 Sc 00000000
@@ -26425,9 +26425,9 @@ Ne 0 ""
 Po 6555 0 
 $EndPAD
 $EndMODULE WE-DS_2121120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2126110X3
+$MODULE SignalCommunications-WE-DS_2126110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2126110X3
+Li SignalCommunications-WE-DS_2126110X3
 Cd 
 Kw 
 Sc 00000000
@@ -26570,9 +26570,9 @@ Ne 0 ""
 Po 6555 0 
 $EndPAD
 $EndMODULE WE-DS_2126110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2126120X3
+$MODULE SignalCommunications-WE-DS_2126120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2126120X3
+Li SignalCommunications-WE-DS_2126120X3
 Cd 
 Kw 
 Sc 00000000
@@ -26715,9 +26715,9 @@ Ne 0 ""
 Po 6555 0 
 $EndPAD
 $EndMODULE WE-DS_2126120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2141110X3
+$MODULE SignalCommunications-WE-DS_2141110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2141110X3
+Li SignalCommunications-WE-DS_2141110X3
 Cd 
 Kw 
 Sc 00000000
@@ -26930,9 +26930,9 @@ Ne 0 ""
 Po 9251 0 
 $EndPAD
 $EndMODULE WE-DS_2141110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2141120X3
+$MODULE SignalCommunications-WE-DS_2141120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2141120X3
+Li SignalCommunications-WE-DS_2141120X3
 Cd 
 Kw 
 Sc 00000000
@@ -27144,9 +27144,9 @@ Ne 0 ""
 Po 9251 0 
 $EndPAD
 $EndMODULE WE-DS_2141120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2146110X3
+$MODULE SignalCommunications-WE-DS_2146110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2146110X3
+Li SignalCommunications-WE-DS_2146110X3
 Cd 
 Kw 
 Sc 00000000
@@ -27359,9 +27359,9 @@ Ne 0 ""
 Po 9251 0 
 $EndPAD
 $EndMODULE WE-DS_2146110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2146120X3
+$MODULE SignalCommunications-WE-DS_2146120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2146120X3
+Li SignalCommunications-WE-DS_2146120X3
 Cd 
 Kw 
 Sc 00000000
@@ -27574,9 +27574,9 @@ Ne 0 ""
 Po 9251 0 
 $EndPAD
 $EndMODULE WE-DS_2146120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2161110X3
+$MODULE SignalCommunications-WE-DS_2161110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2161110X3
+Li SignalCommunications-WE-DS_2161110X3
 Cd 
 Kw 
 Sc 00000000
@@ -27873,9 +27873,9 @@ Ne 0 ""
 Po 12500 0 
 $EndPAD
 $EndMODULE WE-DS_2161110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2161120X3
+$MODULE SignalCommunications-WE-DS_2161120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2161120X3
+Li SignalCommunications-WE-DS_2161120X3
 Cd 
 Kw 
 Sc 00000000
@@ -28172,9 +28172,9 @@ Ne 0 ""
 Po 12500 0 
 $EndPAD
 $EndMODULE WE-DS_2161120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2166110X3
+$MODULE SignalCommunications-WE-DS_2166110X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2166110X3
+Li SignalCommunications-WE-DS_2166110X3
 Cd 
 Kw 
 Sc 00000000
@@ -28471,9 +28471,9 @@ Ne 0 ""
 Po 12500 0 
 $EndPAD
 $EndMODULE WE-DS_2166110X3
-$MODULE SignalCommunications (rev18a)-WE-DS_2166120X3
+$MODULE SignalCommunications-WE-DS_2166120X3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_2166120X3
+Li SignalCommunications-WE-DS_2166120X3
 Cd 
 Kw 
 Sc 00000000
@@ -28770,9 +28770,9 @@ Ne 0 ""
 Po 12500 0 
 $EndPAD
 $EndMODULE WE-DS_2166120X3
-$MODULE SignalCommunications (rev18a)-WE-DS_210111003
+$MODULE SignalCommunications-WE-DS_210111003
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_210111003
+Li SignalCommunications-WE-DS_210111003
 Cd 
 Kw 
 Sc 00000000
@@ -28873,9 +28873,9 @@ Ne 0 ""
 Po 4921 0 
 $EndPAD
 $EndMODULE WE-DS_210111003
-$MODULE SignalCommunications (rev18a)-WE-DS_210111023
+$MODULE SignalCommunications-WE-DS_210111023
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_210111023
+Li SignalCommunications-WE-DS_210111023
 Cd 
 Kw 
 Sc 00000000
@@ -28976,9 +28976,9 @@ Ne 0 ""
 Po 4921 0 
 $EndPAD
 $EndMODULE WE-DS_210111023
-$MODULE SignalCommunications (rev18a)-WE-DS_240117113
+$MODULE SignalCommunications-WE-DS_240117113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_240117113
+Li SignalCommunications-WE-DS_240117113
 Cd 
 Kw 
 Sc 00000000
@@ -29116,9 +29116,9 @@ Ne 0 ""
 Po 4921 -531 
 $EndPAD
 $EndMODULE WE-DS_240117113
-$MODULE SignalCommunications (rev18a)-WE-DS_240617113
+$MODULE SignalCommunications-WE-DS_240617113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_240617113
+Li SignalCommunications-WE-DS_240617113
 Cd 
 Kw 
 Sc 00000000
@@ -29256,9 +29256,9 @@ Ne 0 ""
 Po 4921 -531 
 $EndPAD
 $EndMODULE WE-DS_240617113
-$MODULE SignalCommunications (rev18a)-WE-DS_242117113
+$MODULE SignalCommunications-WE-DS_242117113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_242117113
+Li SignalCommunications-WE-DS_242117113
 Cd 
 Kw 
 Sc 00000000
@@ -29444,9 +29444,9 @@ Ne 0 ""
 Po 6555 -531 
 $EndPAD
 $EndMODULE WE-DS_242117113
-$MODULE SignalCommunications (rev18a)-WE-DS_242617113
+$MODULE SignalCommunications-WE-DS_242617113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_242617113
+Li SignalCommunications-WE-DS_242617113
 Cd 
 Kw 
 Sc 00000000
@@ -29632,9 +29632,9 @@ Ne 0 ""
 Po 6555 -531 
 $EndPAD
 $EndMODULE WE-DS_242617113
-$MODULE SignalCommunications (rev18a)-WE-DS_244117113
+$MODULE SignalCommunications-WE-DS_244117113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_244117113
+Li SignalCommunications-WE-DS_244117113
 Cd 
 Kw 
 Sc 00000000
@@ -29900,9 +29900,9 @@ Ne 0 ""
 Po 9251 -531 
 $EndPAD
 $EndMODULE WE-DS_244117113
-$MODULE SignalCommunications (rev18a)-WE-DS_244617113
+$MODULE SignalCommunications-WE-DS_244617113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_244617113
+Li SignalCommunications-WE-DS_244617113
 Cd 
 Kw 
 Sc 00000000
@@ -30164,9 +30164,9 @@ Ne 0 ""
 Po 9251 -531 
 $EndPAD
 $EndMODULE WE-DS_244617113
-$MODULE SignalCommunications (rev18a)-WE-DS_246117113
+$MODULE SignalCommunications-WE-DS_246117113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_246117113
+Li SignalCommunications-WE-DS_246117113
 Cd 
 Kw 
 Sc 00000000
@@ -30528,9 +30528,9 @@ Ne 0 ""
 Po 12500 -531 
 $EndPAD
 $EndMODULE WE-DS_246117113
-$MODULE SignalCommunications (rev18a)-WE-DS_246617113
+$MODULE SignalCommunications-WE-DS_246617113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-DS_246617113
+Li SignalCommunications-WE-DS_246617113
 Cd 
 Kw 
 Sc 00000000
@@ -30892,9 +30892,9 @@ Ne 0 ""
 Po 12500 -531 
 $EndPAD
 $EndMODULE WE-DS_246617113
-$MODULE SignalCommunications (rev18a)-WE-EHPI
+$MODULE SignalCommunications-WE-EHPI
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-EHPI
+Li SignalCommunications-WE-EHPI
 Cd ENERGY HARVESTING POWER INDUCTOR WE-EHPI
 Kw ENERGY HARVESTING POWER INDUCTOR WE-EHPI
 Sc 00000000
@@ -31110,9 +31110,9 @@ Ne 0 ""
 Po -787 984 
 $EndPAD
 $EndMODULE WE-EHPI
-$MODULE SignalCommunications (rev18a)-WE-EP5_6PIN_2
+$MODULE SignalCommunications-WE-EP5_6PIN_2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-EP5_6PIN_2
+Li SignalCommunications-WE-EP5_6PIN_2
 Cd 
 Kw 
 Sc 00000000
@@ -31182,9 +31182,9 @@ Ne 0 ""
 Po 1435 -728 
 $EndPAD
 $EndMODULE WE-EP5_6PIN_2
-$MODULE SignalCommunications (rev18a)-WE-EXB_744844XXX
+$MODULE SignalCommunications-WE-EXB_744844XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-EXB_744844XXX
+Li SignalCommunications-WE-EXB_744844XXX
 Cd 
 Kw 
 Sc 00000000
@@ -31235,9 +31235,9 @@ Ne 0 ""
 Po -2362 1968 
 $EndPAD
 $EndMODULE WE-EXB_744844XXX
-$MODULE SignalCommunications (rev18a)-WE-EXB_744844102
+$MODULE SignalCommunications-WE-EXB_744844102
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-EXB_744844102
+Li SignalCommunications-WE-EXB_744844102
 Cd 
 Kw 
 Sc 00000000
@@ -31288,9 +31288,9 @@ Ne 0 ""
 Po -2362 1968 
 $EndPAD
 $EndMODULE WE-EXB_744844102
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1012_744750340047
+$MODULE SignalCommunications-WE-FAMI_1012_744750340047
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1012_744750340047
+Li SignalCommunications-WE-FAMI_1012_744750340047
 Cd 
 Kw 
 Sc 00000000
@@ -31315,9 +31315,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FAMI_1012_744750340047
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1012_744750340150
+$MODULE SignalCommunications-WE-FAMI_1012_744750340150
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1012_744750340150
+Li SignalCommunications-WE-FAMI_1012_744750340150
 Cd 
 Kw 
 Sc 00000000
@@ -31342,9 +31342,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FAMI_1012_744750340150
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1215_744750460100
+$MODULE SignalCommunications-WE-FAMI_1215_744750460100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1215_744750460100
+Li SignalCommunications-WE-FAMI_1215_744750460100
 Cd 
 Kw 
 Sc 00000000
@@ -31369,9 +31369,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1215_744750460100
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1215_744750460150
+$MODULE SignalCommunications-WE-FAMI_1215_744750460150
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1215_744750460150
+Li SignalCommunications-WE-FAMI_1215_744750460150
 Cd 
 Kw 
 Sc 00000000
@@ -31396,9 +31396,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1215_744750460150
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1215_744750460220
+$MODULE SignalCommunications-WE-FAMI_1215_744750460220
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1215_744750460220
+Li SignalCommunications-WE-FAMI_1215_744750460220
 Cd 
 Kw 
 Sc 00000000
@@ -31423,9 +31423,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1215_744750460220
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1280_744750420047
+$MODULE SignalCommunications-WE-FAMI_1280_744750420047
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1280_744750420047
+Li SignalCommunications-WE-FAMI_1280_744750420047
 Cd 
 Kw 
 Sc 00000000
@@ -31450,9 +31450,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1280_744750420047
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1280_744750420068
+$MODULE SignalCommunications-WE-FAMI_1280_744750420068
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1280_744750420068
+Li SignalCommunications-WE-FAMI_1280_744750420068
 Cd 
 Kw 
 Sc 00000000
@@ -31477,9 +31477,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1280_744750420068
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1280_744750420100
+$MODULE SignalCommunications-WE-FAMI_1280_744750420100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1280_744750420100
+Li SignalCommunications-WE-FAMI_1280_744750420100
 Cd 
 Kw 
 Sc 00000000
@@ -31504,9 +31504,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1280_744750420100
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1280_744750420150
+$MODULE SignalCommunications-WE-FAMI_1280_744750420150
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1280_744750420150
+Li SignalCommunications-WE-FAMI_1280_744750420150
 Cd 
 Kw 
 Sc 00000000
@@ -31531,9 +31531,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1280_744750420150
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1280_744750420220
+$MODULE SignalCommunications-WE-FAMI_1280_744750420220
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1280_744750420220
+Li SignalCommunications-WE-FAMI_1280_744750420220
 Cd 
 Kw 
 Sc 00000000
@@ -31558,9 +31558,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FAMI_1280_744750420220
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1410_744750530047
+$MODULE SignalCommunications-WE-FAMI_1410_744750530047
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1410_744750530047
+Li SignalCommunications-WE-FAMI_1410_744750530047
 Cd 
 Kw 
 Sc 00000000
@@ -31585,9 +31585,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-FAMI_1410_744750530047
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1410_744750530068
+$MODULE SignalCommunications-WE-FAMI_1410_744750530068
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1410_744750530068
+Li SignalCommunications-WE-FAMI_1410_744750530068
 Cd 
 Kw 
 Sc 00000000
@@ -31612,9 +31612,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-FAMI_1410_744750530068
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1410_744750530100
+$MODULE SignalCommunications-WE-FAMI_1410_744750530100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1410_744750530100
+Li SignalCommunications-WE-FAMI_1410_744750530100
 Cd 
 Kw 
 Sc 00000000
@@ -31639,9 +31639,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-FAMI_1410_744750530100
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1415_744750560047
+$MODULE SignalCommunications-WE-FAMI_1415_744750560047
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1415_744750560047
+Li SignalCommunications-WE-FAMI_1415_744750560047
 Cd 
 Kw 
 Sc 00000000
@@ -31666,9 +31666,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-FAMI_1415_744750560047
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1415_744750560100
+$MODULE SignalCommunications-WE-FAMI_1415_744750560100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1415_744750560100
+Li SignalCommunications-WE-FAMI_1415_744750560100
 Cd 
 Kw 
 Sc 00000000
@@ -31693,9 +31693,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-FAMI_1415_744750560100
-$MODULE SignalCommunications (rev18a)-WE-FAMI_1415_744750560220
+$MODULE SignalCommunications-WE-FAMI_1415_744750560220
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_1415_744750560220
+Li SignalCommunications-WE-FAMI_1415_744750560220
 Cd 
 Kw 
 Sc 00000000
@@ -31720,9 +31720,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-FAMI_1415_744750560220
-$MODULE SignalCommunications (rev18a)-WE-FAMI_8010_744750230030
+$MODULE SignalCommunications-WE-FAMI_8010_744750230030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_8010_744750230030
+Li SignalCommunications-WE-FAMI_8010_744750230030
 Cd 
 Kw 
 Sc 00000000
@@ -31747,9 +31747,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FAMI_8010_744750230030
-$MODULE SignalCommunications (rev18a)-WE-FAMI_8010_744750230047
+$MODULE SignalCommunications-WE-FAMI_8010_744750230047
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_8010_744750230047
+Li SignalCommunications-WE-FAMI_8010_744750230047
 Cd 
 Kw 
 Sc 00000000
@@ -31774,9 +31774,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FAMI_8010_744750230047
-$MODULE SignalCommunications (rev18a)-WE-FAMI_8010_744750230068
+$MODULE SignalCommunications-WE-FAMI_8010_744750230068
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_8010_744750230068
+Li SignalCommunications-WE-FAMI_8010_744750230068
 Cd 
 Kw 
 Sc 00000000
@@ -31801,9 +31801,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FAMI_8010_744750230068
-$MODULE SignalCommunications (rev18a)-WE-FAMI_8010_744750230100
+$MODULE SignalCommunications-WE-FAMI_8010_744750230100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_8010_744750230100
+Li SignalCommunications-WE-FAMI_8010_744750230100
 Cd 
 Kw 
 Sc 00000000
@@ -31828,9 +31828,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FAMI_8010_744750230100
-$MODULE SignalCommunications (rev18a)-WE-FAMI_8010_744750230150
+$MODULE SignalCommunications-WE-FAMI_8010_744750230150
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FAMI_8010_744750230150
+Li SignalCommunications-WE-FAMI_8010_744750230150
 Cd 
 Kw 
 Sc 00000000
@@ -31855,9 +31855,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FAMI_8010_744750230150
-$MODULE SignalCommunications (rev18a)-WE-FB3751_EE35_18_10
+$MODULE SignalCommunications-WE-FB3751_EE35_18_10
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB3751_EE35_18_10
+Li SignalCommunications-WE-FB3751_EE35_18_10
 Cd TRANSFORMER, EE35/18/10 THT HORIZONTAL 14PIN
 Kw TRANSFORMER, EE35/18/10 THT HORIZONTAL 14PIN
 Sc 00000000
@@ -31978,9 +31978,9 @@ Ne 0 ""
 Po 5728 -5314 
 $EndPAD
 $EndMODULE WE-FB3751_EE35_18_10
-$MODULE SignalCommunications (rev18a)-WE-FB3751_EFD20
+$MODULE SignalCommunications-WE-FB3751_EFD20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB3751_EFD20
+Li SignalCommunications-WE-FB3751_EFD20
 Cd 
 Kw 
 Sc 00000000
@@ -32073,9 +32073,9 @@ Ne 0 ""
 Po 4460 -2952 
 $EndPAD
 $EndMODULE WE-FB3751_EFD20
-$MODULE SignalCommunications (rev18a)-WE-FB_EE16_8_5
+$MODULE SignalCommunications-WE-FB_EE16_8_5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EE16_8_5
+Li SignalCommunications-WE-FB_EE16_8_5
 Cd 
 Kw 
 Sc 00000000
@@ -32162,9 +32162,9 @@ Ne 0 ""
 Po 3346 -2952 
 $EndPAD
 $EndMODULE WE-FB_EE16_8_5
-$MODULE SignalCommunications (rev18a)-WE-FB_EE20_10_6
+$MODULE SignalCommunications-WE-FB_EE20_10_6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EE20_10_6
+Li SignalCommunications-WE-FB_EE20_10_6
 Cd 
 Kw 
 Sc 00000000
@@ -32288,9 +32288,9 @@ Ne 0 ""
 Po 3937 -3431 
 $EndPAD
 $EndMODULE WE-FB_EE20_10_6
-$MODULE SignalCommunications (rev18a)-WE-FB_EFD20
+$MODULE SignalCommunications-WE-FB_EFD20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EFD20
+Li SignalCommunications-WE-FB_EFD20
 Cd 
 Kw 
 Sc 00000000
@@ -32402,9 +32402,9 @@ Ne 0 ""
 Po 5220 -2952 
 $EndPAD
 $EndMODULE WE-FB_EFD20
-$MODULE SignalCommunications (rev18a)-WE-FB_EFD25
+$MODULE SignalCommunications-WE-FB_EFD25
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EFD25
+Li SignalCommunications-WE-FB_EFD25
 Cd 
 Kw 
 Sc 00000000
@@ -32516,9 +32516,9 @@ Ne 0 ""
 Po 5980 -3700 
 $EndPAD
 $EndMODULE WE-FB_EFD25
-$MODULE SignalCommunications (rev18a)-WE-FB_EP7_DIMENSION1
+$MODULE SignalCommunications-WE-FB_EP7_DIMENSION1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EP7_DIMENSION1
+Li SignalCommunications-WE-FB_EP7_DIMENSION1
 Cd TRANSFORMER, EP7* SMD 8PIN FÜR WE-FB
 Kw TRANSFORMER, EP7* SMD 8PIN FÜR WE-FB
 Sc 00000000
@@ -32601,9 +32601,9 @@ Ne 0 ""
 Po 1600 1470 
 $EndPAD
 $EndMODULE WE-FB_EP7_DIMENSION1
-$MODULE SignalCommunications (rev18a)-WE-FB_EP7_DIMENSION2
+$MODULE SignalCommunications-WE-FB_EP7_DIMENSION2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EP7_DIMENSION2
+Li SignalCommunications-WE-FB_EP7_DIMENSION2
 Cd TRANSFORMER, EP7* SMD 8PIN FÜR WE-FB
 Kw TRANSFORMER, EP7* SMD 8PIN FÜR WE-FB
 Sc 00000000
@@ -32686,9 +32686,9 @@ Ne 0 ""
 Po 2295 1476 
 $EndPAD
 $EndMODULE WE-FB_EP7_DIMENSION2
-$MODULE SignalCommunications (rev18a)-WE-FB_EP10
+$MODULE SignalCommunications-WE-FB_EP10
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EP10
+Li SignalCommunications-WE-FB_EP10
 Cd 
 Kw 
 Sc 00000000
@@ -32780,9 +32780,9 @@ Ne 0 ""
 Po 2669 1470 
 $EndPAD
 $EndMODULE WE-FB_EP10
-$MODULE SignalCommunications (rev18a)-WE-FB_EP13_DIMENSION1
+$MODULE SignalCommunications-WE-FB_EP13_DIMENSION1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EP13_DIMENSION1
+Li SignalCommunications-WE-FB_EP13_DIMENSION1
 Cd 
 Kw 
 Sc 00000000
@@ -32888,9 +32888,9 @@ Ne 0 ""
 Po 3220 1952 
 $EndPAD
 $EndMODULE WE-FB_EP13_DIMENSION1
-$MODULE SignalCommunications (rev18a)-WE-FB_EP13_DIMENSION2
+$MODULE SignalCommunications-WE-FB_EP13_DIMENSION2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_EP13_DIMENSION2
+Li SignalCommunications-WE-FB_EP13_DIMENSION2
 Cd 
 Kw 
 Sc 00000000
@@ -33006,9 +33006,9 @@ Ne 0 ""
 Po 3104 2342 
 $EndPAD
 $EndMODULE WE-FB_EP13_DIMENSION2
-$MODULE SignalCommunications (rev18a)-WE-FB_ER9.5
+$MODULE SignalCommunications-WE-FB_ER9.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FB_ER9.5
+Li SignalCommunications-WE-FB_ER9.5
 Cd 
 Kw 
 Sc 00000000
@@ -33087,9 +33087,9 @@ Ne 0 ""
 Po 2149 -1181 
 $EndPAD
 $EndMODULE WE-FB_ER9.5
-$MODULE SignalCommunications (rev18a)-WE-FCL_ET35
+$MODULE SignalCommunications-WE-FCL_ET35
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FCL_ET35
+Li SignalCommunications-WE-FCL_ET35
 Cd 
 Kw 
 Sc 00000000
@@ -33141,9 +33141,9 @@ Ne 0 ""
 Po 4133 -2952 
 $EndPAD
 $EndMODULE WE-FCL_ET35
-$MODULE SignalCommunications (rev18a)-WE-FC_ET
+$MODULE SignalCommunications-WE-FC_ET
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FC_ET
+Li SignalCommunications-WE-FC_ET
 Cd CURRENT COMPENSATED POWER LINE CHOKE WE-FC
 Kw CURRENT COMPENSATED POWER LINE CHOKE WE-FC
 Sc 00000000
@@ -33213,9 +33213,9 @@ Ne 0 ""
 Po -1968 -2559 
 $EndPAD
 $EndMODULE WE-FC_ET
-$MODULE SignalCommunications (rev18a)-WE-FC_UT
+$MODULE SignalCommunications-WE-FC_UT
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FC_UT
+Li SignalCommunications-WE-FC_UT
 Cd CURRENT COMPENSATED POWER LINE CHOKE WE-FC
 Kw CURRENT COMPENSATED POWER LINE CHOKE WE-FC
 Sc 00000000
@@ -33285,9 +33285,9 @@ Ne 0 ""
 Po -1968 -2559 
 $EndPAD
 $EndMODULE WE-FC_UT
-$MODULE SignalCommunications (rev18a)-WE-FI_7447010
+$MODULE SignalCommunications-WE-FI_7447010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447010
+Li SignalCommunications-WE-FI_7447010
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33322,9 +33322,9 @@ Ne 0 ""
 Po 1771 0 
 $EndPAD
 $EndMODULE WE-FI_7447010
-$MODULE SignalCommunications (rev18a)-WE-FI_7447011
+$MODULE SignalCommunications-WE-FI_7447011
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447011
+Li SignalCommunications-WE-FI_7447011
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33359,9 +33359,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447011
-$MODULE SignalCommunications (rev18a)-WE-FI_7447012
+$MODULE SignalCommunications-WE-FI_7447012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447012
+Li SignalCommunications-WE-FI_7447012
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33396,9 +33396,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447012
-$MODULE SignalCommunications (rev18a)-WE-FI_7447013
+$MODULE SignalCommunications-WE-FI_7447013
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447013
+Li SignalCommunications-WE-FI_7447013
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33429,9 +33429,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-FI_7447013
-$MODULE SignalCommunications (rev18a)-WE-FI_7447014
+$MODULE SignalCommunications-WE-FI_7447014
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447014
+Li SignalCommunications-WE-FI_7447014
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33466,9 +33466,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-FI_7447014
-$MODULE SignalCommunications (rev18a)-WE-FI_7447015
+$MODULE SignalCommunications-WE-FI_7447015
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447015
+Li SignalCommunications-WE-FI_7447015
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33503,9 +33503,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447015
-$MODULE SignalCommunications (rev18a)-WE-FI_7447016
+$MODULE SignalCommunications-WE-FI_7447016
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447016
+Li SignalCommunications-WE-FI_7447016
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33536,9 +33536,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447016
-$MODULE SignalCommunications (rev18a)-WE-FI_7447017
+$MODULE SignalCommunications-WE-FI_7447017
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447017
+Li SignalCommunications-WE-FI_7447017
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33569,9 +33569,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447017
-$MODULE SignalCommunications (rev18a)-WE-FI_7447018
+$MODULE SignalCommunications-WE-FI_7447018
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447018
+Li SignalCommunications-WE-FI_7447018
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33606,9 +33606,9 @@ Ne 0 ""
 Po 1673 0 
 $EndPAD
 $EndMODULE WE-FI_7447018
-$MODULE SignalCommunications (rev18a)-WE-FI_7447019
+$MODULE SignalCommunications-WE-FI_7447019
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447019
+Li SignalCommunications-WE-FI_7447019
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33639,9 +33639,9 @@ Ne 0 ""
 Po 2952 0 
 $EndPAD
 $EndMODULE WE-FI_7447019
-$MODULE SignalCommunications (rev18a)-WE-FI_7447020
+$MODULE SignalCommunications-WE-FI_7447020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447020
+Li SignalCommunications-WE-FI_7447020
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33676,9 +33676,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-FI_7447020
-$MODULE SignalCommunications (rev18a)-WE-FI_7447021
+$MODULE SignalCommunications-WE-FI_7447021
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447021
+Li SignalCommunications-WE-FI_7447021
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33713,9 +33713,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-FI_7447021
-$MODULE SignalCommunications (rev18a)-WE-FI_7447022
+$MODULE SignalCommunications-WE-FI_7447022
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447022
+Li SignalCommunications-WE-FI_7447022
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33750,9 +33750,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FI_7447022
-$MODULE SignalCommunications (rev18a)-WE-FI_7447023
+$MODULE SignalCommunications-WE-FI_7447023
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447023
+Li SignalCommunications-WE-FI_7447023
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33783,9 +33783,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-FI_7447023
-$MODULE SignalCommunications (rev18a)-WE-FI_7447024
+$MODULE SignalCommunications-WE-FI_7447024
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447024
+Li SignalCommunications-WE-FI_7447024
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33820,9 +33820,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-FI_7447024
-$MODULE SignalCommunications (rev18a)-WE-FI_7447025
+$MODULE SignalCommunications-WE-FI_7447025
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447025
+Li SignalCommunications-WE-FI_7447025
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33853,9 +33853,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FI_7447025
-$MODULE SignalCommunications (rev18a)-WE-FI_7447026
+$MODULE SignalCommunications-WE-FI_7447026
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447026
+Li SignalCommunications-WE-FI_7447026
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33886,9 +33886,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FI_7447026
-$MODULE SignalCommunications (rev18a)-WE-FI_7447027
+$MODULE SignalCommunications-WE-FI_7447027
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447027
+Li SignalCommunications-WE-FI_7447027
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33919,9 +33919,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FI_7447027
-$MODULE SignalCommunications (rev18a)-WE-FI_7447028
+$MODULE SignalCommunications-WE-FI_7447028
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447028
+Li SignalCommunications-WE-FI_7447028
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33956,9 +33956,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-FI_7447028
-$MODULE SignalCommunications (rev18a)-WE-FI_7447030
+$MODULE SignalCommunications-WE-FI_7447030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447030
+Li SignalCommunications-WE-FI_7447030
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -33989,9 +33989,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-FI_7447030
-$MODULE SignalCommunications (rev18a)-WE-FI_7447031
+$MODULE SignalCommunications-WE-FI_7447031
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447031
+Li SignalCommunications-WE-FI_7447031
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34026,9 +34026,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-FI_7447031
-$MODULE SignalCommunications (rev18a)-WE-FI_7447032
+$MODULE SignalCommunications-WE-FI_7447032
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447032
+Li SignalCommunications-WE-FI_7447032
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34063,9 +34063,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-FI_7447032
-$MODULE SignalCommunications (rev18a)-WE-FI_7447033
+$MODULE SignalCommunications-WE-FI_7447033
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447033
+Li SignalCommunications-WE-FI_7447033
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34100,9 +34100,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-FI_7447033
-$MODULE SignalCommunications (rev18a)-WE-FI_7447034
+$MODULE SignalCommunications-WE-FI_7447034
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447034
+Li SignalCommunications-WE-FI_7447034
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34133,9 +34133,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE WE-FI_7447034
-$MODULE SignalCommunications (rev18a)-WE-FI_7447035
+$MODULE SignalCommunications-WE-FI_7447035
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447035
+Li SignalCommunications-WE-FI_7447035
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34170,9 +34170,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-FI_7447035
-$MODULE SignalCommunications (rev18a)-WE-FI_7447036
+$MODULE SignalCommunications-WE-FI_7447036
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447036
+Li SignalCommunications-WE-FI_7447036
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34203,9 +34203,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-FI_7447036
-$MODULE SignalCommunications (rev18a)-WE-FI_7447037
+$MODULE SignalCommunications-WE-FI_7447037
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447037
+Li SignalCommunications-WE-FI_7447037
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34236,9 +34236,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-FI_7447037
-$MODULE SignalCommunications (rev18a)-WE-FI_7447040
+$MODULE SignalCommunications-WE-FI_7447040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447040
+Li SignalCommunications-WE-FI_7447040
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34273,9 +34273,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE WE-FI_7447040
-$MODULE SignalCommunications (rev18a)-WE-FI_7447041
+$MODULE SignalCommunications-WE-FI_7447041
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447041
+Li SignalCommunications-WE-FI_7447041
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34310,9 +34310,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE WE-FI_7447041
-$MODULE SignalCommunications (rev18a)-WE-FI_7447042
+$MODULE SignalCommunications-WE-FI_7447042
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447042
+Li SignalCommunications-WE-FI_7447042
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34343,9 +34343,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-FI_7447042
-$MODULE SignalCommunications (rev18a)-WE-FI_7447043
+$MODULE SignalCommunications-WE-FI_7447043
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447043
+Li SignalCommunications-WE-FI_7447043
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34380,9 +34380,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE WE-FI_7447043
-$MODULE SignalCommunications (rev18a)-WE-FI_7447044
+$MODULE SignalCommunications-WE-FI_7447044
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447044
+Li SignalCommunications-WE-FI_7447044
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34417,9 +34417,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-FI_7447044
-$MODULE SignalCommunications (rev18a)-WE-FI_7447045
+$MODULE SignalCommunications-WE-FI_7447045
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447045
+Li SignalCommunications-WE-FI_7447045
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34454,9 +34454,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE WE-FI_7447045
-$MODULE SignalCommunications (rev18a)-WE-FI_7447050
+$MODULE SignalCommunications-WE-FI_7447050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447050
+Li SignalCommunications-WE-FI_7447050
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34487,9 +34487,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-FI_7447050
-$MODULE SignalCommunications (rev18a)-WE-FI_7447051
+$MODULE SignalCommunications-WE-FI_7447051
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447051
+Li SignalCommunications-WE-FI_7447051
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34524,9 +34524,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-FI_7447051
-$MODULE SignalCommunications (rev18a)-WE-FI_7447052
+$MODULE SignalCommunications-WE-FI_7447052
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447052
+Li SignalCommunications-WE-FI_7447052
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34557,9 +34557,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-FI_7447052
-$MODULE SignalCommunications (rev18a)-WE-FI_7447053
+$MODULE SignalCommunications-WE-FI_7447053
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447053
+Li SignalCommunications-WE-FI_7447053
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34594,9 +34594,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-FI_7447053
-$MODULE SignalCommunications (rev18a)-WE-FI_7447054
+$MODULE SignalCommunications-WE-FI_7447054
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447054
+Li SignalCommunications-WE-FI_7447054
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34631,9 +34631,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-FI_7447054
-$MODULE SignalCommunications (rev18a)-WE-FI_7447055
+$MODULE SignalCommunications-WE-FI_7447055
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447055
+Li SignalCommunications-WE-FI_7447055
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34664,9 +34664,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FI_7447055
-$MODULE SignalCommunications (rev18a)-WE-FI_7447060
+$MODULE SignalCommunications-WE-FI_7447060
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447060
+Li SignalCommunications-WE-FI_7447060
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34697,9 +34697,9 @@ Ne 0 ""
 Po 1771 0 
 $EndPAD
 $EndMODULE WE-FI_7447060
-$MODULE SignalCommunications (rev18a)-WE-FI_7447065
+$MODULE SignalCommunications-WE-FI_7447065
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447065
+Li SignalCommunications-WE-FI_7447065
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34730,9 +34730,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-FI_7447065
-$MODULE SignalCommunications (rev18a)-WE-FI_7447070
+$MODULE SignalCommunications-WE-FI_7447070
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447070
+Li SignalCommunications-WE-FI_7447070
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34763,9 +34763,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447070
-$MODULE SignalCommunications (rev18a)-WE-FI_7447071
+$MODULE SignalCommunications-WE-FI_7447071
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447071
+Li SignalCommunications-WE-FI_7447071
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34800,9 +34800,9 @@ Ne 0 ""
 Po 2165 0 
 $EndPAD
 $EndMODULE WE-FI_7447071
-$MODULE SignalCommunications (rev18a)-WE-FI_7447075
+$MODULE SignalCommunications-WE-FI_7447075
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447075
+Li SignalCommunications-WE-FI_7447075
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34837,9 +34837,9 @@ Ne 0 ""
 Po 2755 0 
 $EndPAD
 $EndMODULE WE-FI_7447075
-$MODULE SignalCommunications (rev18a)-WE-FI_7447076
+$MODULE SignalCommunications-WE-FI_7447076
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447076
+Li SignalCommunications-WE-FI_7447076
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34874,9 +34874,9 @@ Ne 0 ""
 Po 2263 0 
 $EndPAD
 $EndMODULE WE-FI_7447076
-$MODULE SignalCommunications (rev18a)-WE-FI_7447077
+$MODULE SignalCommunications-WE-FI_7447077
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447077
+Li SignalCommunications-WE-FI_7447077
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34907,9 +34907,9 @@ Ne 0 ""
 Po 1673 0 
 $EndPAD
 $EndMODULE WE-FI_7447077
-$MODULE SignalCommunications (rev18a)-WE-FI_7447078
+$MODULE SignalCommunications-WE-FI_7447078
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447078
+Li SignalCommunications-WE-FI_7447078
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34940,9 +34940,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-FI_7447078
-$MODULE SignalCommunications (rev18a)-WE-FI_7447079
+$MODULE SignalCommunications-WE-FI_7447079
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_7447079
+Li SignalCommunications-WE-FI_7447079
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -34973,9 +34973,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-FI_7447079
-$MODULE SignalCommunications (rev18a)-WE-FI_74470291
+$MODULE SignalCommunications-WE-FI_74470291
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_74470291
+Li SignalCommunications-WE-FI_74470291
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -35010,9 +35010,9 @@ Ne 0 ""
 Po 1673 0 
 $EndPAD
 $EndMODULE WE-FI_74470291
-$MODULE SignalCommunications (rev18a)-WE-FI_74470292
+$MODULE SignalCommunications-WE-FI_74470292
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FI_74470292
+Li SignalCommunications-WE-FI_74470292
 Cd WE-FI LEADED TOROIDAL LINE CHOKE
 Kw WE-FI LEADED TOROIDAL LINE CHOKE
 Sc 00000000
@@ -35047,9 +35047,9 @@ Ne 0 ""
 Po 2755 0 
 $EndPAD
 $EndMODULE WE-FI_74470292
-$MODULE SignalCommunications (rev18a)-WE-FLEX+_ETD29
+$MODULE SignalCommunications-WE-FLEX+_ETD29
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX+_ETD29
+Li SignalCommunications-WE-FLEX+_ETD29
 Cd TRANSFORMER, ETD29 THT 14PIN
 Kw TRANSFORMER, ETD29 THT 14PIN
 Sc 00000000
@@ -35169,9 +35169,9 @@ Ne 0 ""
 Po 5000 -6000 
 $EndPAD
 $EndMODULE WE-FLEX+_ETD29
-$MODULE SignalCommunications (rev18a)-WE-FLEX+_ETD34
+$MODULE SignalCommunications-WE-FLEX+_ETD34
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX+_ETD34
+Li SignalCommunications-WE-FLEX+_ETD34
 Cd TRANSFORMER, ETD34 THT 14PIN
 Kw TRANSFORMER, ETD34 THT 14PIN
 Sc 00000000
@@ -35291,9 +35291,9 @@ Ne 0 ""
 Po 5000 -6000 
 $EndPAD
 $EndMODULE WE-FLEX+_ETD34
-$MODULE SignalCommunications (rev18a)-WE-FLEX+_ETD39
+$MODULE SignalCommunications-WE-FLEX+_ETD39
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX+_ETD39
+Li SignalCommunications-WE-FLEX+_ETD39
 Cd TRANSFORMER, ETD39 THT 16PIN
 Kw TRANSFORMER, ETD39 THT 16PIN
 Sc 00000000
@@ -35428,9 +35428,9 @@ Ne 0 ""
 Po 6000 -7000 
 $EndPAD
 $EndMODULE WE-FLEX+_ETD39
-$MODULE SignalCommunications (rev18a)-WE-FLEXHV_EFD15
+$MODULE SignalCommunications-WE-FLEXHV_EFD15
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEXHV_EFD15
+Li SignalCommunications-WE-FLEXHV_EFD15
 Cd 
 Kw 
 Sc 00000000
@@ -35540,9 +35540,9 @@ Ne 0 ""
 Po 3998 -2500 
 $EndPAD
 $EndMODULE WE-FLEXHV_EFD15
-$MODULE SignalCommunications (rev18a)-WE-FLEXHV_EFD20
+$MODULE SignalCommunications-WE-FLEXHV_EFD20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEXHV_EFD20
+Li SignalCommunications-WE-FLEXHV_EFD20
 Cd 
 Kw 
 Sc 00000000
@@ -35652,9 +35652,9 @@ Ne 0 ""
 Po 5157 -2952 
 $EndPAD
 $EndMODULE WE-FLEXHV_EFD20
-$MODULE SignalCommunications (rev18a)-WE-FLEXHV_ER11_5
+$MODULE SignalCommunications-WE-FLEXHV_ER11_5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEXHV_ER11_5
+Li SignalCommunications-WE-FLEXHV_ER11_5
 Cd 
 Kw 
 Sc 00000000
@@ -35764,9 +35764,9 @@ Ne 0 ""
 Po 2352 -1968 
 $EndPAD
 $EndMODULE WE-FLEXHV_ER11_5
-$MODULE SignalCommunications (rev18a)-WE-FLEXHV_ER14.5_6
+$MODULE SignalCommunications-WE-FLEXHV_ER14.5_6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEXHV_ER14.5_6
+Li SignalCommunications-WE-FLEXHV_ER14.5_6
 Cd 
 Kw 
 Sc 00000000
@@ -35876,9 +35876,9 @@ Ne 0 ""
 Po 3051 -2460 
 $EndPAD
 $EndMODULE WE-FLEXHV_ER14.5_6
-$MODULE SignalCommunications (rev18a)-WE-FLEX_EFD15
+$MODULE SignalCommunications-WE-FLEX_EFD15
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX_EFD15
+Li SignalCommunications-WE-FLEX_EFD15
 Cd 
 Kw 
 Sc 00000000
@@ -35986,9 +35986,9 @@ Ne 0 ""
 Po 3998 -2500 
 $EndPAD
 $EndMODULE WE-FLEX_EFD15
-$MODULE SignalCommunications (rev18a)-WE-FLEX_EFD20
+$MODULE SignalCommunications-WE-FLEX_EFD20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX_EFD20
+Li SignalCommunications-WE-FLEX_EFD20
 Cd 
 Kw 
 Sc 00000000
@@ -36096,9 +36096,9 @@ Ne 0 ""
 Po 5157 -2952 
 $EndPAD
 $EndMODULE WE-FLEX_EFD20
-$MODULE SignalCommunications (rev18a)-WE-FLEX_ER11_5
+$MODULE SignalCommunications-WE-FLEX_ER11_5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX_ER11_5
+Li SignalCommunications-WE-FLEX_ER11_5
 Cd 
 Kw 
 Sc 00000000
@@ -36205,9 +36205,9 @@ Ne 0 ""
 Po 2352 -1968 
 $EndPAD
 $EndMODULE WE-FLEX_ER11_5
-$MODULE SignalCommunications (rev18a)-WE-FLEX_ER14.5_6
+$MODULE SignalCommunications-WE-FLEX_ER14.5_6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-FLEX_ER14.5_6
+Li SignalCommunications-WE-FLEX_ER14.5_6
 Cd 
 Kw 
 Sc 00000000
@@ -36314,9 +36314,9 @@ Ne 0 ""
 Po 3051 -2460 
 $EndPAD
 $EndMODULE WE-FLEX_ER14.5_6
-$MODULE SignalCommunications (rev18a)-WE-GDTI_EP7
+$MODULE SignalCommunications-WE-GDTI_EP7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-GDTI_EP7
+Li SignalCommunications-WE-GDTI_EP7
 Cd SMD GATE DRIVE TRANSFORMER
 Kw SMD GATE DRIVE TRANSFORMER
 Sc 00000000
@@ -36396,9 +36396,9 @@ Ne 0 ""
 Po -1476 1600 
 $EndPAD
 $EndMODULE WE-GDTI_EP7
-$MODULE SignalCommunications (rev18a)-WE-GFH_2520
+$MODULE SignalCommunications-WE-GFH_2520
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-GFH_2520
+Li SignalCommunications-WE-GFH_2520
 Cd 
 Kw 
 Sc 00000000
@@ -36431,9 +36431,9 @@ Ne 0 ""
 Po 492 0 
 $EndPAD
 $EndMODULE WE-GFH_2520
-$MODULE SignalCommunications (rev18a)-WE-GFH_3225
+$MODULE SignalCommunications-WE-GFH_3225
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-GFH_3225
+Li SignalCommunications-WE-GFH_3225
 Cd 
 Kw 
 Sc 00000000
@@ -36472,9 +36472,9 @@ Ne 0 ""
 Po 551 0 
 $EndPAD
 $EndMODULE WE-GFH_3225
-$MODULE SignalCommunications (rev18a)-WE-GFH_4532
+$MODULE SignalCommunications-WE-GFH_4532
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-GFH_4532
+Li SignalCommunications-WE-GFH_4532
 Cd 
 Kw 
 Sc 00000000
@@ -36511,9 +36511,9 @@ Ne 0 ""
 Po 728 0 
 $EndPAD
 $EndMODULE WE-GFH_4532
-$MODULE SignalCommunications (rev18a)-WE-GF_1210
+$MODULE SignalCommunications-WE-GF_1210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-GF_1210
+Li SignalCommunications-WE-GF_1210
 Cd SMD WIRE WOUND INDUCTOR WE-GF
 Kw SMD WIRE WOUND INDUCTOR WE-GF
 Sc 00000000
@@ -36557,9 +36557,9 @@ Ne 0 ""
 Po 551 0 
 $EndPAD
 $EndMODULE WE-GF_1210
-$MODULE SignalCommunications (rev18a)-WE-GF_1812
+$MODULE SignalCommunications-WE-GF_1812
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-GF_1812
+Li SignalCommunications-WE-GF_1812
 Cd SMD WIRE WOUND INDUCTOR WE-GF
 Kw SMD WIRE WOUND INDUCTOR WE-GF
 Sc 00000000
@@ -36601,9 +36601,9 @@ Ne 0 ""
 Po 728 0 
 $EndPAD
 $EndMODULE WE-GF_1812
-$MODULE SignalCommunications (rev18a)-WE-HCC_1090
+$MODULE SignalCommunications-WE-HCC_1090
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCC_1090
+Li SignalCommunications-WE-HCC_1090
 Cd SMD HIGH CURRENT CUBE INDUCTOR WE-HCC
 Kw SMD HIGH CURRENT CUBE INDUCTOR WE-HCC
 Sc 00000000
@@ -36640,9 +36640,9 @@ Ne 0 ""
 Po 1811 0 
 $EndPAD
 $EndMODULE WE-HCC_1090
-$MODULE SignalCommunications (rev18a)-WE-HCC_1210
+$MODULE SignalCommunications-WE-HCC_1210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCC_1210
+Li SignalCommunications-WE-HCC_1210
 Cd SMD HIGH CURRENT CUBE INDUCTOR WE-HCC
 Kw SMD HIGH CURRENT CUBE INDUCTOR WE-HCC
 Sc 00000000
@@ -36679,9 +36679,9 @@ Ne 0 ""
 Po 1948 0 
 $EndPAD
 $EndMODULE WE-HCC_1210
-$MODULE SignalCommunications (rev18a)-WE-HCC_8070
+$MODULE SignalCommunications-WE-HCC_8070
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCC_8070
+Li SignalCommunications-WE-HCC_8070
 Cd SMD HIGH CURRENT CUBE INDUCTOR WE-HCC
 Kw SMD HIGH CURRENT CUBE INDUCTOR WE-HCC
 Sc 00000000
@@ -36718,9 +36718,9 @@ Ne 0 ""
 Po 1318 0 
 $EndPAD
 $EndMODULE WE-HCC_8070
-$MODULE SignalCommunications (rev18a)-WE-HCF_2013
+$MODULE SignalCommunications-WE-HCF_2013
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCF_2013
+Li SignalCommunications-WE-HCF_2013
 Cd SMD HIGH CURRENT INDUCTOR WE-HCF
 Kw SMD HIGH CURRENT INDUCTOR WE-HCF
 Sc 00000000
@@ -36771,9 +36771,9 @@ Ne 0 ""
 Po 0 -3346 
 $EndPAD
 $EndMODULE WE-HCF_2013
-$MODULE SignalCommunications (rev18a)-WE-HCF_2815
+$MODULE SignalCommunications-WE-HCF_2815
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCF_2815
+Li SignalCommunications-WE-HCF_2815
 Cd 
 Kw 
 Sc 00000000
@@ -36815,9 +36815,9 @@ Ne 0 ""
 Po 0 3082 
 $EndPAD
 $EndMODULE WE-HCF_2815
-$MODULE SignalCommunications (rev18a)-WE-HCF_2818
+$MODULE SignalCommunications-WE-HCF_2818
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCF_2818
+Li SignalCommunications-WE-HCF_2818
 Cd WE-HCF SMD HIGH CURRENT INDUCTOR
 Kw WE-HCF SMD HIGH CURRENT INDUCTOR
 Sc 00000000
@@ -36864,9 +36864,9 @@ Ne 0 ""
 Po 0 -3039 
 $EndPAD
 $EndMODULE WE-HCF_2818
-$MODULE SignalCommunications (rev18a)-WE-HCF_LITZ
+$MODULE SignalCommunications-WE-HCF_LITZ
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCF_LITZ
+Li SignalCommunications-WE-HCF_LITZ
 Cd 
 Kw 
 Sc 00000000
@@ -36903,9 +36903,9 @@ Ne 0 ""
 Po 3346 0 
 $EndPAD
 $EndMODULE WE-HCF_LITZ
-$MODULE SignalCommunications (rev18a)-WE-HCF_ROUND
+$MODULE SignalCommunications-WE-HCF_ROUND
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCF_ROUND
+Li SignalCommunications-WE-HCF_ROUND
 Cd 
 Kw 
 Sc 00000000
@@ -36942,9 +36942,9 @@ Ne 0 ""
 Po 3346 0 
 $EndPAD
 $EndMODULE WE-HCF_ROUND
-$MODULE SignalCommunications (rev18a)-WE-HCI_1030
+$MODULE SignalCommunications-WE-HCI_1030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_1030
+Li SignalCommunications-WE-HCI_1030
 Cd SMD FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -36981,9 +36981,9 @@ Ne 0 ""
 Po 1515 0 
 $EndPAD
 $EndMODULE WE-HCI_1030
-$MODULE SignalCommunications (rev18a)-WE-HCI_1040
+$MODULE SignalCommunications-WE-HCI_1040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_1040
+Li SignalCommunications-WE-HCI_1040
 Cd SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37025,9 +37025,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-HCI_1040
-$MODULE SignalCommunications (rev18a)-WE-HCI_1050
+$MODULE SignalCommunications-WE-HCI_1050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_1050
+Li SignalCommunications-WE-HCI_1050
 Cd SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37070,9 +37070,9 @@ Ne 0 ""
 Po 1505 0 
 $EndPAD
 $EndMODULE WE-HCI_1050
-$MODULE SignalCommunications (rev18a)-WE-HCI_1335
+$MODULE SignalCommunications-WE-HCI_1335
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_1335
+Li SignalCommunications-WE-HCI_1335
 Cd SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37114,9 +37114,9 @@ Ne 0 ""
 Po 1998 0 
 $EndPAD
 $EndMODULE WE-HCI_1335
-$MODULE SignalCommunications (rev18a)-WE-HCI_1350_1365
+$MODULE SignalCommunications-WE-HCI_1350_1365
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_1350_1365
+Li SignalCommunications-WE-HCI_1350_1365
 Cd SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37158,9 +37158,9 @@ Ne 0 ""
 Po 2066 0 
 $EndPAD
 $EndMODULE WE-HCI_1350_1365
-$MODULE SignalCommunications (rev18a)-WE-HCI_1890
+$MODULE SignalCommunications-WE-HCI_1890
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_1890
+Li SignalCommunications-WE-HCI_1890
 Cd SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37203,9 +37203,9 @@ Ne 0 ""
 Po 2618 0 
 $EndPAD
 $EndMODULE WE-HCI_1890
-$MODULE SignalCommunications (rev18a)-WE-HCI_2212
+$MODULE SignalCommunications-WE-HCI_2212
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_2212
+Li SignalCommunications-WE-HCI_2212
 Cd SMD FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37246,9 +37246,9 @@ Ne 0 ""
 Po -3248 0 
 $EndPAD
 $EndMODULE WE-HCI_2212
-$MODULE SignalCommunications (rev18a)-WE-HCI_5040
+$MODULE SignalCommunications-WE-HCI_5040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_5040
+Li SignalCommunications-WE-HCI_5040
 Cd 
 Kw 
 Sc 00000000
@@ -37283,9 +37283,9 @@ Ne 0 ""
 Po 807 0 
 $EndPAD
 $EndMODULE WE-HCI_5040
-$MODULE SignalCommunications (rev18a)-WE-HCI_7030_7040_7050
+$MODULE SignalCommunications-WE-HCI_7030_7040_7050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCI_7030_7040_7050
+Li SignalCommunications-WE-HCI_7030_7040_7050
 Cd SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Kw SMD-FLAT WIRE HIGH CURRENT INDUCTOR WE-HCI
 Sc 00000000
@@ -37327,9 +37327,9 @@ Ne 0 ""
 Po 1003 0 
 $EndPAD
 $EndMODULE WE-HCI_7030_7040_7050
-$MODULE SignalCommunications (rev18a)-WE-HCM_1050
+$MODULE SignalCommunications-WE-HCM_1050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1050
+Li SignalCommunications-WE-HCM_1050
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37372,9 +37372,9 @@ Ne 0 ""
 Po 1643 0 
 $EndPAD
 $EndMODULE WE-HCM_1050
-$MODULE SignalCommunications (rev18a)-WE-HCM_1052
+$MODULE SignalCommunications-WE-HCM_1052
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1052
+Li SignalCommunications-WE-HCM_1052
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37417,9 +37417,9 @@ Ne 0 ""
 Po 1624 0 
 $EndPAD
 $EndMODULE WE-HCM_1052
-$MODULE SignalCommunications (rev18a)-WE-HCM_1070
+$MODULE SignalCommunications-WE-HCM_1070
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1070
+Li SignalCommunications-WE-HCM_1070
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37462,9 +37462,9 @@ Ne 0 ""
 Po 1496 0 
 $EndPAD
 $EndMODULE WE-HCM_1070
-$MODULE SignalCommunications (rev18a)-WE-HCM_1078
+$MODULE SignalCommunications-WE-HCM_1078
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1078
+Li SignalCommunications-WE-HCM_1078
 Cd 
 Kw 
 Sc 00000000
@@ -37499,9 +37499,9 @@ Ne 0 ""
 Po 1417 0 
 $EndPAD
 $EndMODULE WE-HCM_1078
-$MODULE SignalCommunications (rev18a)-WE-HCM_1088
+$MODULE SignalCommunications-WE-HCM_1088
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1088
+Li SignalCommunications-WE-HCM_1088
 Cd INDHCM HIGH CURRENT FLAT WIRE INDUCTOR,SMD
 Kw INDHCM HIGH CURRENT FLAT WIRE INDUCTOR,SMD
 Sc 00000000
@@ -37540,9 +37540,9 @@ Ne 0 ""
 Po 1460 0 
 $EndPAD
 $EndMODULE WE-HCM_1088
-$MODULE SignalCommunications (rev18a)-WE-HCM_1190
+$MODULE SignalCommunications-WE-HCM_1190
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1190
+Li SignalCommunications-WE-HCM_1190
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37584,9 +37584,9 @@ Ne 0 ""
 Po 1614 0 
 $EndPAD
 $EndMODULE WE-HCM_1190
-$MODULE SignalCommunications (rev18a)-WE-HCM_1240
+$MODULE SignalCommunications-WE-HCM_1240
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1240
+Li SignalCommunications-WE-HCM_1240
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37623,9 +37623,9 @@ Ne 0 ""
 Po 1850 0 
 $EndPAD
 $EndMODULE WE-HCM_1240
-$MODULE SignalCommunications (rev18a)-WE-HCM_1350
+$MODULE SignalCommunications-WE-HCM_1350
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1350
+Li SignalCommunications-WE-HCM_1350
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37669,9 +37669,9 @@ Ne 0 ""
 Po 2145 0 
 $EndPAD
 $EndMODULE WE-HCM_1350
-$MODULE SignalCommunications (rev18a)-WE-HCM_1390
+$MODULE SignalCommunications-WE-HCM_1390
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_1390
+Li SignalCommunications-WE-HCM_1390
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37715,9 +37715,9 @@ Ne 0 ""
 Po 2460 0 
 $EndPAD
 $EndMODULE WE-HCM_1390
-$MODULE SignalCommunications (rev18a)-WE-HCM_7050
+$MODULE SignalCommunications-WE-HCM_7050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_7050
+Li SignalCommunications-WE-HCM_7050
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37760,9 +37760,9 @@ Ne 0 ""
 Po 1043 0 
 $EndPAD
 $EndMODULE WE-HCM_7050
-$MODULE SignalCommunications (rev18a)-WE-HCM_7070
+$MODULE SignalCommunications-WE-HCM_7070
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-HCM_7070
+Li SignalCommunications-WE-HCM_7070
 Cd SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Kw SMD HIGH CURRENT FLAT WIRE POWER INDUCTOR WE-HCM
 Sc 00000000
@@ -37799,9 +37799,9 @@ Ne 0 ""
 Po 994 0 
 $EndPAD
 $EndMODULE WE-HCM_7070
-$MODULE SignalCommunications (rev18a)-WE-ISDN
+$MODULE SignalCommunications-WE-ISDN
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-ISDN
+Li SignalCommunications-WE-ISDN
 Cd SMD T1/E1 PRI TRANSFORMER WE-ISDN
 Kw SMD T1/E1 PRI TRANSFORMER WE-ISDN
 Sc 00000000
@@ -37866,9 +37866,9 @@ Ne 0 ""
 Po 1525 -728 
 $EndPAD
 $EndMODULE WE-ISDN
-$MODULE SignalCommunications (rev18a)-WE-KIHC_0402
+$MODULE SignalCommunications-WE-KIHC_0402
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KIHC_0402
+Li SignalCommunications-WE-KIHC_0402
 Cd WIRE WOUND CHIP CERAMIC INDUCTOR WE-KIHC
 Kw WIRE WOUND CHIP CERAMIC INDUCTOR WE-KIHC
 Sc 00000000
@@ -37901,9 +37901,9 @@ Ne 0 ""
 Po 167 0 
 $EndPAD
 $EndMODULE WE-KIHC_0402
-$MODULE SignalCommunications (rev18a)-WE-KIHC_0603
+$MODULE SignalCommunications-WE-KIHC_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KIHC_0603
+Li SignalCommunications-WE-KIHC_0603
 Cd WIRE WOUND CHIP CERAMIC INDUCTOR WE-KIHC
 Kw WIRE WOUND CHIP CERAMIC INDUCTOR WE-KIHC
 Sc 00000000
@@ -37936,9 +37936,9 @@ Ne 0 ""
 Po 251 0 
 $EndPAD
 $EndMODULE WE-KIHC_0603
-$MODULE SignalCommunications (rev18a)-WE-KI_0402A
+$MODULE SignalCommunications-WE-KI_0402A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KI_0402A
+Li SignalCommunications-WE-KI_0402A
 Cd SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Kw SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Sc 00000000
@@ -37973,9 +37973,9 @@ Ne 0 ""
 Po 162 0 
 $EndPAD
 $EndMODULE WE-KI_0402A
-$MODULE SignalCommunications (rev18a)-WE-KI_0603A
+$MODULE SignalCommunications-WE-KI_0603A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KI_0603A
+Li SignalCommunications-WE-KI_0603A
 Cd SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Kw SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Sc 00000000
@@ -38010,9 +38010,9 @@ Ne 0 ""
 Po 250 0 
 $EndPAD
 $EndMODULE WE-KI_0603A
-$MODULE SignalCommunications (rev18a)-WE-KI_0603C
+$MODULE SignalCommunications-WE-KI_0603C
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KI_0603C
+Li SignalCommunications-WE-KI_0603C
 Cd SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Kw SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Sc 00000000
@@ -38045,9 +38045,9 @@ Ne 0 ""
 Po 250 0 
 $EndPAD
 $EndMODULE WE-KI_0603C
-$MODULE SignalCommunications (rev18a)-WE-KI_0805A
+$MODULE SignalCommunications-WE-KI_0805A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KI_0805A
+Li SignalCommunications-WE-KI_0805A
 Cd SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Kw SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Sc 00000000
@@ -38082,9 +38082,9 @@ Ne 0 ""
 Po 329 0 
 $EndPAD
 $EndMODULE WE-KI_0805A
-$MODULE SignalCommunications (rev18a)-WE-KI_0805C
+$MODULE SignalCommunications-WE-KI_0805C
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KI_0805C
+Li SignalCommunications-WE-KI_0805C
 Cd SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Kw SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Sc 00000000
@@ -38119,9 +38119,9 @@ Ne 0 ""
 Po 350 0 
 $EndPAD
 $EndMODULE WE-KI_0805C
-$MODULE SignalCommunications (rev18a)-WE-KI_1008A
+$MODULE SignalCommunications-WE-KI_1008A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-KI_1008A
+Li SignalCommunications-WE-KI_1008A
 Cd SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Kw SMD WIRE WOUND CERAMIC INDUCTOR WE-KI
 Sc 00000000
@@ -38156,9 +38156,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-KI_1008A
-$MODULE SignalCommunications (rev18a)-WE-LAN10G1.27MM
+$MODULE SignalCommunications-WE-LAN10G1.27MM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LAN10G1.27MM
+Li SignalCommunications-WE-LAN10G1.27MM
 Cd WE-LAN 10G:1.27MM
 Kw WE-LAN 10G:1.27MM
 Sc 00000000
@@ -38362,9 +38362,9 @@ Ne 0 ""
 Po 2850 -2750 
 $EndPAD
 $EndMODULE WE-LAN10G1.27MM
-$MODULE SignalCommunications (rev18a)-WE-LAN10G:0.99MM
+$MODULE SignalCommunications-WE-LAN10G:0.99MM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LAN10G:0.99MM
+Li SignalCommunications-WE-LAN10G:0.99MM
 Cd WE-LAN 10G:0.99MM
 Kw WE-LAN 10G:0.99MM
 Sc 00000000
@@ -38568,9 +38568,9 @@ Ne 0 ""
 Po 2677 -2143 
 $EndPAD
 $EndMODULE WE-LAN10G:0.99MM
-$MODULE SignalCommunications (rev18a)-WE-LANAQ_749020310
+$MODULE SignalCommunications-WE-LANAQ_749020310
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LANAQ_749020310
+Li SignalCommunications-WE-LANAQ_749020310
 Cd 
 Kw 
 Sc 00000000
@@ -38774,9 +38774,9 @@ Ne 0 ""
 Po 2875 -2750 
 $EndPAD
 $EndMODULE WE-LANAQ_749020310
-$MODULE SignalCommunications (rev18a)-WE-LAN_AQ_749010310
+$MODULE SignalCommunications-WE-LAN_AQ_749010310
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LAN_AQ_749010310
+Li SignalCommunications-WE-LAN_AQ_749010310
 Cd 
 Kw 
 Sc 00000000
@@ -38923,9 +38923,9 @@ Ne 0 ""
 Po 1726 -1750 
 $EndPAD
 $EndMODULE WE-LAN_AQ_749010310
-$MODULE SignalCommunications (rev18a)-WE-LF_612_SV
+$MODULE SignalCommunications-WE-LF_612_SV
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_612_SV
+Li SignalCommunications-WE-LF_612_SV
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -38986,9 +38986,9 @@ Ne 0 ""
 Po -1968 2952 
 $EndPAD
 $EndMODULE WE-LF_612_SV
-$MODULE SignalCommunications (rev18a)-WE-LF_622_MV
+$MODULE SignalCommunications-WE-LF_622_MV
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_622_MV
+Li SignalCommunications-WE-LF_622_MV
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39049,9 +39049,9 @@ Ne 0 ""
 Po -2460 1968 
 $EndPAD
 $EndMODULE WE-LF_622_MV
-$MODULE SignalCommunications (rev18a)-WE-LF_632_LV
+$MODULE SignalCommunications-WE-LF_632_LV
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_632_LV
+Li SignalCommunications-WE-LF_632_LV
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39112,9 +39112,9 @@ Ne 0 ""
 Po -2952 2460 
 $EndPAD
 $EndMODULE WE-LF_632_LV
-$MODULE SignalCommunications (rev18a)-WE-LF_642_XV
+$MODULE SignalCommunications-WE-LF_642_XV
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_642_XV
+Li SignalCommunications-WE-LF_642_XV
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39175,9 +39175,9 @@ Ne 0 ""
 Po -3444 2460 
 $EndPAD
 $EndMODULE WE-LF_642_XV
-$MODULE SignalCommunications (rev18a)-WE-LF_662_SH
+$MODULE SignalCommunications-WE-LF_662_SH
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_662_SH
+Li SignalCommunications-WE-LF_662_SH
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39237,9 +39237,9 @@ Ne 0 ""
 Po -2952 1968 
 $EndPAD
 $EndMODULE WE-LF_662_SH
-$MODULE SignalCommunications (rev18a)-WE-LF_672_MH
+$MODULE SignalCommunications-WE-LF_672_MH
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_672_MH
+Li SignalCommunications-WE-LF_672_MH
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39299,9 +39299,9 @@ Ne 0 ""
 Po -3937 2460 
 $EndPAD
 $EndMODULE WE-LF_672_MH
-$MODULE SignalCommunications (rev18a)-WE-LF_682_LH
+$MODULE SignalCommunications-WE-LF_682_LH
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_682_LH
+Li SignalCommunications-WE-LF_682_LH
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39361,9 +39361,9 @@ Ne 0 ""
 Po -4960 2972 
 $EndPAD
 $EndMODULE WE-LF_682_LH
-$MODULE SignalCommunications (rev18a)-WE-LF_692_XH
+$MODULE SignalCommunications-WE-LF_692_XH
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_692_XH
+Li SignalCommunications-WE-LF_692_XH
 Cd CURRENT COMPENSATED CHOKE WE-LF
 Kw CURRENT COMPENSATED CHOKE WE-LF
 Sc 00000000
@@ -39423,9 +39423,9 @@ Ne 0 ""
 Po -5944 3956 
 $EndPAD
 $EndMODULE WE-LF_692_XH
-$MODULE SignalCommunications (rev18a)-WE-LF_SMD
+$MODULE SignalCommunications-WE-LF_SMD
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LF_SMD
+Li SignalCommunications-WE-LF_SMD
 Cd CURRENT COMPENSATED CHOKE WE-LF SMD
 Kw CURRENT COMPENSATED CHOKE WE-LF SMD
 Sc 00000000
@@ -39483,9 +39483,9 @@ Ne 0 ""
 Po 1968 -4055 
 $EndPAD
 $EndMODULE WE-LF_SMD
-$MODULE SignalCommunications (rev18a)-WE-LHMI_1040
+$MODULE SignalCommunications-WE-LHMI_1040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_1040
+Li SignalCommunications-WE-LHMI_1040
 Cd SMD POWER INDUCTOR WE-LHMI
 Kw SMD POWER INDUCTOR WE-LHMI
 Sc 00000000
@@ -39532,9 +39532,9 @@ Ne 0 ""
 Po 1870 0 
 $EndPAD
 $EndMODULE WE-LHMI_1040
-$MODULE SignalCommunications (rev18a)-WE-LHMI_1335
+$MODULE SignalCommunications-WE-LHMI_1335
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_1335
+Li SignalCommunications-WE-LHMI_1335
 Cd SMD POWER INDUCTOR WE-LHMI
 Kw SMD POWER INDUCTOR WE-LHMI
 Sc 00000000
@@ -39581,9 +39581,9 @@ Ne 0 ""
 Po 2185 0 
 $EndPAD
 $EndMODULE WE-LHMI_1335
-$MODULE SignalCommunications (rev18a)-WE-LHMI_1365
+$MODULE SignalCommunications-WE-LHMI_1365
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_1365
+Li SignalCommunications-WE-LHMI_1365
 Cd 
 Kw 
 Sc 00000000
@@ -39632,9 +39632,9 @@ Ne 0 ""
 Po 2185 0 
 $EndPAD
 $EndMODULE WE-LHMI_1365
-$MODULE SignalCommunications (rev18a)-WE-LHMI_4012
+$MODULE SignalCommunications-WE-LHMI_4012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_4012
+Li SignalCommunications-WE-LHMI_4012
 Cd SMD LOW PROFILE HIGH CURRENT MOLDED INDUCTOR
 Kw SMD LOW PROFILE HIGH CURRENT MOLDED INDUCTOR
 Sc 00000000
@@ -39683,9 +39683,9 @@ Ne 0 ""
 Po 728 0 
 $EndPAD
 $EndMODULE WE-LHMI_4012
-$MODULE SignalCommunications (rev18a)-WE-LHMI_4020
+$MODULE SignalCommunications-WE-LHMI_4020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_4020
+Li SignalCommunications-WE-LHMI_4020
 Cd SMD POWER INDUCTOR WE-LHMI
 Kw SMD POWER INDUCTOR WE-LHMI
 Sc 00000000
@@ -39732,9 +39732,9 @@ Ne 0 ""
 Po 728 0 
 $EndPAD
 $EndMODULE WE-LHMI_4020
-$MODULE SignalCommunications (rev18a)-WE-LHMI_5020
+$MODULE SignalCommunications-WE-LHMI_5020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_5020
+Li SignalCommunications-WE-LHMI_5020
 Cd SMD LOW PROFILE HIGH CURRENT MOLDED INDUCTOR
 Kw SMD LOW PROFILE HIGH CURRENT MOLDED INDUCTOR
 Sc 00000000
@@ -39783,9 +39783,9 @@ Ne 0 ""
 Po 807 0 
 $EndPAD
 $EndMODULE WE-LHMI_5020
-$MODULE SignalCommunications (rev18a)-WE-LHMI_5030
+$MODULE SignalCommunications-WE-LHMI_5030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_5030
+Li SignalCommunications-WE-LHMI_5030
 Cd SMD LOW PROFILE HIGH CURRENT MOLDED INDUCTOR
 Kw SMD LOW PROFILE HIGH CURRENT MOLDED INDUCTOR
 Sc 00000000
@@ -39838,9 +39838,9 @@ Ne 0 ""
 Po -885 0 
 $EndPAD
 $EndMODULE WE-LHMI_5030
-$MODULE SignalCommunications (rev18a)-WE-LHMI_7030_7050
+$MODULE SignalCommunications-WE-LHMI_7030_7050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_7030_7050
+Li SignalCommunications-WE-LHMI_7030_7050
 Cd SMD POWER INDUCTOR WE-LHMI
 Kw SMD POWER INDUCTOR WE-LHMI
 Sc 00000000
@@ -39887,9 +39887,9 @@ Ne 0 ""
 Po 1072 0 
 $EndPAD
 $EndMODULE WE-LHMI_7030_7050
-$MODULE SignalCommunications (rev18a)-WE-LHMI_8030
+$MODULE SignalCommunications-WE-LHMI_8030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_8030
+Li SignalCommunications-WE-LHMI_8030
 Cd 
 Kw 
 Sc 00000000
@@ -39940,9 +39940,9 @@ Ne 0 ""
 Po 1425 0 
 $EndPAD
 $EndMODULE WE-LHMI_8030
-$MODULE SignalCommunications (rev18a)-WE-LHMI_8040
+$MODULE SignalCommunications-WE-LHMI_8040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_8040
+Li SignalCommunications-WE-LHMI_8040
 Cd 
 Kw 
 Sc 00000000
@@ -39992,9 +39992,9 @@ Ne 0 ""
 Po 1425 0 
 $EndPAD
 $EndMODULE WE-LHMI_8040
-$MODULE SignalCommunications (rev18a)-WE-LHMI_8040_3.7
+$MODULE SignalCommunications-WE-LHMI_8040_3.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LHMI_8040_3.7
+Li SignalCommunications-WE-LHMI_8040_3.7
 Cd 
 Kw 
 Sc 00000000
@@ -40044,9 +40044,9 @@ Ne 0 ""
 Po 1425 0 
 $EndPAD
 $EndMODULE WE-LHMI_8040_3.7
-$MODULE SignalCommunications (rev18a)-WE-LLCR_ETD34
+$MODULE SignalCommunications-WE-LLCR_ETD34
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LLCR_ETD34
+Li SignalCommunications-WE-LLCR_ETD34
 Cd SIZE: ETD34
 Kw SIZE: ETD34
 Sc 00000000
@@ -40154,9 +40154,9 @@ Ne 0 ""
 Po 5511 -5413 
 $EndPAD
 $EndMODULE WE-LLCR_ETD34
-$MODULE SignalCommunications (rev18a)-WE-LLCR_ETD39
+$MODULE SignalCommunications-WE-LLCR_ETD39
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LLCR_ETD39
+Li SignalCommunications-WE-LLCR_ETD39
 Cd SIZE: ETD39
 Kw SIZE: ETD39
 Sc 00000000
@@ -40278,9 +40278,9 @@ Ne 0 ""
 Po 7086 -6850 
 $EndPAD
 $EndMODULE WE-LLCR_ETD39
-$MODULE SignalCommunications (rev18a)-WE-LLCR_ETD44
+$MODULE SignalCommunications-WE-LLCR_ETD44
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LLCR_ETD44
+Li SignalCommunications-WE-LLCR_ETD44
 Cd SIZE: ETD39
 Kw SIZE: ETD39
 Sc 00000000
@@ -40436,9 +40436,9 @@ Ne 0 ""
 Po 6889 -6889 
 $EndPAD
 $EndMODULE WE-LLCR_ETD44
-$MODULE SignalCommunications (rev18a)-WE-LPCC_7448680100
+$MODULE SignalCommunications-WE-LPCC_7448680100
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPCC_7448680100
+Li SignalCommunications-WE-LPCC_7448680100
 Cd 
 Kw 
 Sc 00000000
@@ -40489,9 +40489,9 @@ Ne 0 ""
 Po 4685 2854 
 $EndPAD
 $EndMODULE WE-LPCC_7448680100
-$MODULE SignalCommunications (rev18a)-WE-LPCC_7448680120
+$MODULE SignalCommunications-WE-LPCC_7448680120
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPCC_7448680120
+Li SignalCommunications-WE-LPCC_7448680120
 Cd 
 Kw 
 Sc 00000000
@@ -40542,9 +40542,9 @@ Ne 0 ""
 Po 4724 2952 
 $EndPAD
 $EndMODULE WE-LPCC_7448680120
-$MODULE SignalCommunications (rev18a)-WE-LPCC_7448680140
+$MODULE SignalCommunications-WE-LPCC_7448680140
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPCC_7448680140
+Li SignalCommunications-WE-LPCC_7448680140
 Cd 
 Kw 
 Sc 00000000
@@ -40595,9 +40595,9 @@ Ne 0 ""
 Po 4763 2854 
 $EndPAD
 $EndMODULE WE-LPCC_7448680140
-$MODULE SignalCommunications (rev18a)-WE-LPCC_7448680180
+$MODULE SignalCommunications-WE-LPCC_7448680180
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPCC_7448680180
+Li SignalCommunications-WE-LPCC_7448680180
 Cd 
 Kw 
 Sc 00000000
@@ -40652,9 +40652,9 @@ Ne 0 ""
 Po 4842 2854 
 $EndPAD
 $EndMODULE WE-LPCC_7448680180
-$MODULE SignalCommunications (rev18a)-WE-LPCC_7448680200
+$MODULE SignalCommunications-WE-LPCC_7448680200
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPCC_7448680200
+Li SignalCommunications-WE-LPCC_7448680200
 Cd 
 Kw 
 Sc 00000000
@@ -40709,9 +40709,9 @@ Ne 0 ""
 Po 4881 2854 
 $EndPAD
 $EndMODULE WE-LPCC_7448680200
-$MODULE SignalCommunications (rev18a)-WE-LPF_0603
+$MODULE SignalCommunications-WE-LPF_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPF_0603
+Li SignalCommunications-WE-LPF_0603
 Cd MULTILAYER CHIP LOW-PASS FILTERS WE-LPF
 Kw MULTILAYER CHIP LOW-PASS FILTERS WE-LPF
 Sc 00000000
@@ -40777,9 +40777,9 @@ Ne 0 ""
 Po 157 196 
 $EndPAD
 $EndMODULE WE-LPF_0603
-$MODULE SignalCommunications (rev18a)-WE-LPF_0805
+$MODULE SignalCommunications-WE-LPF_0805
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LPF_0805
+Li SignalCommunications-WE-LPF_0805
 Cd MULTILAYER CHIP LOW-PASS FILTERS WE-LPF
 Kw MULTILAYER CHIP LOW-PASS FILTERS WE-LPF
 Sc 00000000
@@ -40858,9 +40858,9 @@ Ne 0 ""
 Po 472 0 
 $EndPAD
 $EndMODULE WE-LPF_0805
-$MODULE SignalCommunications (rev18a)-WE-LQFS_48X8
+$MODULE SignalCommunications-WE-LQFS_48X8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQFS_48X8
+Li SignalCommunications-WE-LQFS_48X8
 Cd 
 Kw 
 Sc 00000000
@@ -40899,9 +40899,9 @@ Ne 0 ""
 Po 669 0 
 $EndPAD
 $EndMODULE WE-LQFS_48X8
-$MODULE SignalCommunications (rev18a)-WE-LQFS_3818
+$MODULE SignalCommunications-WE-LQFS_3818
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQFS_3818
+Li SignalCommunications-WE-LQFS_3818
 Cd 
 Kw 
 Sc 00000000
@@ -40938,9 +40938,9 @@ Ne 0 ""
 Po 511 0 
 $EndPAD
 $EndMODULE WE-LQFS_3818
-$MODULE SignalCommunications (rev18a)-WE-LQSH_2010
+$MODULE SignalCommunications-WE-LQSH_2010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQSH_2010
+Li SignalCommunications-WE-LQSH_2010
 Cd 
 Kw 
 Sc 00000000
@@ -40975,9 +40975,9 @@ Ne 0 ""
 Po 314 0 
 $EndPAD
 $EndMODULE WE-LQSH_2010
-$MODULE SignalCommunications (rev18a)-WE-LQSH_2512
+$MODULE SignalCommunications-WE-LQSH_2512
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQSH_2512
+Li SignalCommunications-WE-LQSH_2512
 Cd 
 Kw 
 Sc 00000000
@@ -41012,9 +41012,9 @@ Ne 0 ""
 Po 344 0 
 $EndPAD
 $EndMODULE WE-LQSH_2512
-$MODULE SignalCommunications (rev18a)-WE-LQSH_3012
+$MODULE SignalCommunications-WE-LQSH_3012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQSH_3012
+Li SignalCommunications-WE-LQSH_3012
 Cd 
 Kw 
 Sc 00000000
@@ -41049,9 +41049,9 @@ Ne 0 ""
 Po 462 0 
 $EndPAD
 $EndMODULE WE-LQSH_3012
-$MODULE SignalCommunications (rev18a)-WE-LQSH_4020
+$MODULE SignalCommunications-WE-LQSH_4020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQSH_4020
+Li SignalCommunications-WE-LQSH_4020
 Cd 
 Kw 
 Sc 00000000
@@ -41090,9 +41090,9 @@ Ne 0 ""
 Po 610 0 
 $EndPAD
 $EndMODULE WE-LQSH_4020
-$MODULE SignalCommunications (rev18a)-WE-LQS_2010
+$MODULE SignalCommunications-WE-LQS_2010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_2010
+Li SignalCommunications-WE-LQS_2010
 Cd 
 Kw 
 Sc 00000000
@@ -41125,9 +41125,9 @@ Ne 0 ""
 Po 305 0 
 $EndPAD
 $EndMODULE WE-LQS_2010
-$MODULE SignalCommunications (rev18a)-WE-LQS_2512
+$MODULE SignalCommunications-WE-LQS_2512
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_2512
+Li SignalCommunications-WE-LQS_2512
 Cd INDLQS WE-LQS SMD POWER INDUCTOR
 Kw INDLQS WE-LQS SMD POWER INDUCTOR
 Sc 00000000
@@ -41160,9 +41160,9 @@ Ne 0 ""
 Po 374 0 
 $EndPAD
 $EndMODULE WE-LQS_2512
-$MODULE SignalCommunications (rev18a)-WE-LQS_3012
+$MODULE SignalCommunications-WE-LQS_3012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_3012
+Li SignalCommunications-WE-LQS_3012
 Cd WE-LQS SMD POWER INDUCTOR
 Kw WE-LQS SMD POWER INDUCTOR
 Sc 00000000
@@ -41197,9 +41197,9 @@ Ne 0 ""
 Po 472 0 
 $EndPAD
 $EndMODULE WE-LQS_3012
-$MODULE SignalCommunications (rev18a)-WE-LQS_3015
+$MODULE SignalCommunications-WE-LQS_3015
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_3015
+Li SignalCommunications-WE-LQS_3015
 Cd SMD SHIELDED TINY POWER INDUCTOR
 Kw SMD SHIELDED TINY POWER INDUCTOR
 Sc 00000000
@@ -41232,9 +41232,9 @@ Ne 0 ""
 Po 472 0 
 $EndPAD
 $EndMODULE WE-LQS_3015
-$MODULE SignalCommunications (rev18a)-WE-LQS_4012
+$MODULE SignalCommunications-WE-LQS_4012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_4012
+Li SignalCommunications-WE-LQS_4012
 Cd INDLQS WE-LQS SMD POWER INDUCTOR
 Kw INDLQS WE-LQS SMD POWER INDUCTOR
 Sc 00000000
@@ -41273,9 +41273,9 @@ Ne 0 ""
 Po 600 0 
 $EndPAD
 $EndMODULE WE-LQS_4012
-$MODULE SignalCommunications (rev18a)-WE-LQS_4018
+$MODULE SignalCommunications-WE-LQS_4018
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_4018
+Li SignalCommunications-WE-LQS_4018
 Cd SMD SHIELDED TINY POWER INDUCTOR
 Kw SMD SHIELDED TINY POWER INDUCTOR
 Sc 00000000
@@ -41308,9 +41308,9 @@ Ne 0 ""
 Po 600 0 
 $EndPAD
 $EndMODULE WE-LQS_4018
-$MODULE SignalCommunications (rev18a)-WE-LQS_4025
+$MODULE SignalCommunications-WE-LQS_4025
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_4025
+Li SignalCommunications-WE-LQS_4025
 Cd 
 Kw 
 Sc 00000000
@@ -41349,9 +41349,9 @@ Ne 0 ""
 Po 600 0 
 $EndPAD
 $EndMODULE WE-LQS_4025
-$MODULE SignalCommunications (rev18a)-WE-LQS_5020
+$MODULE SignalCommunications-WE-LQS_5020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_5020
+Li SignalCommunications-WE-LQS_5020
 Cd INDLQS WE-LQS SMD POWER INDUCTOR
 Kw INDLQS WE-LQS SMD POWER INDUCTOR
 Sc 00000000
@@ -41390,9 +41390,9 @@ Ne 0 ""
 Po 767 0 
 $EndPAD
 $EndMODULE WE-LQS_5020
-$MODULE SignalCommunications (rev18a)-WE-LQS_5040
+$MODULE SignalCommunications-WE-LQS_5040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_5040
+Li SignalCommunications-WE-LQS_5040
 Cd SMD SHIELDED TINY POWER INDUCTOR
 Kw SMD SHIELDED TINY POWER INDUCTOR
 Sc 00000000
@@ -41425,9 +41425,9 @@ Ne 0 ""
 Po 757 0 
 $EndPAD
 $EndMODULE WE-LQS_5040
-$MODULE SignalCommunications (rev18a)-WE-LQS_6028
+$MODULE SignalCommunications-WE-LQS_6028
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_6028
+Li SignalCommunications-WE-LQS_6028
 Cd SMD SHIELDED TINY POWER INDUCTOR
 Kw SMD SHIELDED TINY POWER INDUCTOR
 Sc 00000000
@@ -41460,9 +41460,9 @@ Ne 0 ""
 Po 905 0 
 $EndPAD
 $EndMODULE WE-LQS_6028
-$MODULE SignalCommunications (rev18a)-WE-LQS_6045
+$MODULE SignalCommunications-WE-LQS_6045
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_6045
+Li SignalCommunications-WE-LQS_6045
 Cd 
 Kw 
 Sc 00000000
@@ -41495,9 +41495,9 @@ Ne 0 ""
 Po 905 0 
 $EndPAD
 $EndMODULE WE-LQS_6045
-$MODULE SignalCommunications (rev18a)-WE-LQS_8040
+$MODULE SignalCommunications-WE-LQS_8040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_8040
+Li SignalCommunications-WE-LQS_8040
 Cd SMD SHIELDED TINY POWER INDUCTOR
 Kw SMD SHIELDED TINY POWER INDUCTOR
 Sc 00000000
@@ -41530,9 +41530,9 @@ Ne 0 ""
 Po 1220 0 
 $EndPAD
 $EndMODULE WE-LQS_8040
-$MODULE SignalCommunications (rev18a)-WE-LQS_8065
+$MODULE SignalCommunications-WE-LQS_8065
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQS_8065
+Li SignalCommunications-WE-LQS_8065
 Cd 
 Kw 
 Sc 00000000
@@ -41564,9 +41564,9 @@ Ne 0 ""
 Po 1220 0 
 $EndPAD
 $EndMODULE WE-LQS_8065
-$MODULE SignalCommunications (rev18a)-WE-LQ_L
+$MODULE SignalCommunications-WE-LQ_L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQ_L
+Li SignalCommunications-WE-LQ_L
 Cd SMD RF INDUCTOR WE-LQ
 Kw SMD RF INDUCTOR WE-LQ
 Sc 00000000
@@ -41606,9 +41606,9 @@ Ne 0 ""
 Po 669 0 
 $EndPAD
 $EndMODULE WE-LQ_L
-$MODULE SignalCommunications (rev18a)-WE-LQ_M
+$MODULE SignalCommunications-WE-LQ_M
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-LQ_M
+Li SignalCommunications-WE-LQ_M
 Cd SMD RF INDUCTOR WE-LQ
 Kw SMD RF INDUCTOR WE-LQ
 Sc 00000000
@@ -41648,9 +41648,9 @@ Ne 0 ""
 Po 472 0 
 $EndPAD
 $EndMODULE WE-LQ_M
-$MODULE SignalCommunications (rev18a)-WE-MAIA_2506
+$MODULE SignalCommunications-WE-MAIA_2506
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_2506
+Li SignalCommunications-WE-MAIA_2506
 Cd WE-MAIA
 Kw WE-MAIA
 Sc 00000000
@@ -41700,9 +41700,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAIA_2506
-$MODULE SignalCommunications (rev18a)-WE-MAIA_2508
+$MODULE SignalCommunications-WE-MAIA_2508
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_2508
+Li SignalCommunications-WE-MAIA_2508
 Cd WE-MAIA
 Kw WE-MAIA
 Sc 00000000
@@ -41752,9 +41752,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAIA_2508
-$MODULE SignalCommunications (rev18a)-WE-MAIA_2510
+$MODULE SignalCommunications-WE-MAIA_2510
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_2510
+Li SignalCommunications-WE-MAIA_2510
 Cd WE-MAIA
 Kw WE-MAIA
 Sc 00000000
@@ -41804,9 +41804,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAIA_2510
-$MODULE SignalCommunications (rev18a)-WE-MAIA_2512
+$MODULE SignalCommunications-WE-MAIA_2512
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_2512
+Li SignalCommunications-WE-MAIA_2512
 Cd 
 Kw 
 Sc 00000000
@@ -41853,9 +41853,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAIA_2512
-$MODULE SignalCommunications (rev18a)-WE-MAIA_3010
+$MODULE SignalCommunications-WE-MAIA_3010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_3010
+Li SignalCommunications-WE-MAIA_3010
 Cd WE-MAIA
 Kw WE-MAIA
 Sc 00000000
@@ -41906,9 +41906,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAIA_3010
-$MODULE SignalCommunications (rev18a)-WE-MAIA_3012
+$MODULE SignalCommunications-WE-MAIA_3012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_3012
+Li SignalCommunications-WE-MAIA_3012
 Cd WE-MAIA
 Kw WE-MAIA
 Sc 00000000
@@ -41957,9 +41957,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAIA_3012
-$MODULE SignalCommunications (rev18a)-WE-MAIA_3015
+$MODULE SignalCommunications-WE-MAIA_3015
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_3015
+Li SignalCommunications-WE-MAIA_3015
 Cd WE-MAIA
 Kw WE-MAIA
 Sc 00000000
@@ -42009,9 +42009,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAIA_3015
-$MODULE SignalCommunications (rev18a)-WE-MAIA_3020
+$MODULE SignalCommunications-WE-MAIA_3020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_3020
+Li SignalCommunications-WE-MAIA_3020
 Cd 
 Kw 
 Sc 00000000
@@ -42056,9 +42056,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAIA_3020
-$MODULE SignalCommunications (rev18a)-WE-MAIA_4020
+$MODULE SignalCommunications-WE-MAIA_4020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_4020
+Li SignalCommunications-WE-MAIA_4020
 Cd 
 Kw 
 Sc 00000000
@@ -42103,9 +42103,9 @@ Ne 0 ""
 Po 466 0 
 $EndPAD
 $EndMODULE WE-MAIA_4020
-$MODULE SignalCommunications (rev18a)-WE-MAIA_4030
+$MODULE SignalCommunications-WE-MAIA_4030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAIA_4030
+Li SignalCommunications-WE-MAIA_4030
 Cd 
 Kw 
 Sc 00000000
@@ -42150,9 +42150,9 @@ Ne 0 ""
 Po 466 0 
 $EndPAD
 $EndMODULE WE-MAIA_4030
-$MODULE SignalCommunications (rev18a)-WE-MAPI_20XX
+$MODULE SignalCommunications-WE-MAPI_20XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_20XX
+Li SignalCommunications-WE-MAPI_20XX
 Cd 
 Kw 
 Sc 00000000
@@ -42229,9 +42229,9 @@ Ne 0 ""
 Po 285 263 
 $EndPAD
 $EndMODULE WE-MAPI_20XX
-$MODULE SignalCommunications (rev18a)-WE-MAPI_25XX
+$MODULE SignalCommunications-WE-MAPI_25XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_25XX
+Li SignalCommunications-WE-MAPI_25XX
 Cd 
 Kw 
 Sc 00000000
@@ -42311,9 +42311,9 @@ Ne 0 ""
 Po 383 314 
 $EndPAD
 $EndMODULE WE-MAPI_25XX
-$MODULE SignalCommunications (rev18a)-WE-MAPI_30XX
+$MODULE SignalCommunications-WE-MAPI_30XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_30XX
+Li SignalCommunications-WE-MAPI_30XX
 Cd 
 Kw 
 Sc 00000000
@@ -42497,9 +42497,9 @@ Ne 0 ""
 Po 551 551 
 $EndPAD
 $EndMODULE WE-MAPI_30XX
-$MODULE SignalCommunications (rev18a)-WE-MAPI_40XX
+$MODULE SignalCommunications-WE-MAPI_40XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_40XX
+Li SignalCommunications-WE-MAPI_40XX
 Cd 
 Kw 
 Sc 00000000
@@ -42544,9 +42544,9 @@ Ne 0 ""
 Po 466 0 
 $EndPAD
 $EndMODULE WE-MAPI_40XX
-$MODULE SignalCommunications (rev18a)-WE-MAPI_1610
+$MODULE SignalCommunications-WE-MAPI_1610
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_1610
+Li SignalCommunications-WE-MAPI_1610
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -42593,9 +42593,9 @@ Ne 0 ""
 Po 216 0 
 $EndPAD
 $EndMODULE WE-MAPI_1610
-$MODULE SignalCommunications (rev18a)-WE-MAPI_2010
+$MODULE SignalCommunications-WE-MAPI_2010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_2010
+Li SignalCommunications-WE-MAPI_2010
 Cd 
 Kw 
 Sc 00000000
@@ -42642,9 +42642,9 @@ Ne 0 ""
 Po 285 0 
 $EndPAD
 $EndMODULE WE-MAPI_2010
-$MODULE SignalCommunications (rev18a)-WE-MAPI_2506
+$MODULE SignalCommunications-WE-MAPI_2506
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_2506
+Li SignalCommunications-WE-MAPI_2506
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -42696,9 +42696,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAPI_2506
-$MODULE SignalCommunications (rev18a)-WE-MAPI_2508
+$MODULE SignalCommunications-WE-MAPI_2508
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_2508
+Li SignalCommunications-WE-MAPI_2508
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -42750,9 +42750,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAPI_2508
-$MODULE SignalCommunications (rev18a)-WE-MAPI_2510_2512
+$MODULE SignalCommunications-WE-MAPI_2510_2512
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_2510_2512
+Li SignalCommunications-WE-MAPI_2510_2512
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -42804,9 +42804,9 @@ Ne 0 ""
 Po 383 0 
 $EndPAD
 $EndMODULE WE-MAPI_2510_2512
-$MODULE SignalCommunications (rev18a)-WE-MAPI_3010
+$MODULE SignalCommunications-WE-MAPI_3010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_3010
+Li SignalCommunications-WE-MAPI_3010
 Cd 
 Kw 
 Sc 00000000
@@ -42858,9 +42858,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAPI_3010
-$MODULE SignalCommunications (rev18a)-WE-MAPI_3012_STANDER
+$MODULE SignalCommunications-WE-MAPI_3012_STANDER
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_3012_STANDER
+Li SignalCommunications-WE-MAPI_3012_STANDER
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -42912,9 +42912,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAPI_3012_STANDER
-$MODULE SignalCommunications (rev18a)-WE-MAPI_3015_3020
+$MODULE SignalCommunications-WE-MAPI_3015_3020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MAPI_3015_3020
+Li SignalCommunications-WE-MAPI_3015_3020
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -42966,9 +42966,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MAPI_3015_3020
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488105XX_7488940245
+$MODULE SignalCommunications-WE-MCA_7488105XX_7488940245
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488105XX_7488940245
+Li SignalCommunications-WE-MCA_7488105XX_7488940245
 Cd MULTIPLAYER CHIP ANTENNA WE-MCA
 Kw MULTIPLAYER CHIP ANTENNA WE-MCA
 Sc 00000000
@@ -43009,9 +43009,9 @@ Ne 0 ""
 Po -1328 0 
 $EndPAD
 $EndMODULE WE-MCA_7488105XX_7488940245
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488910043
+$MODULE SignalCommunications-WE-MCA_7488910043
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488910043
+Li SignalCommunications-WE-MCA_7488910043
 Cd MULTILAYER CHIP ANTENNA --
 Kw MULTILAYER CHIP ANTENNA --
 Sc 00000000
@@ -43058,9 +43058,9 @@ Ne 0 ""
 Po -4822 0 
 $EndPAD
 $EndMODULE WE-MCA_7488910043
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488910092
+$MODULE SignalCommunications-WE-MCA_7488910092
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488910092
+Li SignalCommunications-WE-MCA_7488910092
 Cd MULTILAYER CHIP ANTENNA WE-MCA
 Kw MULTILAYER CHIP ANTENNA WE-MCA
 Sc 00000000
@@ -43151,9 +43151,9 @@ Ne 0 ""
 Po -2185 -826 
 $EndPAD
 $EndMODULE WE-MCA_7488910092
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488910245
+$MODULE SignalCommunications-WE-MCA_7488910245
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488910245
+Li SignalCommunications-WE-MCA_7488910245
 Cd MULTIPLAYER CHIP ANTENNA WE-MCA
 Kw MULTIPLAYER CHIP ANTENNA WE-MCA
 Sc 00000000
@@ -43189,9 +43189,9 @@ Ne 0 ""
 Po -1771 0 
 $EndPAD
 $EndMODULE WE-MCA_7488910245
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488912455
+$MODULE SignalCommunications-WE-MCA_7488912455
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488912455
+Li SignalCommunications-WE-MCA_7488912455
 Cd MULTILAYER CHIP ANTENNA WE-MCA
 Kw MULTILAYER CHIP ANTENNA WE-MCA
 Sc 00000000
@@ -43249,9 +43249,9 @@ Ne 0 ""
 Po -311 0 
 $EndPAD
 $EndMODULE WE-MCA_7488912455
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488920245
+$MODULE SignalCommunications-WE-MCA_7488920245
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488920245
+Li SignalCommunications-WE-MCA_7488920245
 Cd MULTIPLAYER CHIP ANTENNA WE-MCA
 Kw MULTIPLAYER CHIP ANTENNA WE-MCA
 Sc 00000000
@@ -43321,9 +43321,9 @@ Ne 0 ""
 Po -1535 531 
 $EndPAD
 $EndMODULE WE-MCA_7488920245
-$MODULE SignalCommunications (rev18a)-WE-MCA_7488930245
+$MODULE SignalCommunications-WE-MCA_7488930245
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCA_7488930245
+Li SignalCommunications-WE-MCA_7488930245
 Cd MULTIPLAYER CHIP ANTENNA WE-MCA
 Kw MULTIPLAYER CHIP ANTENNA WE-MCA
 Sc 00000000
@@ -43359,9 +43359,9 @@ Ne 0 ""
 Po -669 0 
 $EndPAD
 $EndMODULE WE-MCA_7488930245
-$MODULE SignalCommunications (rev18a)-WE-MCRI_1090
+$MODULE SignalCommunications-WE-MCRI_1090
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MCRI_1090
+Li SignalCommunications-WE-MCRI_1090
 Cd 
 Kw 
 Sc 00000000
@@ -43410,9 +43410,9 @@ Ne 0 ""
 Po 944 -1574 
 $EndPAD
 $EndMODULE WE-MCRI_1090
-$MODULE SignalCommunications (rev18a)-WE-MI_0603
+$MODULE SignalCommunications-WE-MI_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MI_0603
+Li SignalCommunications-WE-MI_0603
 Cd 
 Kw 
 Sc 00000000
@@ -43450,9 +43450,9 @@ Ne 0 ""
 Po 285 0 
 $EndPAD
 $EndMODULE WE-MI_0603
-$MODULE SignalCommunications (rev18a)-WE-MI_0805
+$MODULE SignalCommunications-WE-MI_0805
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MI_0805
+Li SignalCommunications-WE-MI_0805
 Cd 
 Kw 
 Sc 00000000
@@ -43492,9 +43492,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-MI_0805
-$MODULE SignalCommunications (rev18a)-WE-MI_1206
+$MODULE SignalCommunications-WE-MI_1206
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MI_1206
+Li SignalCommunications-WE-MI_1206
 Cd 
 Kw 
 Sc 00000000
@@ -43534,9 +43534,9 @@ Ne 0 ""
 Po 610 0 
 $EndPAD
 $EndMODULE WE-MI_1206
-$MODULE SignalCommunications (rev18a)-WE-MK_0201
+$MODULE SignalCommunications-WE-MK_0201
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MK_0201
+Li SignalCommunications-WE-MK_0201
 Cd 
 Kw 
 Sc 00000000
@@ -43574,9 +43574,9 @@ Ne 0 ""
 Po 118 0 
 $EndPAD
 $EndMODULE WE-MK_0201
-$MODULE SignalCommunications (rev18a)-WE-MK_0402
+$MODULE SignalCommunications-WE-MK_0402
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MK_0402
+Li SignalCommunications-WE-MK_0402
 Cd 
 Kw 
 Sc 00000000
@@ -43616,9 +43616,9 @@ Ne 0 ""
 Po 216 0 
 $EndPAD
 $EndMODULE WE-MK_0402
-$MODULE SignalCommunications (rev18a)-WE-MK_0603
+$MODULE SignalCommunications-WE-MK_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MK_0603
+Li SignalCommunications-WE-MK_0603
 Cd 
 Kw 
 Sc 00000000
@@ -43658,9 +43658,9 @@ Ne 0 ""
 Po 314 0 
 $EndPAD
 $EndMODULE WE-MK_0603
-$MODULE SignalCommunications (rev18a)-WE-MPSB_0603(W=2.6)
+$MODULE SignalCommunications-WE-MPSB_0603(W=2.6)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_0603(W=2.6)
+Li SignalCommunications-WE-MPSB_0603(W=2.6)
 Cd 
 Kw 
 Sc 00000000
@@ -43693,9 +43693,9 @@ Ne 0 ""
 Po 324 0 
 $EndPAD
 $EndMODULE WE-MPSB_0603(W=2.6)
-$MODULE SignalCommunications (rev18a)-WE-MPSB_0805(W=4.0)
+$MODULE SignalCommunications-WE-MPSB_0805(W=4.0)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_0805(W=4.0)
+Li SignalCommunications-WE-MPSB_0805(W=4.0)
 Cd 
 Kw 
 Sc 00000000
@@ -43730,9 +43730,9 @@ Ne 0 ""
 Po 511 0 
 $EndPAD
 $EndMODULE WE-MPSB_0805(W=4.0)
-$MODULE SignalCommunications (rev18a)-WE-MPSB_1206(W=5.2)
+$MODULE SignalCommunications-WE-MPSB_1206(W=5.2)
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_1206(W=5.2)
+Li SignalCommunications-WE-MPSB_1206(W=5.2)
 Cd 
 Kw 
 Sc 00000000
@@ -43765,9 +43765,9 @@ Ne 0 ""
 Po 708 0 
 $EndPAD
 $EndMODULE WE-MPSB_1206(W=5.2)
-$MODULE SignalCommunications (rev18a)-WE-MPSB_1612
+$MODULE SignalCommunications-WE-MPSB_1612
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_1612
+Li SignalCommunications-WE-MPSB_1612
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -43802,9 +43802,9 @@ Ne 0 ""
 Po 1053 0 
 $EndPAD
 $EndMODULE WE-MPSB_1612
-$MODULE SignalCommunications (rev18a)-WE-MPSB_1812
+$MODULE SignalCommunications-WE-MPSB_1812
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_1812
+Li SignalCommunications-WE-MPSB_1812
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -43839,9 +43839,9 @@ Ne 0 ""
 Po 1062 0 
 $EndPAD
 $EndMODULE WE-MPSB_1812
-$MODULE SignalCommunications (rev18a)-WE-MPSB_2220
+$MODULE SignalCommunications-WE-MPSB_2220
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_2220
+Li SignalCommunications-WE-MPSB_2220
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -43876,9 +43876,9 @@ Ne 0 ""
 Po 1210 0 
 $EndPAD
 $EndMODULE WE-MPSB_2220
-$MODULE SignalCommunications (rev18a)-WE-MPSB_3312
+$MODULE SignalCommunications-WE-MPSB_3312
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MPSB_3312
+Li SignalCommunications-WE-MPSB_3312
 Cd SMD MULTILAYER
 Kw SMD MULTILAYER
 Sc 00000000
@@ -43913,9 +43913,9 @@ Ne 0 ""
 Po 1925 0 
 $EndPAD
 $EndMODULE WE-MPSB_3312
-$MODULE SignalCommunications (rev18a)-WE-MTCI_5030
+$MODULE SignalCommunications-WE-MTCI_5030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-MTCI_5030
+Li SignalCommunications-WE-MTCI_5030
 Cd 
 Kw 
 Sc 00000000
@@ -43968,9 +43968,9 @@ Ne 0 ""
 Po -688 688 
 $EndPAD
 $EndMODULE WE-MTCI_5030
-$MODULE SignalCommunications (rev18a)-WE-PBF_7427930
+$MODULE SignalCommunications-WE-PBF_7427930
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PBF_7427930
+Li SignalCommunications-WE-PBF_7427930
 Cd SMD EMI SUPPRESSION FERRITE BEADS WE-PBF
 Kw SMD EMI SUPPRESSION FERRITE BEADS WE-PBF
 Sc 00000000
@@ -44012,9 +44012,9 @@ Ne 0 ""
 Po 708 0 
 $EndPAD
 $EndMODULE WE-PBF_7427930
-$MODULE SignalCommunications (rev18a)-WE-PBF_7427931
+$MODULE SignalCommunications-WE-PBF_7427931
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PBF_7427931
+Li SignalCommunications-WE-PBF_7427931
 Cd SMD EMI SUPPRESSION FERRITE BEADS WE-PBF
 Kw SMD EMI SUPPRESSION FERRITE BEADS WE-PBF
 Sc 00000000
@@ -44056,9 +44056,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-PBF_7427931
-$MODULE SignalCommunications (rev18a)-WE-PBF_7427932
+$MODULE SignalCommunications-WE-PBF_7427932
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PBF_7427932
+Li SignalCommunications-WE-PBF_7427932
 Cd SMD EMI SUPPRESSION FERRITE BEADS WE-PBF
 Kw SMD EMI SUPPRESSION FERRITE BEADS WE-PBF
 Sc 00000000
@@ -44100,9 +44100,9 @@ Ne 0 ""
 Po 1437 0 
 $EndPAD
 $EndMODULE WE-PBF_7427932
-$MODULE SignalCommunications (rev18a)-WE-PD2A_1054
+$MODULE SignalCommunications-WE-PD2A_1054
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2A_1054
+Li SignalCommunications-WE-PD2A_1054
 Cd WE-PD2A
 Kw WE-PD2A
 Sc 00000000
@@ -44147,9 +44147,9 @@ Ne 0 ""
 Po 1230 0 
 $EndPAD
 $EndMODULE WE-PD2A_1054
-$MODULE SignalCommunications (rev18a)-WE-PD2A_4532
+$MODULE SignalCommunications-WE-PD2A_4532
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2A_4532
+Li SignalCommunications-WE-PD2A_4532
 Cd WE-PD2A
 Kw WE-PD2A
 Sc 00000000
@@ -44194,9 +44194,9 @@ Ne 0 ""
 Po 639 0 
 $EndPAD
 $EndMODULE WE-PD2A_4532
-$MODULE SignalCommunications (rev18a)-WE-PD2A_5848
+$MODULE SignalCommunications-WE-PD2A_5848
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2A_5848
+Li SignalCommunications-WE-PD2A_5848
 Cd WE-PD2A
 Kw WE-PD2A
 Sc 00000000
@@ -44241,9 +44241,9 @@ Ne 0 ""
 Po 757 0 
 $EndPAD
 $EndMODULE WE-PD2A_5848
-$MODULE SignalCommunications (rev18a)-WE-PD2A_7850
+$MODULE SignalCommunications-WE-PD2A_7850
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2A_7850
+Li SignalCommunications-WE-PD2A_7850
 Cd WE-PD2A
 Kw WE-PD2A
 Sc 00000000
@@ -44288,9 +44288,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-PD2A_7850
-$MODULE SignalCommunications (rev18a)-WE-PD2SA_7850
+$MODULE SignalCommunications-WE-PD2SA_7850
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2SA_7850
+Li SignalCommunications-WE-PD2SA_7850
 Cd 
 Kw 
 Sc 00000000
@@ -44335,9 +44335,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-PD2SA_7850
-$MODULE SignalCommunications (rev18a)-WE-PD2SR_7850
+$MODULE SignalCommunications-WE-PD2SR_7850
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2SR_7850
+Li SignalCommunications-WE-PD2SR_7850
 Cd WE-PD2SR SHIELDED POWER INDUCTOR
 Kw WE-PD2SR SHIELDED POWER INDUCTOR
 Sc 00000000
@@ -44388,9 +44388,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-PD2SR_7850
-$MODULE SignalCommunications (rev18a)-WE-PD2_1054
+$MODULE SignalCommunications-WE-PD2_1054
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2_1054
+Li SignalCommunications-WE-PD2_1054
 Cd SMD-POWER INDUCTOR WE-PD2
 Kw SMD-POWER INDUCTOR WE-PD2
 Sc 00000000
@@ -44442,9 +44442,9 @@ Ne 0 ""
 Po 1230 0 
 $EndPAD
 $EndMODULE WE-PD2_1054
-$MODULE SignalCommunications (rev18a)-WE-PD2_3521
+$MODULE SignalCommunications-WE-PD2_3521
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2_3521
+Li SignalCommunications-WE-PD2_3521
 Cd 
 Kw 
 Sc 00000000
@@ -44504,9 +44504,9 @@ Ne 0 ""
 Po 433 0 
 $EndPAD
 $EndMODULE WE-PD2_3521
-$MODULE SignalCommunications (rev18a)-WE-PD2_4532
+$MODULE SignalCommunications-WE-PD2_4532
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2_4532
+Li SignalCommunications-WE-PD2_4532
 Cd SMD-POWER INDUCTOR WE-PD2
 Kw SMD-POWER INDUCTOR WE-PD2
 Sc 00000000
@@ -44558,9 +44558,9 @@ Ne 0 ""
 Po 639 0 
 $EndPAD
 $EndMODULE WE-PD2_4532
-$MODULE SignalCommunications (rev18a)-WE-PD2_5848_5820
+$MODULE SignalCommunications-WE-PD2_5848_5820
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2_5848_5820
+Li SignalCommunications-WE-PD2_5848_5820
 Cd SMD-POWER INDUCTOR WE-PD2
 Kw SMD-POWER INDUCTOR WE-PD2
 Sc 00000000
@@ -44613,9 +44613,9 @@ Ne 0 ""
 Po 757 0 
 $EndPAD
 $EndMODULE WE-PD2_5848_5820
-$MODULE SignalCommunications (rev18a)-WE-PD2_7850
+$MODULE SignalCommunications-WE-PD2_7850
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2_7850
+Li SignalCommunications-WE-PD2_7850
 Cd SMD-POWER INDUCTOR WE-PD2
 Kw SMD-POWER INDUCTOR WE-PD2
 Sc 00000000
@@ -44667,9 +44667,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-PD2_7850
-$MODULE SignalCommunications (rev18a)-WE-PD2_HV_1060
+$MODULE SignalCommunications-WE-PD2_HV_1060
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD2_HV_1060
+Li SignalCommunications-WE-PD2_HV_1060
 Cd 
 Kw 
 Sc 00000000
@@ -44700,9 +44700,9 @@ Ne 0 ""
 Po 0 1230 
 $EndPAD
 $EndMODULE WE-PD2_HV_1060
-$MODULE SignalCommunications (rev18a)-WE-PD3_L
+$MODULE SignalCommunications-WE-PD3_L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD3_L
+Li SignalCommunications-WE-PD3_L
 Cd SMD POWER INDUCTOR
 Kw SMD POWER INDUCTOR
 Sc 00000000
@@ -44744,9 +44744,9 @@ Ne 0 ""
 Po 2027 0 
 $EndPAD
 $EndMODULE WE-PD3_L
-$MODULE SignalCommunications (rev18a)-WE-PD3_M
+$MODULE SignalCommunications-WE-PD3_M
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD3_M
+Li SignalCommunications-WE-PD3_M
 Cd SMD POWER INDUCTOR
 Kw SMD POWER INDUCTOR
 Sc 00000000
@@ -44788,9 +44788,9 @@ Ne 0 ""
 Po 2027 0 
 $EndPAD
 $EndMODULE WE-PD3_M
-$MODULE SignalCommunications (rev18a)-WE-PD3_S
+$MODULE SignalCommunications-WE-PD3_S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD3_S
+Li SignalCommunications-WE-PD3_S
 Cd SMD POWER INDUCTOR
 Kw SMD POWER INDUCTOR
 Sc 00000000
@@ -44832,9 +44832,9 @@ Ne 0 ""
 Po 1074 0 
 $EndPAD
 $EndMODULE WE-PD3_S
-$MODULE SignalCommunications (rev18a)-WE-PD3_X
+$MODULE SignalCommunications-WE-PD3_X
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD3_X
+Li SignalCommunications-WE-PD3_X
 Cd SMD POWER INDUCTOR
 Kw SMD POWER INDUCTOR
 Sc 00000000
@@ -44876,9 +44876,9 @@ Ne 0 ""
 Po 3025 0 
 $EndPAD
 $EndMODULE WE-PD3_X
-$MODULE SignalCommunications (rev18a)-WE-PD4_XL
+$MODULE SignalCommunications-WE-PD4_XL
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD4_XL
+Li SignalCommunications-WE-PD4_XL
 Cd SMD POWER INDUCTOR
 Kw SMD POWER INDUCTOR
 Sc 00000000
@@ -44927,9 +44927,9 @@ Ne 0 ""
 Po 3444 0 
 $EndPAD
 $EndMODULE WE-PD4_XL
-$MODULE SignalCommunications (rev18a)-WE-PDA_1210
+$MODULE SignalCommunications-WE-PDA_1210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PDA_1210
+Li SignalCommunications-WE-PDA_1210
 Cd WE-PDA_1210
 Kw WE-PDA_1210
 Sc 00000000
@@ -44978,9 +44978,9 @@ Ne 0 ""
 Po 1929 0 
 $EndPAD
 $EndMODULE WE-PDA_1210
-$MODULE SignalCommunications (rev18a)-WE-PDA_1260
+$MODULE SignalCommunications-WE-PDA_1260
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PDA_1260
+Li SignalCommunications-WE-PDA_1260
 Cd WE-PDA_1260
 Kw WE-PDA_1260
 Sc 00000000
@@ -45029,9 +45029,9 @@ Ne 0 ""
 Po 1929 0 
 $EndPAD
 $EndMODULE WE-PDA_1260
-$MODULE SignalCommunications (rev18a)-WE-PDA_1280
+$MODULE SignalCommunications-WE-PDA_1280
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PDA_1280
+Li SignalCommunications-WE-PDA_1280
 Cd WE-PDA_1280
 Kw WE-PDA_1280
 Sc 00000000
@@ -45080,9 +45080,9 @@ Ne 0 ""
 Po 1929 0 
 $EndPAD
 $EndMODULE WE-PDA_1280
-$MODULE SignalCommunications (rev18a)-WE-PDA_7332
+$MODULE SignalCommunications-WE-PDA_7332
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PDA_7332
+Li SignalCommunications-WE-PDA_7332
 Cd WE-PDA_7332
 Kw WE-PDA_7332
 Sc 00000000
@@ -45131,9 +45131,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-PDA_7332
-$MODULE SignalCommunications (rev18a)-WE-PDA_7345
+$MODULE SignalCommunications-WE-PDA_7345
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PDA_7345
+Li SignalCommunications-WE-PDA_7345
 Cd WE-PDA_7345
 Kw WE-PDA_7345
 Sc 00000000
@@ -45182,9 +45182,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-PDA_7345
-$MODULE SignalCommunications (rev18a)-WE-PDF
+$MODULE SignalCommunications-WE-PDF
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PDF
+Li SignalCommunications-WE-PDF
 Cd SMD-POWER INDUCTOR WE-PDF
 Kw SMD-POWER INDUCTOR WE-PDF
 Sc 00000000
@@ -45222,9 +45222,9 @@ Ne 0 ""
 Po -1614 0 
 $EndPAD
 $EndMODULE WE-PDF
-$MODULE SignalCommunications (rev18a)-WE-PD_1030_1050
+$MODULE SignalCommunications-WE-PD_1030_1050
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_1030_1050
+Li SignalCommunications-WE-PD_1030_1050
 Cd SMD-SHIELDED POWER INDUCTORS WE-PD
 Kw SMD-SHIELDED POWER INDUCTORS WE-PD
 Sc 00000000
@@ -45277,9 +45277,9 @@ Ne 0 ""
 Po 1771 0 
 $EndPAD
 $EndMODULE WE-PD_1030_1050
-$MODULE SignalCommunications (rev18a)-WE-PD_1260_1245_1280_1210
+$MODULE SignalCommunications-WE-PD_1260_1245_1280_1210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_1260_1245_1280_1210
+Li SignalCommunications-WE-PD_1260_1245_1280_1210
 Cd SMD-SHIELDED POWER INDUCTOR WE-PD
 Kw SMD-SHIELDED POWER INDUCTOR WE-PD
 Sc 00000000
@@ -45349,9 +45349,9 @@ Ne 0 ""
 Po 1948 0 
 $EndPAD
 $EndMODULE WE-PD_1260_1245_1280_1210
-$MODULE SignalCommunications (rev18a)-WE-PD_6033_6050_PLASTIC_BASE
+$MODULE SignalCommunications-WE-PD_6033_6050_PLASTIC_BASE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_6033_6050_PLASTIC_BASE
+Li SignalCommunications-WE-PD_6033_6050_PLASTIC_BASE
 Cd SMD-SHIELDED POWER INDUCTOR WE-PD
 Kw SMD-SHIELDED POWER INDUCTOR WE-PD
 Sc 00000000
@@ -45407,9 +45407,9 @@ Ne 0 ""
 Po 846 0 
 $EndPAD
 $EndMODULE WE-PD_6033_6050_PLASTIC_BASE
-$MODULE SignalCommunications (rev18a)-WE-PD_7332_7345
+$MODULE SignalCommunications-WE-PD_7332_7345
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_7332_7345
+Li SignalCommunications-WE-PD_7332_7345
 Cd SMD-SHIELDED POWER INDUCTOR WE-PD
 Kw SMD-SHIELDED POWER INDUCTOR WE-PD
 Sc 00000000
@@ -45482,9 +45482,9 @@ Ne 0 ""
 Po 1259 0 
 $EndPAD
 $EndMODULE WE-PD_7332_7345
-$MODULE SignalCommunications (rev18a)-WE-PD_7332_7345_PLASTIC_BASE
+$MODULE SignalCommunications-WE-PD_7332_7345_PLASTIC_BASE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_7332_7345_PLASTIC_BASE
+Li SignalCommunications-WE-PD_7332_7345_PLASTIC_BASE
 Cd SMD-SHIELDED POWER INDUCTOR WE-PD
 Kw SMD-SHIELDED POWER INDUCTOR WE-PD
 Sc 00000000
@@ -45538,9 +45538,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-PD_7332_7345_PLASTIC_BASE
-$MODULE SignalCommunications (rev18a)-WE-PD_7332_CLIP
+$MODULE SignalCommunications-WE-PD_7332_CLIP
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_7332_CLIP
+Li SignalCommunications-WE-PD_7332_CLIP
 Cd 
 Kw 
 Sc 00000000
@@ -45605,9 +45605,9 @@ Ne 0 ""
 Po 0 1259 
 $EndPAD
 $EndMODULE WE-PD_7332_CLIP
-$MODULE SignalCommunications (rev18a)-WE-PD_HV_1060
+$MODULE SignalCommunications-WE-PD_HV_1060
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PD_HV_1060
+Li SignalCommunications-WE-PD_HV_1060
 Cd HIGH VOLTAGE SMD POWER INDUCTOR WE-PD HV
 Kw HIGH VOLTAGE SMD POWER INDUCTOR WE-PD HV
 Sc 00000000
@@ -45658,9 +45658,9 @@ Ne 0 ""
 Po -1614 0 
 $EndPAD
 $EndMODULE WE-PD_HV_1060
-$MODULE SignalCommunications (rev18a)-WE-PFC_EE20_10_6
+$MODULE SignalCommunications-WE-PFC_EE20_10_6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_EE20_10_6
+Li SignalCommunications-WE-PFC_EE20_10_6
 Cd TRANSFORMER, EE20/10/6 THT HORIZONTAL 10 PIN
 Kw TRANSFORMER, EE20/10/6 THT HORIZONTAL 10 PIN
 Sc 00000000
@@ -45754,9 +45754,9 @@ Ne 0 ""
 Po -3000 3000 
 $EndPAD
 $EndMODULE WE-PFC_EE20_10_6
-$MODULE SignalCommunications (rev18a)-WE-PFC_EER28
+$MODULE SignalCommunications-WE-PFC_EER28
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_EER28
+Li SignalCommunications-WE-PFC_EER28
 Cd TRANSFORMER, EER28 THT HORIZONTAL 9 PINS
 Kw TRANSFORMER, EER28 THT HORIZONTAL 9 PINS
 Sc 00000000
@@ -45843,9 +45843,9 @@ Ne 0 ""
 Po 4330 -4724 
 $EndPAD
 $EndMODULE WE-PFC_EER28
-$MODULE SignalCommunications (rev18a)-WE-PFC_EFD25
+$MODULE SignalCommunications-WE-PFC_EFD25
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_EFD25
+Li SignalCommunications-WE-PFC_EFD25
 Cd TRANSFORMER, EFD25 THT HORIZONTAL 10PINS
 Kw TRANSFORMER, EFD25 THT HORIZONTAL 10PINS
 Sc 00000000
@@ -45939,9 +45939,9 @@ Ne 0 ""
 Po 4429 -3937 
 $EndPAD
 $EndMODULE WE-PFC_EFD25
-$MODULE SignalCommunications (rev18a)-WE-PFC_EFD30
+$MODULE SignalCommunications-WE-PFC_EFD30
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_EFD30
+Li SignalCommunications-WE-PFC_EFD30
 Cd WE EFD30, 12 PINS
 Kw WE EFD30, 12 PINS
 Sc 00000000
@@ -46049,9 +46049,9 @@ Ne 0 ""
 Po 5413 -4921 
 $EndPAD
 $EndMODULE WE-PFC_EFD30
-$MODULE SignalCommunications (rev18a)-WE-PFC_PQ38_11
+$MODULE SignalCommunications-WE-PFC_PQ38_11
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_PQ38_11
+Li SignalCommunications-WE-PFC_PQ38_11
 Cd WE PQ38/11, 6 PINS
 Kw WE PQ38/11, 6 PINS
 Sc 00000000
@@ -46124,9 +46124,9 @@ Ne 0 ""
 Po 9251 -2362 
 $EndPAD
 $EndMODULE WE-PFC_PQ38_11
-$MODULE SignalCommunications (rev18a)-WE-PFC_RM10
+$MODULE SignalCommunications-WE-PFC_RM10
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_RM10
+Li SignalCommunications-WE-PFC_RM10
 Cd WE RM10, 12 PINS
 Kw WE RM10, 12 PINS
 Sc 00000000
@@ -46263,9 +46263,9 @@ Ne 0 ""
 Po 5655 0 
 $EndPAD
 $EndMODULE WE-PFC_RM10
-$MODULE SignalCommunications (rev18a)-WE-PFC_RM12
+$MODULE SignalCommunications-WE-PFC_RM12
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_RM12
+Li SignalCommunications-WE-PFC_RM12
 Cd WE RM12, 12 PINS
 Kw WE RM12, 12 PINS
 Sc 00000000
@@ -46403,9 +46403,9 @@ Ne 0 ""
 Po 7789 0 
 $EndPAD
 $EndMODULE WE-PFC_RM12
-$MODULE SignalCommunications (rev18a)-WE-PFC_RM14
+$MODULE SignalCommunications-WE-PFC_RM14
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PFC_RM14
+Li SignalCommunications-WE-PFC_RM14
 Cd WE RM14, 12 PINS
 Kw WE RM14, 12 PINS
 Sc 00000000
@@ -46557,9 +46557,9 @@ Ne 0 ""
 Po 9192 -1413 
 $EndPAD
 $EndMODULE WE-PFC_RM14
-$MODULE SignalCommunications (rev18a)-WE-PF_7427929XXX
+$MODULE SignalCommunications-WE-PF_7427929XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PF_7427929XXX
+Li SignalCommunications-WE-PF_7427929XXX
 Cd SMD EMI SUPPRESSION POWER FERRITE
 Kw SMD EMI SUPPRESSION POWER FERRITE
 Sc 00000000
@@ -46613,9 +46613,9 @@ Ne 0 ""
 Po 1948 0 
 $EndPAD
 $EndMODULE WE-PF_7427929XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_0603_74479262XXX
+$MODULE SignalCommunications-WE-PMCI_0603_74479262XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_0603_74479262XXX
+Li SignalCommunications-WE-PMCI_0603_74479262XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46650,9 +46650,9 @@ Ne 0 ""
 Po 255 0 
 $EndPAD
 $EndMODULE WE-PMCI_0603_74479262XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_0805_74479275XXX
+$MODULE SignalCommunications-WE-PMCI_0805_74479275XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_0805_74479275XXX
+Li SignalCommunications-WE-PMCI_0805_74479275XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46687,9 +46687,9 @@ Ne 0 ""
 Po 295 0 
 $EndPAD
 $EndMODULE WE-PMCI_0805_74479275XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_0806_74479276XXX
+$MODULE SignalCommunications-WE-PMCI_0806_74479276XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_0806_74479276XXX
+Li SignalCommunications-WE-PMCI_0806_74479276XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46724,9 +46724,9 @@ Ne 0 ""
 Po 314 0 
 $EndPAD
 $EndMODULE WE-PMCI_0806_74479276XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_0806_74479276XXXC
+$MODULE SignalCommunications-WE-PMCI_0806_74479276XXXC
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_0806_74479276XXXC
+Li SignalCommunications-WE-PMCI_0806_74479276XXXC
 Cd 
 Kw 
 Sc 00000000
@@ -46761,9 +46761,9 @@ Ne 0 ""
 Po 314 0 
 $EndPAD
 $EndMODULE WE-PMCI_0806_74479276XXXC
-$MODULE SignalCommunications (rev18a)-WE-PMCI_1008_74479287XXX
+$MODULE SignalCommunications-WE-PMCI_1008_74479287XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_1008_74479287XXX
+Li SignalCommunications-WE-PMCI_1008_74479287XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46798,9 +46798,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-PMCI_1008_74479287XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_1008_74479288XXX
+$MODULE SignalCommunications-WE-PMCI_1008_74479288XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_1008_74479288XXX
+Li SignalCommunications-WE-PMCI_1008_74479288XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46835,9 +46835,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-PMCI_1008_74479288XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_1210_74479298XXX
+$MODULE SignalCommunications-WE-PMCI_1210_74479298XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_1210_74479298XXX
+Li SignalCommunications-WE-PMCI_1210_74479298XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46872,9 +46872,9 @@ Ne 0 ""
 Po 570 0 
 $EndPAD
 $EndMODULE WE-PMCI_1210_74479298XXX
-$MODULE SignalCommunications (rev18a)-WE-PMCI_1210_74479299XXX
+$MODULE SignalCommunications-WE-PMCI_1210_74479299XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMCI_1210_74479299XXX
+Li SignalCommunications-WE-PMCI_1210_74479299XXX
 Cd 
 Kw 
 Sc 00000000
@@ -46909,9 +46909,9 @@ Ne 0 ""
 Po 570 0 
 $EndPAD
 $EndMODULE WE-PMCI_1210_74479299XXX
-$MODULE SignalCommunications (rev18a)-WE-PMI_0603
+$MODULE SignalCommunications-WE-PMI_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMI_0603
+Li SignalCommunications-WE-PMI_0603
 Cd POWER MULTILAYER INDUCTOR WE-PMI
 Kw POWER MULTILAYER INDUCTOR WE-PMI
 Sc 00000000
@@ -46946,9 +46946,9 @@ Ne 0 ""
 Po 314 0 
 $EndPAD
 $EndMODULE WE-PMI_0603
-$MODULE SignalCommunications (rev18a)-WE-PMI_0805
+$MODULE SignalCommunications-WE-PMI_0805
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMI_0805
+Li SignalCommunications-WE-PMI_0805
 Cd POWER MULTILAYER INDUCTOR WE-PMI
 Kw POWER MULTILAYER INDUCTOR WE-PMI
 Sc 00000000
@@ -46983,9 +46983,9 @@ Ne 0 ""
 Po 354 0 
 $EndPAD
 $EndMODULE WE-PMI_0805
-$MODULE SignalCommunications (rev18a)-WE-PMI_0806
+$MODULE SignalCommunications-WE-PMI_0806
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMI_0806
+Li SignalCommunications-WE-PMI_0806
 Cd POWER MULTILAYER INDUCTOR WE-PMI
 Kw POWER MULTILAYER INDUCTOR WE-PMI
 Sc 00000000
@@ -47020,9 +47020,9 @@ Ne 0 ""
 Po 354 0 
 $EndPAD
 $EndMODULE WE-PMI_0806
-$MODULE SignalCommunications (rev18a)-WE-PMI_1008
+$MODULE SignalCommunications-WE-PMI_1008
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMI_1008
+Li SignalCommunications-WE-PMI_1008
 Cd POWER MULTILAYER INDUCTOR WE-PMI
 Kw POWER MULTILAYER INDUCTOR WE-PMI
 Sc 00000000
@@ -47057,9 +47057,9 @@ Ne 0 ""
 Po 433 0 
 $EndPAD
 $EndMODULE WE-PMI_1008
-$MODULE SignalCommunications (rev18a)-WE-PMI_1210
+$MODULE SignalCommunications-WE-PMI_1210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMI_1210
+Li SignalCommunications-WE-PMI_1210
 Cd 
 Kw 
 Sc 00000000
@@ -47094,9 +47094,9 @@ Ne 0 ""
 Po 570 0 
 $EndPAD
 $EndMODULE WE-PMI_1210
-$MODULE SignalCommunications (rev18a)-WE-PMMI_0805
+$MODULE SignalCommunications-WE-PMMI_0805
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMMI_0805
+Li SignalCommunications-WE-PMMI_0805
 Cd 
 Kw 
 Sc 00000000
@@ -47131,9 +47131,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-PMMI_0805
-$MODULE SignalCommunications (rev18a)-WE-PMMI_0806
+$MODULE SignalCommunications-WE-PMMI_0806
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PMMI_0806
+Li SignalCommunications-WE-PMMI_0806
 Cd 
 Kw 
 Sc 00000000
@@ -47168,9 +47168,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-PMMI_0806
-$MODULE SignalCommunications (rev18a)-WE-POE+_EFD20
+$MODULE SignalCommunications-WE-POE+_EFD20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE+_EFD20
+Li SignalCommunications-WE-POE+_EFD20
 Cd TRANSFORMER, EFD20 SMD 12 PIN
 Kw TRANSFORMER, EFD20 SMD 12 PIN
 Sc 00000000
@@ -47281,9 +47281,9 @@ Ne 0 ""
 Po 5220 -2952 
 $EndPAD
 $EndMODULE WE-POE+_EFD20
-$MODULE SignalCommunications (rev18a)-WE-POE+_EP13
+$MODULE SignalCommunications-WE-POE+_EP13
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE+_EP13
+Li SignalCommunications-WE-POE+_EP13
 Cd 
 Kw 
 Sc 00000000
@@ -47388,9 +47388,9 @@ Ne 0 ""
 Po 3257 1968 
 $EndPAD
 $EndMODULE WE-POE+_EP13
-$MODULE SignalCommunications (rev18a)-WE-POE_EFD15
+$MODULE SignalCommunications-WE-POE_EFD15
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE_EFD15
+Li SignalCommunications-WE-POE_EFD15
 Cd 
 Kw 
 Sc 00000000
@@ -47497,9 +47497,9 @@ Ne 0 ""
 Po 2500 3998 
 $EndPAD
 $EndMODULE WE-POE_EFD15
-$MODULE SignalCommunications (rev18a)-WE-POE_EP10
+$MODULE SignalCommunications-WE-POE_EP10
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE_EP10
+Li SignalCommunications-WE-POE_EP10
 Cd TRANSFORMER, EP10 SMD 8 PIN
 Kw TRANSFORMER, EP10 SMD 8 PIN
 Sc 00000000
@@ -47590,9 +47590,9 @@ Ne 0 ""
 Po 2669 1470 
 $EndPAD
 $EndMODULE WE-POE_EP10
-$MODULE SignalCommunications (rev18a)-WE-POE_EP13
+$MODULE SignalCommunications-WE-POE_EP13
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE_EP13
+Li SignalCommunications-WE-POE_EP13
 Cd 
 Kw 
 Sc 00000000
@@ -47697,9 +47697,9 @@ Ne 0 ""
 Po 3257 1968 
 $EndPAD
 $EndMODULE WE-POE_EP13
-$MODULE SignalCommunications (rev18a)-WE-POE_ER11_5
+$MODULE SignalCommunications-WE-POE_ER11_5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE_ER11_5
+Li SignalCommunications-WE-POE_ER11_5
 Cd TRANSFORMER, ER11/5 SMD 12PIN
 Kw TRANSFORMER, ER11/5 SMD 12PIN
 Sc 00000000
@@ -47806,9 +47806,9 @@ Ne 0 ""
 Po 2352 -1968 
 $EndPAD
 $EndMODULE WE-POE_ER11_5
-$MODULE SignalCommunications (rev18a)-WE-POE_ER14.5_6
+$MODULE SignalCommunications-WE-POE_ER14.5_6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-POE_ER14.5_6
+Li SignalCommunications-WE-POE_ER14.5_6
 Cd TRANSFORMER, ER14.5/6 SMD 12PIN
 Kw TRANSFORMER, ER14.5/6 SMD 12PIN
 Sc 00000000
@@ -47915,9 +47915,9 @@ Ne 0 ""
 Po 3051 -2460 
 $EndPAD
 $EndMODULE WE-POE_ER14.5_6
-$MODULE SignalCommunications (rev18a)-WE-PP_750031160
+$MODULE SignalCommunications-WE-PP_750031160
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-PP_750031160
+Li SignalCommunications-WE-PP_750031160
 Cd WE-PP 750034460
 Kw WE-PP 750034460
 Sc 00000000
@@ -47986,9 +47986,9 @@ Ne 0 ""
 Po 1525 -728 
 $EndPAD
 $EndMODULE WE-PP_750031160
-$MODULE SignalCommunications (rev18a)-WE-RFH
+$MODULE SignalCommunications-WE-RFH
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-RFH
+Li SignalCommunications-WE-RFH
 Cd FERRITE SMD INDUCTANCE WE-RFH
 Kw FERRITE SMD INDUCTANCE WE-RFH
 Sc 00000000
@@ -48023,9 +48023,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-RFH
-$MODULE SignalCommunications (rev18a)-WE-RFI_0805A
+$MODULE SignalCommunications-WE-RFI_0805A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-RFI_0805A
+Li SignalCommunications-WE-RFI_0805A
 Cd FERITE SMD INDUCTANCE WE-RFI
 Kw FERITE SMD INDUCTANCE WE-RFI
 Sc 00000000
@@ -48058,9 +48058,9 @@ Ne 0 ""
 Po 329 0 
 $EndPAD
 $EndMODULE WE-RFI_0805A
-$MODULE SignalCommunications (rev18a)-WE-RFI_1008A
+$MODULE SignalCommunications-WE-RFI_1008A
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-RFI_1008A
+Li SignalCommunications-WE-RFI_1008A
 Cd FERRITE SMD INDUCTANCE WE-RFI
 Kw FERRITE SMD INDUCTANCE WE-RFI
 Sc 00000000
@@ -48095,9 +48095,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-RFI_1008A
-$MODULE SignalCommunications (rev18a)-WE-SCC_1260_1210
+$MODULE SignalCommunications-WE-SCC_1260_1210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SCC_1260_1210
+Li SignalCommunications-WE-SCC_1260_1210
 Cd SMD COMMON MODE LINE FILTER WE-SCC
 Kw SMD COMMON MODE LINE FILTER WE-SCC
 Sc 00000000
@@ -48167,9 +48167,9 @@ Ne 0 ""
 Po 1958 -688 
 $EndPAD
 $EndMODULE WE-SCC_1260_1210
-$MODULE SignalCommunications (rev18a)-WE-SCC_7345
+$MODULE SignalCommunications-WE-SCC_7345
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SCC_7345
+Li SignalCommunications-WE-SCC_7345
 Cd SMD COMMON MODE LINE FILTER WE-SCC
 Kw SMD COMMON MODE LINE FILTER WE-SCC
 Sc 00000000
@@ -48239,9 +48239,9 @@ Ne 0 ""
 Po 1043 -354 
 $EndPAD
 $EndMODULE WE-SCC_7345
-$MODULE SignalCommunications (rev18a)-WE-SD_744710203
+$MODULE SignalCommunications-WE-SD_744710203
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710203
+Li SignalCommunications-WE-SD_744710203
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48283,9 +48283,9 @@ Ne 0 ""
 Po 1515 511 
 $EndPAD
 $EndMODULE WE-SD_744710203
-$MODULE SignalCommunications (rev18a)-WE-SD_744710205
+$MODULE SignalCommunications-WE-SD_744710205
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710205
+Li SignalCommunications-WE-SD_744710205
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48327,9 +48327,9 @@ Ne 0 ""
 Po 1889 964 
 $EndPAD
 $EndMODULE WE-SD_744710205
-$MODULE SignalCommunications (rev18a)-WE-SD_744710210
+$MODULE SignalCommunications-WE-SD_744710210
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710210
+Li SignalCommunications-WE-SD_744710210
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48371,9 +48371,9 @@ Ne 0 ""
 Po 2401 1240 
 $EndPAD
 $EndMODULE WE-SD_744710210
-$MODULE SignalCommunications (rev18a)-WE-SD_744710215
+$MODULE SignalCommunications-WE-SD_744710215
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710215
+Li SignalCommunications-WE-SD_744710215
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48415,9 +48415,9 @@ Ne 0 ""
 Po 3444 1574 
 $EndPAD
 $EndMODULE WE-SD_744710215
-$MODULE SignalCommunications (rev18a)-WE-SD_744710603
+$MODULE SignalCommunications-WE-SD_744710603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710603
+Li SignalCommunications-WE-SD_744710603
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48459,9 +48459,9 @@ Ne 0 ""
 Po 2263 708 
 $EndPAD
 $EndMODULE WE-SD_744710603
-$MODULE SignalCommunications (rev18a)-WE-SD_744710605
+$MODULE SignalCommunications-WE-SD_744710605
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710605
+Li SignalCommunications-WE-SD_744710605
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48505,9 +48505,9 @@ Ne 0 ""
 Po 2893 1161 
 $EndPAD
 $EndMODULE WE-SD_744710605
-$MODULE SignalCommunications (rev18a)-WE-SD_744710610
+$MODULE SignalCommunications-WE-SD_744710610
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710610
+Li SignalCommunications-WE-SD_744710610
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48549,9 +48549,9 @@ Ne 0 ""
 Po 3543 1437 
 $EndPAD
 $EndMODULE WE-SD_744710610
-$MODULE SignalCommunications (rev18a)-WE-SD_744710615
+$MODULE SignalCommunications-WE-SD_744710615
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744710615
+Li SignalCommunications-WE-SD_744710615
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48593,9 +48593,9 @@ Ne 0 ""
 Po 4901 2362 
 $EndPAD
 $EndMODULE WE-SD_744710615
-$MODULE SignalCommunications (rev18a)-WE-SD_744711003
+$MODULE SignalCommunications-WE-SD_744711003
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744711003
+Li SignalCommunications-WE-SD_744711003
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48639,9 +48639,9 @@ Ne 0 ""
 Po 2657 905 
 $EndPAD
 $EndMODULE WE-SD_744711003
-$MODULE SignalCommunications (rev18a)-WE-SD_744711005
+$MODULE SignalCommunications-WE-SD_744711005
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744711005
+Li SignalCommunications-WE-SD_744711005
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48683,9 +48683,9 @@ Ne 0 ""
 Po 3700 1161 
 $EndPAD
 $EndMODULE WE-SD_744711005
-$MODULE SignalCommunications (rev18a)-WE-SD_744711010
+$MODULE SignalCommunications-WE-SD_744711010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744711010
+Li SignalCommunications-WE-SD_744711010
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48727,9 +48727,9 @@ Ne 0 ""
 Po 4901 1437 
 $EndPAD
 $EndMODULE WE-SD_744711010
-$MODULE SignalCommunications (rev18a)-WE-SD_744711015
+$MODULE SignalCommunications-WE-SD_744711015
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SD_744711015
+Li SignalCommunications-WE-SD_744711015
 Cd LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Kw LEADED WIRE WOUND RODCORE INDUCTOR WE-SD
 Sc 00000000
@@ -48771,9 +48771,9 @@ Ne 0 ""
 Po 5748 2755 
 $EndPAD
 $EndMODULE WE-SD_744711015
-$MODULE SignalCommunications (rev18a)-WE-SECF-0557
+$MODULE SignalCommunications-WE-SECF-0557
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF-0557
+Li SignalCommunications-WE-SECF-0557
 Cd TYPE 0557
 Kw TYPE 0557
 Sc 00000000
@@ -48800,9 +48800,9 @@ Ne 0 ""
 Po -157 0 
 $EndPAD
 $EndMODULE WE-SECF-0557
-$MODULE SignalCommunications (rev18a)-WE-SECF-1562
+$MODULE SignalCommunications-WE-SECF-1562
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF-1562
+Li SignalCommunications-WE-SECF-1562
 Cd TYPE 1562
 Kw TYPE 1562
 Sc 00000000
@@ -48834,9 +48834,9 @@ Ne 0 ""
 Po -98 0 
 $EndPAD
 $EndMODULE WE-SECF-1562
-$MODULE SignalCommunications (rev18a)-WE-SECF_0135
+$MODULE SignalCommunications-WE-SECF_0135
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0135
+Li SignalCommunications-WE-SECF_0135
 Cd 
 Kw 
 Sc 00000000
@@ -48867,9 +48867,9 @@ Ne 0 ""
 Po -98 0 
 $EndPAD
 $EndMODULE WE-SECF_0135
-$MODULE SignalCommunications (rev18a)-WE-SECF_0148
+$MODULE SignalCommunications-WE-SECF_0148
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0148
+Li SignalCommunications-WE-SECF_0148
 Cd 331 011 452 048
 Kw 331 011 452 048
 Sc 00000000
@@ -48900,9 +48900,9 @@ Ne 0 ""
 Po -98 0 
 $EndPAD
 $EndMODULE WE-SECF_0148
-$MODULE SignalCommunications (rev18a)-WE-SECF_0315
+$MODULE SignalCommunications-WE-SECF_0315
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0315
+Li SignalCommunications-WE-SECF_0315
 Cd 331 031 271 520
 Kw 331 031 271 520
 Sc 00000000
@@ -48933,9 +48933,9 @@ Ne 0 ""
 Po 39 0 
 $EndPAD
 $EndMODULE WE-SECF_0315
-$MODULE SignalCommunications (rev18a)-WE-SECF_0320
+$MODULE SignalCommunications-WE-SECF_0320
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0320
+Li SignalCommunications-WE-SECF_0320
 Cd TYPE 0320
 Kw TYPE 0320
 Sc 00000000
@@ -48964,9 +48964,9 @@ Ne 0 ""
 Po -59 0 
 $EndPAD
 $EndMODULE WE-SECF_0320
-$MODULE SignalCommunications (rev18a)-WE-SECF_0453
+$MODULE SignalCommunications-WE-SECF_0453
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0453
+Li SignalCommunications-WE-SECF_0453
 Cd TYPE 0453
 Kw TYPE 0453
 Sc 00000000
@@ -48995,9 +48995,9 @@ Ne 0 ""
 Po -167 0 
 $EndPAD
 $EndMODULE WE-SECF_0453
-$MODULE SignalCommunications (rev18a)-WE-SECF_0610
+$MODULE SignalCommunications-WE-SECF_0610
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0610
+Li SignalCommunications-WE-SECF_0610
 Cd TYPE 0610
 Kw TYPE 0610
 Sc 00000000
@@ -49028,9 +49028,9 @@ Ne 0 ""
 Po 196 0 
 $EndPAD
 $EndMODULE WE-SECF_0610
-$MODULE SignalCommunications (rev18a)-WE-SECF_0825
+$MODULE SignalCommunications-WE-SECF_0825
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_0825
+Li SignalCommunications-WE-SECF_0825
 Cd TYPE 0825
 Kw TYPE 0825
 Sc 00000000
@@ -49061,9 +49061,9 @@ Ne 0 ""
 Po -49 0 
 $EndPAD
 $EndMODULE WE-SECF_0825
-$MODULE SignalCommunications (rev18a)-WE-SECF_1440
+$MODULE SignalCommunications-WE-SECF_1440
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_1440
+Li SignalCommunications-WE-SECF_1440
 Cd TYPE 1440
 Kw TYPE 1440
 Sc 00000000
@@ -49090,9 +49090,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-SECF_1440
-$MODULE SignalCommunications (rev18a)-WE-SECF_1613
+$MODULE SignalCommunications-WE-SECF_1613
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_1613
+Li SignalCommunications-WE-SECF_1613
 Cd TYPE 1613
 Kw TYPE 1613
 Sc 00000000
@@ -49123,9 +49123,9 @@ Ne 0 ""
 Po 19 0 
 $EndPAD
 $EndMODULE WE-SECF_1613
-$MODULE SignalCommunications (rev18a)-WE-SECF_1670
+$MODULE SignalCommunications-WE-SECF_1670
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_1670
+Li SignalCommunications-WE-SECF_1670
 Cd TYPE 1670
 Kw TYPE 1670
 Sc 00000000
@@ -49152,9 +49152,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-SECF_1670
-$MODULE SignalCommunications (rev18a)-WE-SECF_1730
+$MODULE SignalCommunications-WE-SECF_1730
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_1730
+Li SignalCommunications-WE-SECF_1730
 Cd TYPE 1730
 Kw TYPE 1730
 Sc 00000000
@@ -49181,9 +49181,9 @@ Ne 0 ""
 Po -118 0 
 $EndPAD
 $EndMODULE WE-SECF_1730
-$MODULE SignalCommunications (rev18a)-WE-SECF_1735
+$MODULE SignalCommunications-WE-SECF_1735
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_1735
+Li SignalCommunications-WE-SECF_1735
 Cd TYPE 1735
 Kw TYPE 1735
 Sc 00000000
@@ -49210,9 +49210,9 @@ Ne 0 ""
 Po -147 0 
 $EndPAD
 $EndMODULE WE-SECF_1735
-$MODULE SignalCommunications (rev18a)-WE-SECF_2140
+$MODULE SignalCommunications-WE-SECF_2140
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_2140
+Li SignalCommunications-WE-SECF_2140
 Cd TYPE 2140
 Kw TYPE 2140
 Sc 00000000
@@ -49239,9 +49239,9 @@ Ne 0 ""
 Po 137 0 
 $EndPAD
 $EndMODULE WE-SECF_2140
-$MODULE SignalCommunications (rev18a)-WE-SECF_2240
+$MODULE SignalCommunications-WE-SECF_2240
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_2240
+Li SignalCommunications-WE-SECF_2240
 Cd TYPE 2240
 Kw TYPE 2240
 Sc 00000000
@@ -49270,9 +49270,9 @@ Ne 0 ""
 Po -492 0 
 $EndPAD
 $EndMODULE WE-SECF_2240
-$MODULE SignalCommunications (rev18a)-WE-SECF_2353
+$MODULE SignalCommunications-WE-SECF_2353
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_2353
+Li SignalCommunications-WE-SECF_2353
 Cd 
 Kw 
 Sc 00000000
@@ -49309,9 +49309,9 @@ Ne 0 ""
 Po 374 0 
 $EndPAD
 $EndMODULE WE-SECF_2353
-$MODULE SignalCommunications (rev18a)-WE-SECF_2640
+$MODULE SignalCommunications-WE-SECF_2640
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SECF_2640
+Li SignalCommunications-WE-SECF_2640
 Cd 
 Kw 
 Sc 00000000
@@ -49344,9 +49344,9 @@ Ne 0 ""
 Po 452 0 
 $EndPAD
 $EndMODULE WE-SECF_2640
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103166S
+$MODULE SignalCommunications-WE-SHC_36103166S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103166S
+Li SignalCommunications-WE-SHC_36103166S
 Cd 
 Kw 
 Sc 00000000
@@ -49451,9 +49451,9 @@ Ne 0 ""
 Po -2549 -3208 
 $EndPAD
 $EndMODULE WE-SHC_36103166S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103205
+$MODULE SignalCommunications-WE-SHC_36103205
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103205
+Li SignalCommunications-WE-SHC_36103205
 Cd SHIELDING CABINET SMD- FRAME WE-SHC
 Kw SHIELDING CABINET SMD- FRAME WE-SHC
 Sc 00000000
@@ -49590,9 +49590,9 @@ Ne 0 ""
 Po 1476 -4035 
 $EndPAD
 $EndMODULE WE-SHC_36103205
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103205S
+$MODULE SignalCommunications-WE-SHC_36103205S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103205S
+Li SignalCommunications-WE-SHC_36103205S
 Cd 
 Kw 
 Sc 00000000
@@ -49729,9 +49729,9 @@ Ne 0 ""
 Po 4035 3582 
 $EndPAD
 $EndMODULE WE-SHC_36103205S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103255
+$MODULE SignalCommunications-WE-SHC_36103255
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103255
+Li SignalCommunications-WE-SHC_36103255
 Cd SHIELDING CABINET SMD- FRAME WE-SHC
 Kw SHIELDING CABINET SMD- FRAME WE-SHC
 Sc 00000000
@@ -49901,9 +49901,9 @@ Ne 0 ""
 Po 2460 -5019 
 $EndPAD
 $EndMODULE WE-SHC_36103255
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103255S
+$MODULE SignalCommunications-WE-SHC_36103255S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103255S
+Li SignalCommunications-WE-SHC_36103255S
 Cd 
 Kw 
 Sc 00000000
@@ -50072,9 +50072,9 @@ Ne 0 ""
 Po -4566 -5019 
 $EndPAD
 $EndMODULE WE-SHC_36103255S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103305
+$MODULE SignalCommunications-WE-SHC_36103305
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103305
+Li SignalCommunications-WE-SHC_36103305
 Cd SHIELDING CABINET SMD- FRAME WE-SHC
 Kw SHIELDING CABINET SMD- FRAME WE-SHC
 Sc 00000000
@@ -50275,9 +50275,9 @@ Ne 0 ""
 Po 3444 -6003 
 $EndPAD
 $EndMODULE WE-SHC_36103305
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103305S
+$MODULE SignalCommunications-WE-SHC_36103305S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103305S
+Li SignalCommunications-WE-SHC_36103305S
 Cd 
 Kw 
 Sc 00000000
@@ -50478,9 +50478,9 @@ Ne 0 ""
 Po -3444 -6003 
 $EndPAD
 $EndMODULE WE-SHC_36103305S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103505
+$MODULE SignalCommunications-WE-SHC_36103505
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103505
+Li SignalCommunications-WE-SHC_36103505
 Cd SHIELDING CABINET SMD- FRAME WE-SHC
 Kw SHIELDING CABINET SMD- FRAME WE-SHC
 Sc 00000000
@@ -50809,9 +50809,9 @@ Ne 0 ""
 Po 7381 -9940 
 $EndPAD
 $EndMODULE WE-SHC_36103505
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103505S
+$MODULE SignalCommunications-WE-SHC_36103505S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103505S
+Li SignalCommunications-WE-SHC_36103505S
 Cd 
 Kw 
 Sc 00000000
@@ -51139,9 +51139,9 @@ Ne 0 ""
 Po -7381 -9940 
 $EndPAD
 $EndMODULE WE-SHC_36103505S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103605
+$MODULE SignalCommunications-WE-SHC_36103605
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103605
+Li SignalCommunications-WE-SHC_36103605
 Cd SHIELDING CABINET SMD- FRAME WE-SHC
 Kw SHIELDING CABINET SMD- FRAME WE-SHC
 Sc 00000000
@@ -51532,9 +51532,9 @@ Ne 0 ""
 Po 9350 -11909 
 $EndPAD
 $EndMODULE WE-SHC_36103605
-$MODULE SignalCommunications (rev18a)-WE-SHC_36103605S
+$MODULE SignalCommunications-WE-SHC_36103605S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36103605S
+Li SignalCommunications-WE-SHC_36103605S
 Cd 
 Kw 
 Sc 00000000
@@ -51927,9 +51927,9 @@ Ne 0 ""
 Po 11909 11417 
 $EndPAD
 $EndMODULE WE-SHC_36103605S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36105266S
+$MODULE SignalCommunications-WE-SHC_36105266S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36105266S
+Li SignalCommunications-WE-SHC_36105266S
 Cd 
 Kw 
 Sc 00000000
@@ -52098,9 +52098,9 @@ Ne 0 ""
 Po -5185 -4679 
 $EndPAD
 $EndMODULE WE-SHC_36105266S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36105366S
+$MODULE SignalCommunications-WE-SHC_36105366S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36105366S
+Li SignalCommunications-WE-SHC_36105366S
 Cd 
 Kw 
 Sc 00000000
@@ -52301,9 +52301,9 @@ Ne 0 ""
 Po -6590 -6281 
 $EndPAD
 $EndMODULE WE-SHC_36105366S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36106326S
+$MODULE SignalCommunications-WE-SHC_36106326S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36106326S
+Li SignalCommunications-WE-SHC_36106326S
 Cd 
 Kw 
 Sc 00000000
@@ -52504,9 +52504,9 @@ Ne 0 ""
 Po 1181 6259 
 $EndPAD
 $EndMODULE WE-SHC_36106326S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36107406S
+$MODULE SignalCommunications-WE-SHC_36107406S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36107406S
+Li SignalCommunications-WE-SHC_36107406S
 Cd 
 Kw 
 Sc 00000000
@@ -52771,9 +52771,9 @@ Ne 0 ""
 Po -8694 -8206 
 $EndPAD
 $EndMODULE WE-SHC_36107406S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503205
+$MODULE SignalCommunications-WE-SHC_36503205
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503205
+Li SignalCommunications-WE-SHC_36503205
 Cd SHIELDING CABINET THT- FRAME WE-SHC
 Kw SHIELDING CABINET THT- FRAME WE-SHC
 Sc 00000000
@@ -52918,9 +52918,9 @@ Ne 0 ""
 Po 3000 -4035 
 $EndPAD
 $EndMODULE WE-SHC_36503205
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503205S
+$MODULE SignalCommunications-WE-SHC_36503205S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503205S
+Li SignalCommunications-WE-SHC_36503205S
 Cd 
 Kw 
 Sc 00000000
@@ -53065,9 +53065,9 @@ Ne 0 ""
 Po -4035 -3000 
 $EndPAD
 $EndMODULE WE-SHC_36503205S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503255
+$MODULE SignalCommunications-WE-SHC_36503255
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503255
+Li SignalCommunications-WE-SHC_36503255
 Cd SHIELDING CABINET THT- FRAME WE-SHC
 Kw SHIELDING CABINET THT- FRAME WE-SHC
 Sc 00000000
@@ -53244,9 +53244,9 @@ Ne 0 ""
 Po 4000 -5019 
 $EndPAD
 $EndMODULE WE-SHC_36503255
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503255S
+$MODULE SignalCommunications-WE-SHC_36503255S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503255S
+Li SignalCommunications-WE-SHC_36503255S
 Cd 
 Kw 
 Sc 00000000
@@ -53423,9 +53423,9 @@ Ne 0 ""
 Po -5019 -4000 
 $EndPAD
 $EndMODULE WE-SHC_36503255S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503305
+$MODULE SignalCommunications-WE-SHC_36503305
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503305
+Li SignalCommunications-WE-SHC_36503305
 Cd SHIELDING CABINET THT- FRAME WE-SHC
 Kw SHIELDING CABINET THT- FRAME WE-SHC
 Sc 00000000
@@ -53634,9 +53634,9 @@ Ne 0 ""
 Po 5000 -6000 
 $EndPAD
 $EndMODULE WE-SHC_36503305
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503505
+$MODULE SignalCommunications-WE-SHC_36503505
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503505
+Li SignalCommunications-WE-SHC_36503505
 Cd SHIELDING CABINET THT- FRAME WE-SHC
 Kw SHIELDING CABINET THT- FRAME WE-SHC
 Sc 00000000
@@ -53973,9 +53973,9 @@ Ne 0 ""
 Po 1000 -9940 
 $EndPAD
 $EndMODULE WE-SHC_36503505
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503505S
+$MODULE SignalCommunications-WE-SHC_36503505S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503505S
+Li SignalCommunications-WE-SHC_36503505S
 Cd 
 Kw 
 Sc 00000000
@@ -54312,9 +54312,9 @@ Ne 0 ""
 Po -9940 -9000 
 $EndPAD
 $EndMODULE WE-SHC_36503505S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503605
+$MODULE SignalCommunications-WE-SHC_36503605
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503605
+Li SignalCommunications-WE-SHC_36503605
 Cd SHIELDING CABINET THT- FRAME WE-SHC
 Kw SHIELDING CABINET THT- FRAME WE-SHC
 Sc 00000000
@@ -54715,9 +54715,9 @@ Ne 0 ""
 Po 11007 -12007 
 $EndPAD
 $EndMODULE WE-SHC_36503605
-$MODULE SignalCommunications (rev18a)-WE-SHC_36503605S
+$MODULE SignalCommunications-WE-SHC_36503605S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36503605S
+Li SignalCommunications-WE-SHC_36503605S
 Cd 
 Kw 
 Sc 00000000
@@ -55118,9 +55118,9 @@ Ne 0 ""
 Po -11909 -11000 
 $EndPAD
 $EndMODULE WE-SHC_36503605S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36903205S
+$MODULE SignalCommunications-WE-SHC_36903205S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36903205S
+Li SignalCommunications-WE-SHC_36903205S
 Cd 
 Kw 
 Sc 00000000
@@ -55257,9 +55257,9 @@ Ne 0 ""
 Po -3976 -3523 
 $EndPAD
 $EndMODULE WE-SHC_36903205S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36903255S
+$MODULE SignalCommunications-WE-SHC_36903255S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36903255S
+Li SignalCommunications-WE-SHC_36903255S
 Cd 
 Kw 
 Sc 00000000
@@ -55428,9 +55428,9 @@ Ne 0 ""
 Po -4960 -4507 
 $EndPAD
 $EndMODULE WE-SHC_36903255S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36903305S
+$MODULE SignalCommunications-WE-SHC_36903305S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36903305S
+Li SignalCommunications-WE-SHC_36903305S
 Cd 
 Kw 
 Sc 00000000
@@ -55631,9 +55631,9 @@ Ne 0 ""
 Po 1476 -5944 
 $EndPAD
 $EndMODULE WE-SHC_36903305S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36905266S
+$MODULE SignalCommunications-WE-SHC_36905266S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36905266S
+Li SignalCommunications-WE-SHC_36905266S
 Cd 
 Kw 
 Sc 00000000
@@ -55802,9 +55802,9 @@ Ne 0 ""
 Po 4667 -5120 
 $EndPAD
 $EndMODULE WE-SHC_36905266S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36906326S
+$MODULE SignalCommunications-WE-SHC_36906326S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36906326S
+Li SignalCommunications-WE-SHC_36906326S
 Cd 
 Kw 
 Sc 00000000
@@ -56005,9 +56005,9 @@ Ne 0 ""
 Po 1181 -6259 
 $EndPAD
 $EndMODULE WE-SHC_36906326S
-$MODULE SignalCommunications (rev18a)-WE-SHC_36907406S
+$MODULE SignalCommunications-WE-SHC_36907406S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_36907406S
+Li SignalCommunications-WE-SHC_36907406S
 Cd 
 Kw 
 Sc 00000000
@@ -56272,9 +56272,9 @@ Ne 0 ""
 Po 1181 -8692 
 $EndPAD
 $EndMODULE WE-SHC_36907406S
-$MODULE SignalCommunications (rev18a)-WE-SHC_369010302X
+$MODULE SignalCommunications-WE-SHC_369010302X
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_369010302X
+Li SignalCommunications-WE-SHC_369010302X
 Cd 
 Kw 
 Sc 00000000
@@ -56329,9 +56329,9 @@ Ne 0 ""
 Po 509 590 
 $EndPAD
 $EndMODULE WE-SHC_369010302X
-$MODULE SignalCommunications (rev18a)-WE-SHC_3610213126S
+$MODULE SignalCommunications-WE-SHC_3610213126S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_3610213126S
+Li SignalCommunications-WE-SHC_3610213126S
 Cd 
 Kw 
 Sc 00000000
@@ -56436,9 +56436,9 @@ Ne 0 ""
 Po -2007 -2649 
 $EndPAD
 $EndMODULE WE-SHC_3610213126S
-$MODULE SignalCommunications (rev18a)-WE-SHC_3610536336S
+$MODULE SignalCommunications-WE-SHC_3610536336S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_3610536336S
+Li SignalCommunications-WE-SHC_3610536336S
 Cd 
 Kw 
 Sc 00000000
@@ -56639,9 +56639,9 @@ Ne 0 ""
 Po -3543 -7210 
 $EndPAD
 $EndMODULE WE-SHC_3610536336S
-$MODULE SignalCommunications (rev18a)-WE-SHC_3610637256S
+$MODULE SignalCommunications-WE-SHC_3610637256S
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_3610637256S
+Li SignalCommunications-WE-SHC_3610637256S
 Cd 
 Kw 
 Sc 00000000
@@ -56842,9 +56842,9 @@ Ne 0 ""
 Po -6988 4960 
 $EndPAD
 $EndMODULE WE-SHC_3610637256S
-$MODULE SignalCommunications (rev18a)-WE-SHC_S11100108
+$MODULE SignalCommunications-WE-SHC_S11100108
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SHC_S11100108
+Li SignalCommunications-WE-SHC_S11100108
 Cd 
 Kw 
 Sc 00000000
@@ -57125,9 +57125,9 @@ Ne 0 ""
 Po -9153 -5413 
 $EndPAD
 $EndMODULE WE-SHC_S11100108
-$MODULE SignalCommunications (rev18a)-WE-SI_744101
+$MODULE SignalCommunications-WE-SI_744101
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744101
+Li SignalCommunications-WE-SI_744101
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57162,9 +57162,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-SI_744101
-$MODULE SignalCommunications (rev18a)-WE-SI_744102
+$MODULE SignalCommunications-WE-SI_744102
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744102
+Li SignalCommunications-WE-SI_744102
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57199,9 +57199,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-SI_744102
-$MODULE SignalCommunications (rev18a)-WE-SI_744103
+$MODULE SignalCommunications-WE-SI_744103
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744103
+Li SignalCommunications-WE-SI_744103
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57236,9 +57236,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-SI_744103
-$MODULE SignalCommunications (rev18a)-WE-SI_744104
+$MODULE SignalCommunications-WE-SI_744104
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744104
+Li SignalCommunications-WE-SI_744104
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57273,9 +57273,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-SI_744104
-$MODULE SignalCommunications (rev18a)-WE-SI_744105
+$MODULE SignalCommunications-WE-SI_744105
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744105
+Li SignalCommunications-WE-SI_744105
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57311,9 +57311,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-SI_744105
-$MODULE SignalCommunications (rev18a)-WE-SI_744106
+$MODULE SignalCommunications-WE-SI_744106
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744106
+Li SignalCommunications-WE-SI_744106
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57348,9 +57348,9 @@ Ne 0 ""
 Po 1377 0 
 $EndPAD
 $EndMODULE WE-SI_744106
-$MODULE SignalCommunications (rev18a)-WE-SI_744107
+$MODULE SignalCommunications-WE-SI_744107
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744107
+Li SignalCommunications-WE-SI_744107
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57381,9 +57381,9 @@ Ne 0 ""
 Po 2066 0 
 $EndPAD
 $EndMODULE WE-SI_744107
-$MODULE SignalCommunications (rev18a)-WE-SI_744111
+$MODULE SignalCommunications-WE-SI_744111
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744111
+Li SignalCommunications-WE-SI_744111
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57419,9 +57419,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-SI_744111
-$MODULE SignalCommunications (rev18a)-WE-SI_744112
+$MODULE SignalCommunications-WE-SI_744112
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744112
+Li SignalCommunications-WE-SI_744112
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57452,9 +57452,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-SI_744112
-$MODULE SignalCommunications (rev18a)-WE-SI_744113
+$MODULE SignalCommunications-WE-SI_744113
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744113
+Li SignalCommunications-WE-SI_744113
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57485,9 +57485,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-SI_744113
-$MODULE SignalCommunications (rev18a)-WE-SI_744114
+$MODULE SignalCommunications-WE-SI_744114
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744114
+Li SignalCommunications-WE-SI_744114
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57522,9 +57522,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-SI_744114
-$MODULE SignalCommunications (rev18a)-WE-SI_744115
+$MODULE SignalCommunications-WE-SI_744115
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744115
+Li SignalCommunications-WE-SI_744115
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57555,9 +57555,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-SI_744115
-$MODULE SignalCommunications (rev18a)-WE-SI_744116
+$MODULE SignalCommunications-WE-SI_744116
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744116
+Li SignalCommunications-WE-SI_744116
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57592,9 +57592,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-SI_744116
-$MODULE SignalCommunications (rev18a)-WE-SI_744117
+$MODULE SignalCommunications-WE-SI_744117
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744117
+Li SignalCommunications-WE-SI_744117
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57629,9 +57629,9 @@ Ne 0 ""
 Po 2165 0 
 $EndPAD
 $EndMODULE WE-SI_744117
-$MODULE SignalCommunications (rev18a)-WE-SI_744118
+$MODULE SignalCommunications-WE-SI_744118
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744118
+Li SignalCommunications-WE-SI_744118
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57666,9 +57666,9 @@ Ne 0 ""
 Po 2460 0 
 $EndPAD
 $EndMODULE WE-SI_744118
-$MODULE SignalCommunications (rev18a)-WE-SI_744119
+$MODULE SignalCommunications-WE-SI_744119
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744119
+Li SignalCommunications-WE-SI_744119
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57703,9 +57703,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744119
-$MODULE SignalCommunications (rev18a)-WE-SI_744131
+$MODULE SignalCommunications-WE-SI_744131
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744131
+Li SignalCommunications-WE-SI_744131
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57736,9 +57736,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-SI_744131
-$MODULE SignalCommunications (rev18a)-WE-SI_744132
+$MODULE SignalCommunications-WE-SI_744132
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744132
+Li SignalCommunications-WE-SI_744132
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57773,9 +57773,9 @@ Ne 0 ""
 Po 1673 0 
 $EndPAD
 $EndMODULE WE-SI_744132
-$MODULE SignalCommunications (rev18a)-WE-SI_744133
+$MODULE SignalCommunications-WE-SI_744133
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744133
+Li SignalCommunications-WE-SI_744133
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57810,9 +57810,9 @@ Ne 0 ""
 Po 2263 0 
 $EndPAD
 $EndMODULE WE-SI_744133
-$MODULE SignalCommunications (rev18a)-WE-SI_744134
+$MODULE SignalCommunications-WE-SI_744134
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744134
+Li SignalCommunications-WE-SI_744134
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57843,9 +57843,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-SI_744134
-$MODULE SignalCommunications (rev18a)-WE-SI_744135
+$MODULE SignalCommunications-WE-SI_744135
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744135
+Li SignalCommunications-WE-SI_744135
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57876,9 +57876,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-SI_744135
-$MODULE SignalCommunications (rev18a)-WE-SI_744136
+$MODULE SignalCommunications-WE-SI_744136
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744136
+Li SignalCommunications-WE-SI_744136
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57909,9 +57909,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744136
-$MODULE SignalCommunications (rev18a)-WE-SI_744137
+$MODULE SignalCommunications-WE-SI_744137
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744137
+Li SignalCommunications-WE-SI_744137
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57942,9 +57942,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744137
-$MODULE SignalCommunications (rev18a)-WE-SI_744138
+$MODULE SignalCommunications-WE-SI_744138
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744138
+Li SignalCommunications-WE-SI_744138
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -57975,9 +57975,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744138
-$MODULE SignalCommunications (rev18a)-WE-SI_744139
+$MODULE SignalCommunications-WE-SI_744139
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744139
+Li SignalCommunications-WE-SI_744139
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58008,9 +58008,9 @@ Ne 0 ""
 Po 3149 0 
 $EndPAD
 $EndMODULE WE-SI_744139
-$MODULE SignalCommunications (rev18a)-WE-SI_744150
+$MODULE SignalCommunications-WE-SI_744150
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744150
+Li SignalCommunications-WE-SI_744150
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58041,9 +58041,9 @@ Ne 0 ""
 Po 2263 0 
 $EndPAD
 $EndMODULE WE-SI_744150
-$MODULE SignalCommunications (rev18a)-WE-SI_744151
+$MODULE SignalCommunications-WE-SI_744151
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744151
+Li SignalCommunications-WE-SI_744151
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58078,9 +58078,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-SI_744151
-$MODULE SignalCommunications (rev18a)-WE-SI_744152
+$MODULE SignalCommunications-WE-SI_744152
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744152
+Li SignalCommunications-WE-SI_744152
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58115,9 +58115,9 @@ Ne 0 ""
 Po 1968 0 
 $EndPAD
 $EndMODULE WE-SI_744152
-$MODULE SignalCommunications (rev18a)-WE-SI_744153
+$MODULE SignalCommunications-WE-SI_744153
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744153
+Li SignalCommunications-WE-SI_744153
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58148,9 +58148,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744153
-$MODULE SignalCommunications (rev18a)-WE-SI_744154
+$MODULE SignalCommunications-WE-SI_744154
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744154
+Li SignalCommunications-WE-SI_744154
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58181,9 +58181,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744154
-$MODULE SignalCommunications (rev18a)-WE-SI_744155
+$MODULE SignalCommunications-WE-SI_744155
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744155
+Li SignalCommunications-WE-SI_744155
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58218,9 +58218,9 @@ Ne 0 ""
 Po 2559 0 
 $EndPAD
 $EndMODULE WE-SI_744155
-$MODULE SignalCommunications (rev18a)-WE-SI_744156
+$MODULE SignalCommunications-WE-SI_744156
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_744156
+Li SignalCommunications-WE-SI_744156
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58255,9 +58255,9 @@ Ne 0 ""
 Po 2657 0 
 $EndPAD
 $EndMODULE WE-SI_744156
-$MODULE SignalCommunications (rev18a)-WE-SI_7441110
+$MODULE SignalCommunications-WE-SI_7441110
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_7441110
+Li SignalCommunications-WE-SI_7441110
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58288,9 +58288,9 @@ Ne 0 ""
 Po 2460 0 
 $EndPAD
 $EndMODULE WE-SI_7441110
-$MODULE SignalCommunications (rev18a)-WE-SI_7441501
+$MODULE SignalCommunications-WE-SI_7441501
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SI_7441501
+Li SignalCommunications-WE-SI_7441501
 Cd WE-SI
 Kw WE-SI
 Sc 00000000
@@ -58325,9 +58325,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-SI_7441501
-$MODULE SignalCommunications (rev18a)-WE-SL1
+$MODULE SignalCommunications-WE-SL1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL1
+Li SignalCommunications-WE-SL1
 Cd SMD COMMON-MODE LINE FILTER WE-SL1
 Kw SMD COMMON-MODE LINE FILTER WE-SL1
 Sc 00000000
@@ -58393,9 +58393,9 @@ Ne 0 ""
 Po 1003 492 
 $EndPAD
 $EndMODULE WE-SL1
-$MODULE SignalCommunications (rev18a)-WE-SL2
+$MODULE SignalCommunications-WE-SL2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL2
+Li SignalCommunications-WE-SL2
 Cd SMD COMMON-MODE LINE FILTER WE-SL2
 Kw SMD COMMON-MODE LINE FILTER WE-SL2
 Sc 00000000
@@ -58465,9 +58465,9 @@ Ne 0 ""
 Po 1476 -500 
 $EndPAD
 $EndMODULE WE-SL2
-$MODULE SignalCommunications (rev18a)-WE-SL3_744252XXX
+$MODULE SignalCommunications-WE-SL3_744252XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL3_744252XXX
+Li SignalCommunications-WE-SL3_744252XXX
 Cd SMD COMMON-MODE LINE FILTER WE-SL3
 Kw SMD COMMON-MODE LINE FILTER WE-SL3
 Sc 00000000
@@ -58535,9 +58535,9 @@ Ne 0 ""
 Po 1350 1000 
 $EndPAD
 $EndMODULE WE-SL3_744252XXX
-$MODULE SignalCommunications (rev18a)-WE-SL3_744253XXX
+$MODULE SignalCommunications-WE-SL3_744253XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL3_744253XXX
+Li SignalCommunications-WE-SL3_744253XXX
 Cd SMD COMMON-MODE LINE FILTER WE-SL3
 Kw SMD COMMON-MODE LINE FILTER WE-SL3
 Sc 00000000
@@ -58624,9 +58624,9 @@ Ne 0 ""
 Po 1350 1000 
 $EndPAD
 $EndMODULE WE-SL3_744253XXX
-$MODULE SignalCommunications (rev18a)-WE-SL3_HV
+$MODULE SignalCommunications-WE-SL3_HV
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL3_HV
+Li SignalCommunications-WE-SL3_HV
 Cd SMD COMMON MODE LINE FILTER WE-SL3 HV
 Kw SMD COMMON MODE LINE FILTER WE-SL3 HV
 Sc 00000000
@@ -58708,9 +58708,9 @@ Ne 0 ""
 Po 1425 -1000 
 $EndPAD
 $EndMODULE WE-SL3_HV
-$MODULE SignalCommunications (rev18a)-WE-SL5
+$MODULE SignalCommunications-WE-SL5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL5
+Li SignalCommunications-WE-SL5
 Cd SMD COMMON-MODE LINE FILTER WE-SL5
 Kw SMD COMMON-MODE LINE FILTER WE-SL5
 Sc 00000000
@@ -58776,9 +58776,9 @@ Ne 0 ""
 Po 1500 1224 
 $EndPAD
 $EndMODULE WE-SL5
-$MODULE SignalCommunications (rev18a)-WE-SL5_HC
+$MODULE SignalCommunications-WE-SL5_HC
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL5_HC
+Li SignalCommunications-WE-SL5_HC
 Cd SMD COMMON-MODE WE-SL5 HC
 Kw SMD COMMON-MODE WE-SL5 HC
 Sc 00000000
@@ -58844,9 +58844,9 @@ Ne 0 ""
 Po 1496 -1220 
 $EndPAD
 $EndMODULE WE-SL5_HC
-$MODULE SignalCommunications (rev18a)-WE-SLM
+$MODULE SignalCommunications-WE-SLM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SLM
+Li SignalCommunications-WE-SLM
 Cd SMD COMMON-MODE LINE FILTER WE-SLM
 Kw SMD COMMON-MODE LINE FILTER WE-SLM
 Sc 00000000
@@ -58912,9 +58912,9 @@ Ne 0 ""
 Po 895 -250 
 $EndPAD
 $EndMODULE WE-SLM
-$MODULE SignalCommunications (rev18a)-WE-SL_2WINDING
+$MODULE SignalCommunications-WE-SL_2WINDING
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL_2WINDING
+Li SignalCommunications-WE-SL_2WINDING
 Cd SMD COMMON-MODE LINE FILTER WE-SL
 Kw SMD COMMON-MODE LINE FILTER WE-SL
 Sc 00000000
@@ -59018,9 +59018,9 @@ Ne 0 ""
 Po 2460 -1476 
 $EndPAD
 $EndMODULE WE-SL_2WINDING
-$MODULE SignalCommunications (rev18a)-WE-SL_4WINDING
+$MODULE SignalCommunications-WE-SL_4WINDING
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SL_4WINDING
+Li SignalCommunications-WE-SL_4WINDING
 Cd SMD COMMON-MODE LINE FILTER WE-SL
 Kw SMD COMMON-MODE LINE FILTER WE-SL
 Sc 00000000
@@ -59134,9 +59134,9 @@ Ne 0 ""
 Po 2460 -1476 
 $EndPAD
 $EndMODULE WE-SL_4WINDING
-$MODULE SignalCommunications (rev18a)-WE-SPC_48XX
+$MODULE SignalCommunications-WE-SPC_48XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SPC_48XX
+Li SignalCommunications-WE-SPC_48XX
 Cd SMD-SHIELDED POWER INDUCTOR  WE-SPC
 Kw SMD-SHIELDED POWER INDUCTOR  WE-SPC
 Sc 00000000
@@ -59176,9 +59176,9 @@ Ne 0 ""
 Po 688 0 
 $EndPAD
 $EndMODULE WE-SPC_48XX
-$MODULE SignalCommunications (rev18a)-WE-SUKW_7427511
+$MODULE SignalCommunications-WE-SUKW_7427511
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SUKW_7427511
+Li SignalCommunications-WE-SUKW_7427511
 Cd EMI SUPPRESSION 5-HOLE FERRITE BEAD WE-SUKW
 Kw EMI SUPPRESSION 5-HOLE FERRITE BEAD WE-SUKW
 Sc 00000000
@@ -59220,9 +59220,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-SUKW_7427511
-$MODULE SignalCommunications (rev18a)-WE-SUKW_7427512
+$MODULE SignalCommunications-WE-SUKW_7427512
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-SUKW_7427512
+Li SignalCommunications-WE-SUKW_7427512
 Cd EMI SUPPRESSION 5-HOLE FERRITE BEAD WE-SUKW
 Kw EMI SUPPRESSION 5-HOLE FERRITE BEAD WE-SUKW
 Sc 00000000
@@ -59268,9 +59268,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-SUKW_7427512
-$MODULE SignalCommunications (rev18a)-WE-TCI_0201
+$MODULE SignalCommunications-WE-TCI_0201
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TCI_0201
+Li SignalCommunications-WE-TCI_0201
 Cd 
 Kw 
 Sc 00000000
@@ -59303,9 +59303,9 @@ Ne 0 ""
 Po 108 0 
 $EndPAD
 $EndMODULE WE-TCI_0201
-$MODULE SignalCommunications (rev18a)-WE-TCI_0402
+$MODULE SignalCommunications-WE-TCI_0402
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TCI_0402
+Li SignalCommunications-WE-TCI_0402
 Cd THINFILM CHIP INDUCTOR
 Kw THINFILM CHIP INDUCTOR
 Sc 00000000
@@ -59343,9 +59343,9 @@ Ne 0 ""
 Po 177 0 
 $EndPAD
 $EndMODULE WE-TCI_0402
-$MODULE SignalCommunications (rev18a)-WE-TDC_80XX
+$MODULE SignalCommunications-WE-TDC_80XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TDC_80XX
+Li SignalCommunications-WE-TDC_80XX
 Cd SMD COUPLED INDUCTOR WE-TDC
 Kw SMD COUPLED INDUCTOR WE-TDC
 Sc 00000000
@@ -59396,9 +59396,9 @@ Ne 0 ""
 Po 1496 0 
 $EndPAD
 $EndMODULE WE-TDC_80XX
-$MODULE SignalCommunications (rev18a)-WE-TDC_HV_80XX
+$MODULE SignalCommunications-WE-TDC_HV_80XX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TDC_HV_80XX
+Li SignalCommunications-WE-TDC_HV_80XX
 Cd 
 Kw 
 Sc 00000000
@@ -59454,9 +59454,9 @@ Ne 0 ""
 Po 1496 0 
 $EndPAD
 $EndMODULE WE-TDC_HV_80XX
-$MODULE SignalCommunications (rev18a)-WE-TFC
+$MODULE SignalCommunications-WE-TFC
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TFC
+Li SignalCommunications-WE-TFC
 Cd COMMON MODE POWER LINE CHOKE WE-TFC
 Kw COMMON MODE POWER LINE CHOKE WE-TFC
 Sc 00000000
@@ -59518,9 +59518,9 @@ Ne 0 ""
 Po -1377 -1574 
 $EndPAD
 $EndMODULE WE-TFC
-$MODULE SignalCommunications (rev18a)-WE-TFCH
+$MODULE SignalCommunications-WE-TFCH
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TFCH
+Li SignalCommunications-WE-TFCH
 Cd COMMON MODE POWER LINE CHOKE WE-TFCH
 Kw COMMON MODE POWER LINE CHOKE WE-TFCH
 Sc 00000000
@@ -59582,9 +59582,9 @@ Ne 0 ""
 Po 1574 -1377 
 $EndPAD
 $EndMODULE WE-TFCH
-$MODULE SignalCommunications (rev18a)-WE-TI_TIHV_8095_SHRINKING
+$MODULE SignalCommunications-WE-TI_TIHV_8095_SHRINKING
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_TIHV_8095_SHRINKING
+Li SignalCommunications-WE-TI_TIHV_8095_SHRINKING
 Cd 
 Kw 
 Sc 00000000
@@ -59614,9 +59614,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_TIHV_8095_SHRINKING
-$MODULE SignalCommunications (rev18a)-WE-TI_TIHV_SHRINK_8055
+$MODULE SignalCommunications-WE-TI_TIHV_SHRINK_8055
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_TIHV_SHRINK_8055
+Li SignalCommunications-WE-TI_TIHV_SHRINK_8055
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -59646,9 +59646,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_TIHV_SHRINK_8055
-$MODULE SignalCommunications (rev18a)-WE-TIF
+$MODULE SignalCommunications-WE-TIF
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TIF
+Li SignalCommunications-WE-TIF
 Cd 
 Kw 
 Sc 00000000
@@ -59692,9 +59692,9 @@ Ne 0 ""
 Po 984 -787 
 $EndPAD
 $EndMODULE WE-TIF
-$MODULE SignalCommunications (rev18a)-WE-TIF_1016
+$MODULE SignalCommunications-WE-TIF_1016
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TIF_1016
+Li SignalCommunications-WE-TIF_1016
 Cd 
 Kw 
 Sc 00000000
@@ -59738,9 +59738,9 @@ Ne 0 ""
 Po 984 -787 
 $EndPAD
 $EndMODULE WE-TIF_1016
-$MODULE SignalCommunications (rev18a)-WE-TIS_1111
+$MODULE SignalCommunications-WE-TIS_1111
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TIS_1111
+Li SignalCommunications-WE-TIS_1111
 Cd SHIELDED RADIAL LEADED INDUCTOR WE-TIS
 Kw SHIELDED RADIAL LEADED INDUCTOR WE-TIS
 Sc 00000000
@@ -59770,9 +59770,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TIS_1111
-$MODULE SignalCommunications (rev18a)-WE-TIS_8075
+$MODULE SignalCommunications-WE-TIS_8075
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TIS_8075
+Li SignalCommunications-WE-TIS_8075
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TIS
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TIS
 Sc 00000000
@@ -59802,9 +59802,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TIS_8075
-$MODULE SignalCommunications (rev18a)-WE-TI_1014
+$MODULE SignalCommunications-WE-TI_1014
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_1014
+Li SignalCommunications-WE-TI_1014
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -59834,9 +59834,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_1014
-$MODULE SignalCommunications (rev18a)-WE-TI_1020
+$MODULE SignalCommunications-WE-TI_1020
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_1020
+Li SignalCommunications-WE-TI_1020
 Cd 
 Kw 
 Sc 00000000
@@ -59861,9 +59861,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-TI_1020
-$MODULE SignalCommunications (rev18a)-WE-TI_5075
+$MODULE SignalCommunications-WE-TI_5075
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_5075
+Li SignalCommunications-WE-TI_5075
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -59888,9 +59888,9 @@ Ne 0 ""
 Po 492 0 
 $EndPAD
 $EndMODULE WE-TI_5075
-$MODULE SignalCommunications (rev18a)-WE-TI_6065
+$MODULE SignalCommunications-WE-TI_6065
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_6065
+Li SignalCommunications-WE-TI_6065
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -59920,9 +59920,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-TI_6065
-$MODULE SignalCommunications (rev18a)-WE-TI_8012
+$MODULE SignalCommunications-WE-TI_8012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_8012
+Li SignalCommunications-WE-TI_8012
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -59952,9 +59952,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_8012
-$MODULE SignalCommunications (rev18a)-WE-TI_8012B
+$MODULE SignalCommunications-WE-TI_8012B
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_8012B
+Li SignalCommunications-WE-TI_8012B
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -59984,9 +59984,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_8012B
-$MODULE SignalCommunications (rev18a)-WE-TI_8075
+$MODULE SignalCommunications-WE-TI_8075
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_8075
+Li SignalCommunications-WE-TI_8075
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -60016,9 +60016,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_8075
-$MODULE SignalCommunications (rev18a)-WE-TI_8075_SHRINKTUBE
+$MODULE SignalCommunications-WE-TI_8075_SHRINKTUBE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_8075_SHRINKTUBE
+Li SignalCommunications-WE-TI_8075_SHRINKTUBE
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -60048,9 +60048,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_8075_SHRINKTUBE
-$MODULE SignalCommunications (rev18a)-WE-TI_TIHV_8095
+$MODULE SignalCommunications-WE-TI_TIHV_8095
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TI_TIHV_8095
+Li SignalCommunications-WE-TI_TIHV_8095
 Cd RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Kw RADIAL LEADED WIRE WOUND INDUCTOR WE-TI
 Sc 00000000
@@ -60080,9 +60080,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-TI_TIHV_8095
-$MODULE SignalCommunications (rev18a)-WE-TMSB_0201
+$MODULE SignalCommunications-WE-TMSB_0201
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TMSB_0201
+Li SignalCommunications-WE-TMSB_0201
 Cd TINY MULTILAYER SUPPRESSION BEAD WE-TMSB
 Kw TINY MULTILAYER SUPPRESSION BEAD WE-TMSB
 Sc 00000000
@@ -60113,9 +60113,9 @@ Ne 0 ""
 Po 98 0 
 $EndPAD
 $EndMODULE WE-TMSB_0201
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ1.3
+$MODULE SignalCommunications-WE-TPBHV_Φ1.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ1.3
+Li SignalCommunications-WE-TPBHV_Φ1.3
 Cd 
 Kw 
 Sc 00000000
@@ -60178,9 +60178,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ1.3
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ1.6
+$MODULE SignalCommunications-WE-TPBHV_Φ1.6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ1.6
+Li SignalCommunications-WE-TPBHV_Φ1.6
 Cd 
 Kw 
 Sc 00000000
@@ -60243,9 +60243,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ1.6
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ2.0
+$MODULE SignalCommunications-WE-TPBHV_Φ2.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ2.0
+Li SignalCommunications-WE-TPBHV_Φ2.0
 Cd 
 Kw 
 Sc 00000000
@@ -60308,9 +60308,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ2.0
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ2.4
+$MODULE SignalCommunications-WE-TPBHV_Φ2.4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ2.4
+Li SignalCommunications-WE-TPBHV_Φ2.4
 Cd 
 Kw 
 Sc 00000000
@@ -60373,9 +60373,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ2.4
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ2.6
+$MODULE SignalCommunications-WE-TPBHV_Φ2.6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ2.6
+Li SignalCommunications-WE-TPBHV_Φ2.6
 Cd 
 Kw 
 Sc 00000000
@@ -60438,9 +60438,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ2.6
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ4.0
+$MODULE SignalCommunications-WE-TPBHV_Φ4.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ4.0
+Li SignalCommunications-WE-TPBHV_Φ4.0
 Cd 
 Kw 
 Sc 00000000
@@ -60503,9 +60503,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ4.0
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ4.2
+$MODULE SignalCommunications-WE-TPBHV_Φ4.2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ4.2
+Li SignalCommunications-WE-TPBHV_Φ4.2
 Cd 
 Kw 
 Sc 00000000
@@ -60568,9 +60568,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ4.2
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ4.5
+$MODULE SignalCommunications-WE-TPBHV_Φ4.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ4.5
+Li SignalCommunications-WE-TPBHV_Φ4.5
 Cd 
 Kw 
 Sc 00000000
@@ -60633,9 +60633,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ4.5
-$MODULE SignalCommunications (rev18a)-WE-TPBHV_Φ5.5
+$MODULE SignalCommunications-WE-TPBHV_Φ5.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPBHV_Φ5.5
+Li SignalCommunications-WE-TPBHV_Φ5.5
 Cd 
 Kw 
 Sc 00000000
@@ -60698,9 +60698,9 @@ Ne 0 ""
 Po 0 0 
 $EndPAD
 $EndMODULE WE-TPBHV_Φ5.5
-$MODULE SignalCommunications (rev18a)-WE-TPC_1028_1038
+$MODULE SignalCommunications-WE-TPC_1028_1038
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_1028_1038
+Li SignalCommunications-WE-TPC_1028_1038
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -60737,9 +60737,9 @@ Ne 0 ""
 Po 1771 0 
 $EndPAD
 $EndMODULE WE-TPC_1028_1038
-$MODULE SignalCommunications (rev18a)-WE-TPC_2811_2813_OLD
+$MODULE SignalCommunications-WE-TPC_2811_2813_OLD
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_2811_2813_OLD
+Li SignalCommunications-WE-TPC_2811_2813_OLD
 Cd 
 Kw 
 Sc 00000000
@@ -60774,9 +60774,9 @@ Ne 0 ""
 Po 433 0 
 $EndPAD
 $EndMODULE WE-TPC_2811_2813_OLD
-$MODULE SignalCommunications (rev18a)-WE-TPC_2828_OLD
+$MODULE SignalCommunications-WE-TPC_2828_OLD
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_2828_OLD
+Li SignalCommunications-WE-TPC_2828_OLD
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -60815,9 +60815,9 @@ Ne 0 ""
 Po 433 0 
 $EndPAD
 $EndMODULE WE-TPC_2828_OLD
-$MODULE SignalCommunications (rev18a)-WE-TPC_3510
+$MODULE SignalCommunications-WE-TPC_3510
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_3510
+Li SignalCommunications-WE-TPC_3510
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -60872,9 +60872,9 @@ Ne 0 ""
 Po -590 0 
 $EndPAD
 $EndMODULE WE-TPC_3510
-$MODULE SignalCommunications (rev18a)-WE-TPC_3816
+$MODULE SignalCommunications-WE-TPC_3816
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_3816
+Li SignalCommunications-WE-TPC_3816
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -61074,9 +61074,9 @@ Ne 0 ""
 Po 708 0 
 $EndPAD
 $EndMODULE WE-TPC_3816
-$MODULE SignalCommunications (rev18a)-WE-TPC_4818_4828
+$MODULE SignalCommunications-WE-TPC_4818_4828
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_4818_4828
+Li SignalCommunications-WE-TPC_4818_4828
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -61375,9 +61375,9 @@ Ne 0 ""
 Po 905 0 
 $EndPAD
 $EndMODULE WE-TPC_4818_4828
-$MODULE SignalCommunications (rev18a)-WE-TPC_5818_5828
+$MODULE SignalCommunications-WE-TPC_5818_5828
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_5818_5828
+Li SignalCommunications-WE-TPC_5818_5828
 Cd 
 Kw 
 Sc 00000000
@@ -61732,9 +61732,9 @@ Ne 0 ""
 Po 1023 0 
 $EndPAD
 $EndMODULE WE-TPC_5818_5828
-$MODULE SignalCommunications (rev18a)-WE-TPC_6823
+$MODULE SignalCommunications-WE-TPC_6823
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_6823
+Li SignalCommunications-WE-TPC_6823
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -62032,9 +62032,9 @@ Ne 0 ""
 Po 1259 0 
 $EndPAD
 $EndMODULE WE-TPC_6823
-$MODULE SignalCommunications (rev18a)-WE-TPC_8015_8012
+$MODULE SignalCommunications-WE-TPC_8015_8012
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_8015_8012
+Li SignalCommunications-WE-TPC_8015_8012
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -62095,9 +62095,9 @@ Ne 0 ""
 Po 0 1496 
 $EndPAD
 $EndMODULE WE-TPC_8015_8012
-$MODULE SignalCommunications (rev18a)-WE-TPC_8020_8043
+$MODULE SignalCommunications-WE-TPC_8020_8043
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TPC_8020_8043
+Li SignalCommunications-WE-TPC_8020_8043
 Cd SHIELDED TINY POWER INDUCTOR WE-TPC
 Kw SHIELDED TINY POWER INDUCTOR WE-TPC
 Sc 00000000
@@ -62153,9 +62153,9 @@ Ne 0 ""
 Po 0 1496 
 $EndPAD
 $EndMODULE WE-TPC_8020_8043
-$MODULE SignalCommunications (rev18a)-WE-TVS_DFN1210_6L
+$MODULE SignalCommunications-WE-TVS_DFN1210_6L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_DFN1210_6L
+Li SignalCommunications-WE-TVS_DFN1210_6L
 Cd 
 Kw 
 Sc 00000000
@@ -62217,9 +62217,9 @@ Ne 0 ""
 Po 172 -157 
 $EndPAD
 $EndMODULE WE-TVS_DFN1210_6L
-$MODULE SignalCommunications (rev18a)-WE-TVS_DFN1610-2L
+$MODULE SignalCommunications-WE-TVS_DFN1610-2L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_DFN1610-2L
+Li SignalCommunications-WE-TVS_DFN1610-2L
 Cd 
 Kw 
 Sc 00000000
@@ -62252,9 +62252,9 @@ Ne 0 ""
 Po 241 0 
 $EndPAD
 $EndMODULE WE-TVS_DFN1610-2L
-$MODULE SignalCommunications (rev18a)-WE-TVS_DFN3810_9L
+$MODULE SignalCommunications-WE-TVS_DFN3810_9L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_DFN3810_9L
+Li SignalCommunications-WE-TVS_DFN3810_9L
 Cd 
 Kw 
 Sc 00000000
@@ -62348,9 +62348,9 @@ Ne 0 ""
 Po 187 -511 
 $EndPAD
 $EndMODULE WE-TVS_DFN3810_9L
-$MODULE SignalCommunications (rev18a)-WE-TVS_MSOP-8L
+$MODULE SignalCommunications-WE-TVS_MSOP-8L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_MSOP-8L
+Li SignalCommunications-WE-TVS_MSOP-8L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62456,9 +62456,9 @@ Ne 0 ""
 Po 944 -383 
 $EndPAD
 $EndMODULE WE-TVS_MSOP-8L
-$MODULE SignalCommunications (rev18a)-WE-TVS_MSOP-10L
+$MODULE SignalCommunications-WE-TVS_MSOP-10L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_MSOP-10L
+Li SignalCommunications-WE-TVS_MSOP-10L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62586,9 +62586,9 @@ Ne 0 ""
 Po 807 -393 
 $EndPAD
 $EndMODULE WE-TVS_MSOP-10L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SC70-5L
+$MODULE SignalCommunications-WE-TVS_SC70-5L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SC70-5L
+Li SignalCommunications-WE-TVS_SC70-5L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62661,9 +62661,9 @@ Ne 0 ""
 Po 364 -255 
 $EndPAD
 $EndMODULE WE-TVS_SC70-5L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SC70-6L
+$MODULE SignalCommunications-WE-TVS_SC70-6L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SC70-6L
+Li SignalCommunications-WE-TVS_SC70-6L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62747,9 +62747,9 @@ Ne 0 ""
 Po 364 -255 
 $EndPAD
 $EndMODULE WE-TVS_SC70-6L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SOT23-3L
+$MODULE SignalCommunications-WE-TVS_SOT23-3L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SOT23-3L
+Li SignalCommunications-WE-TVS_SOT23-3L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62807,9 +62807,9 @@ Ne 0 ""
 Po 413 0 
 $EndPAD
 $EndMODULE WE-TVS_SOT23-3L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SOT23-5L
+$MODULE SignalCommunications-WE-TVS_SOT23-5L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SOT23-5L
+Li SignalCommunications-WE-TVS_SOT23-5L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62885,9 +62885,9 @@ Ne 0 ""
 Po 492 -374 
 $EndPAD
 $EndMODULE WE-TVS_SOT23-5L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SOT23-6L
+$MODULE SignalCommunications-WE-TVS_SOT23-6L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SOT23-6L
+Li SignalCommunications-WE-TVS_SOT23-6L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -62975,9 +62975,9 @@ Ne 0 ""
 Po 492 -374 
 $EndPAD
 $EndMODULE WE-TVS_SOT23-6L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SOT143-4L
+$MODULE SignalCommunications-WE-TVS_SOT143-4L
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SOT143-4L
+Li SignalCommunications-WE-TVS_SOT143-4L
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -63039,9 +63039,9 @@ Ne 0 ""
 Po -374 -433 
 $EndPAD
 $EndMODULE WE-TVS_SOT143-4L
-$MODULE SignalCommunications (rev18a)-WE-TVS_SOT563
+$MODULE SignalCommunications-WE-TVS_SOT563
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-TVS_SOT563
+Li SignalCommunications-WE-TVS_SOT563
 Cd TVS DIODE ARRAY WE-TVS
 Kw TVS DIODE ARRAY WE-TVS
 Sc 00000000
@@ -63101,9 +63101,9 @@ Ne 0 ""
 Po 275 -196 
 $EndPAD
 $EndMODULE WE-TVS_SOT563
-$MODULE SignalCommunications (rev18a)-WE-UCF
+$MODULE SignalCommunications-WE-UCF
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UCF
+Li SignalCommunications-WE-UCF
 Cd SMD COMMON MODE LINE FILTER
 Kw SMD COMMON MODE LINE FILTER
 Sc 00000000
@@ -63187,9 +63187,9 @@ Ne 0 ""
 Po -2913 2000 
 $EndPAD
 $EndMODULE WE-UCF
-$MODULE SignalCommunications (rev18a)-WE-UKW_7427501
+$MODULE SignalCommunications-WE-UKW_7427501
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_7427501
+Li SignalCommunications-WE-UKW_7427501
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63224,9 +63224,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-UKW_7427501
-$MODULE SignalCommunications (rev18a)-WE-UKW_7427502
+$MODULE SignalCommunications-WE-UKW_7427502
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_7427502
+Li SignalCommunications-WE-UKW_7427502
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63261,9 +63261,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-UKW_7427502
-$MODULE SignalCommunications (rev18a)-WE-UKW_7427503
+$MODULE SignalCommunications-WE-UKW_7427503
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_7427503
+Li SignalCommunications-WE-UKW_7427503
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63298,9 +63298,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-UKW_7427503
-$MODULE SignalCommunications (rev18a)-WE-UKW_7427504
+$MODULE SignalCommunications-WE-UKW_7427504
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_7427504
+Li SignalCommunications-WE-UKW_7427504
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63335,9 +63335,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-UKW_7427504
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275010
+$MODULE SignalCommunications-WE-UKW_74275010
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275010
+Li SignalCommunications-WE-UKW_74275010
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63427,9 +63427,9 @@ Ne 0 ""
 Po 468 -498 
 $EndPAD
 $EndMODULE WE-UKW_74275010
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275011
+$MODULE SignalCommunications-WE-UKW_74275011
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275011
+Li SignalCommunications-WE-UKW_74275011
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63464,9 +63464,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-UKW_74275011
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275013
+$MODULE SignalCommunications-WE-UKW_74275013
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275013
+Li SignalCommunications-WE-UKW_74275013
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63496,9 +63496,9 @@ Ne 0 ""
 Po 468 498 
 $EndPAD
 $EndMODULE WE-UKW_74275013
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275022
+$MODULE SignalCommunications-WE-UKW_74275022
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275022
+Li SignalCommunications-WE-UKW_74275022
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63548,9 +63548,9 @@ Ne 0 ""
 Po 2362 -492 
 $EndPAD
 $EndMODULE WE-UKW_74275022
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275023
+$MODULE SignalCommunications-WE-UKW_74275023
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275023
+Li SignalCommunications-WE-UKW_74275023
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63580,9 +63580,9 @@ Ne 0 ""
 Po 468 498 
 $EndPAD
 $EndMODULE WE-UKW_74275023
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275043
+$MODULE SignalCommunications-WE-UKW_74275043
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275043
+Li SignalCommunications-WE-UKW_74275043
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63612,9 +63612,9 @@ Ne 0 ""
 Po 468 498 
 $EndPAD
 $EndMODULE WE-UKW_74275043
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275046
+$MODULE SignalCommunications-WE-UKW_74275046
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275046
+Li SignalCommunications-WE-UKW_74275046
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63649,9 +63649,9 @@ Ne 0 ""
 Po 2362 0 
 $EndPAD
 $EndMODULE WE-UKW_74275046
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275143
+$MODULE SignalCommunications-WE-UKW_74275143
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275143
+Li SignalCommunications-WE-UKW_74275143
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63681,9 +63681,9 @@ Ne 0 ""
 Po 468 498 
 $EndPAD
 $EndMODULE WE-UKW_74275143
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275223
+$MODULE SignalCommunications-WE-UKW_74275223
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275223
+Li SignalCommunications-WE-UKW_74275223
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63718,9 +63718,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-UKW_74275223
-$MODULE SignalCommunications (rev18a)-WE-UKW_74275243
+$MODULE SignalCommunications-WE-UKW_74275243
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_74275243
+Li SignalCommunications-WE-UKW_74275243
 Cd WE-UKW
 Kw WE-UKW
 Sc 00000000
@@ -63759,9 +63759,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-UKW_74275243
-$MODULE SignalCommunications (rev18a)-WE-UKW_742750421
+$MODULE SignalCommunications-WE-UKW_742750421
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UKW_742750421
+Li SignalCommunications-WE-UKW_742750421
 Cd WE-UKW EMI SUPPRESSION 6-HOLE FERRITE BEAD
 Kw WE-UKW EMI SUPPRESSION 6-HOLE FERRITE BEAD
 Sc 00000000
@@ -63806,9 +63806,9 @@ Ne 0 ""
 Po -468 498 
 $EndPAD
 $EndMODULE WE-UKW_742750421
-$MODULE SignalCommunications (rev18a)-WE-UNIT_750370024
+$MODULE SignalCommunications-WE-UNIT_750370024
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_750370024
+Li SignalCommunications-WE-UNIT_750370024
 Cd 
 Kw 
 Sc 00000000
@@ -63894,9 +63894,9 @@ Ne 0 ""
 Po 3021 -2066 
 $EndPAD
 $EndMODULE WE-UNIT_750370024
-$MODULE SignalCommunications (rev18a)-WE-UNIT_750370026
+$MODULE SignalCommunications-WE-UNIT_750370026
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_750370026
+Li SignalCommunications-WE-UNIT_750370026
 Cd 
 Kw 
 Sc 00000000
@@ -63982,9 +63982,9 @@ Ne 0 ""
 Po 3346 -2952 
 $EndPAD
 $EndMODULE WE-UNIT_750370026
-$MODULE SignalCommunications (rev18a)-WE-UNIT_750871111
+$MODULE SignalCommunications-WE-UNIT_750871111
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_750871111
+Li SignalCommunications-WE-UNIT_750871111
 Cd 
 Kw 
 Sc 00000000
@@ -64067,9 +64067,9 @@ Ne 0 ""
 Po 3937 -2952 
 $EndPAD
 $EndMODULE WE-UNIT_750871111
-$MODULE SignalCommunications (rev18a)-WE-UNIT_760871131
+$MODULE SignalCommunications-WE-UNIT_760871131
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_760871131
+Li SignalCommunications-WE-UNIT_760871131
 Cd 
 Kw 
 Sc 00000000
@@ -64191,9 +64191,9 @@ Ne 0 ""
 Po 3937 -3444 
 $EndPAD
 $EndMODULE WE-UNIT_760871131
-$MODULE SignalCommunications (rev18a)-WE-UNIT_E13_7_4_HORIZONTAL
+$MODULE SignalCommunications-WE-UNIT_E13_7_4_HORIZONTAL
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_E13_7_4_HORIZONTAL
+Li SignalCommunications-WE-UNIT_E13_7_4_HORIZONTAL
 Cd TRANSFORMER, E13/7/4 THT HORIZONTAL 9 PIN
 Kw TRANSFORMER, E13/7/4 THT HORIZONTAL 9 PIN
 Sc 00000000
@@ -64280,9 +64280,9 @@ Ne 0 ""
 Po 3021 -2066 
 $EndPAD
 $EndMODULE WE-UNIT_E13_7_4_HORIZONTAL
-$MODULE SignalCommunications (rev18a)-WE-UNIT_E13_7_4_VERTICAL
+$MODULE SignalCommunications-WE-UNIT_E13_7_4_VERTICAL
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_E13_7_4_VERTICAL
+Li SignalCommunications-WE-UNIT_E13_7_4_VERTICAL
 Cd TRANSFORMER, E13/7/4 THT VERTIKAL 6PIN
 Kw TRANSFORMER, E13/7/4 THT VERTIKAL 6PIN
 Sc 00000000
@@ -64347,9 +64347,9 @@ Ne 0 ""
 Po 1500 -1500 
 $EndPAD
 $EndMODULE WE-UNIT_E13_7_4_VERTICAL
-$MODULE SignalCommunications (rev18a)-WE-UNIT_E16_7_4
+$MODULE SignalCommunications-WE-UNIT_E16_7_4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_E16_7_4
+Li SignalCommunications-WE-UNIT_E16_7_4
 Cd TRANSFORMER, E16/7/4 THT VERTIKAL 10 PIN
 Kw TRANSFORMER, E16/7/4 THT VERTIKAL 10 PIN
 Sc 00000000
@@ -64443,9 +64443,9 @@ Ne 0 ""
 Po 2401 -2066 
 $EndPAD
 $EndMODULE WE-UNIT_E16_7_4
-$MODULE SignalCommunications (rev18a)-WE-UNIT_E16_8_5
+$MODULE SignalCommunications-WE-UNIT_E16_8_5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UNIT_E16_8_5
+Li SignalCommunications-WE-UNIT_E16_8_5
 Cd TRANSFORMER, E16/8/5 THT HORIZONTAL 9 PIN
 Kw TRANSFORMER, E16/8/5 THT HORIZONTAL 9 PIN
 Sc 00000000
@@ -64532,9 +64532,9 @@ Ne 0 ""
 Po 3346 -2952 
 $EndPAD
 $EndMODULE WE-UNIT_E16_8_5
-$MODULE SignalCommunications (rev18a)-WE-UOST
+$MODULE SignalCommunications-WE-UOST
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-UOST
+Li SignalCommunications-WE-UOST
 Cd UNIVERSAL OFFLINE STANDARD TRANSFORMERS WE-UOST
 Kw UNIVERSAL OFFLINE STANDARD TRANSFORMERS WE-UOST
 Sc 00000000
@@ -64642,9 +64642,9 @@ Ne 0 ""
 Po 4828 -2500 
 $EndPAD
 $EndMODULE WE-UOST
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-1.0
+$MODULE SignalCommunications-WE-VD_5MM-1.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-1.0
+Li SignalCommunications-WE-VD_5MM-1.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64681,9 +64681,9 @@ Ne 0 ""
 Po 984 196 
 $EndPAD
 $EndMODULE WE-VD_5MM-1.0
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-1.1
+$MODULE SignalCommunications-WE-VD_5MM-1.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-1.1
+Li SignalCommunications-WE-VD_5MM-1.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64721,9 +64721,9 @@ Ne 0 ""
 Po 984 216 
 $EndPAD
 $EndMODULE WE-VD_5MM-1.1
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-1.3
+$MODULE SignalCommunications-WE-VD_5MM-1.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-1.3
+Li SignalCommunications-WE-VD_5MM-1.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64760,9 +64760,9 @@ Ne 0 ""
 Po 984 255 
 $EndPAD
 $EndMODULE WE-VD_5MM-1.3
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-1.5
+$MODULE SignalCommunications-WE-VD_5MM-1.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-1.5
+Li SignalCommunications-WE-VD_5MM-1.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64799,9 +64799,9 @@ Ne 0 ""
 Po 984 295 
 $EndPAD
 $EndMODULE WE-VD_5MM-1.5
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-1.7
+$MODULE SignalCommunications-WE-VD_5MM-1.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-1.7
+Li SignalCommunications-WE-VD_5MM-1.7
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64838,9 +64838,9 @@ Ne 0 ""
 Po 984 334 
 $EndPAD
 $EndMODULE WE-VD_5MM-1.7
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-1.8
+$MODULE SignalCommunications-WE-VD_5MM-1.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-1.8
+Li SignalCommunications-WE-VD_5MM-1.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64877,9 +64877,9 @@ Ne 0 ""
 Po 984 354 
 $EndPAD
 $EndMODULE WE-VD_5MM-1.8
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-2.1
+$MODULE SignalCommunications-WE-VD_5MM-2.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-2.1
+Li SignalCommunications-WE-VD_5MM-2.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64916,9 +64916,9 @@ Ne 0 ""
 Po 984 413 
 $EndPAD
 $EndMODULE WE-VD_5MM-2.1
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-2.4
+$MODULE SignalCommunications-WE-VD_5MM-2.4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-2.4
+Li SignalCommunications-WE-VD_5MM-2.4
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64955,9 +64955,9 @@ Ne 0 ""
 Po 984 472 
 $EndPAD
 $EndMODULE WE-VD_5MM-2.4
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-2.7
+$MODULE SignalCommunications-WE-VD_5MM-2.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-2.7
+Li SignalCommunications-WE-VD_5MM-2.7
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -64994,9 +64994,9 @@ Ne 0 ""
 Po 984 531 
 $EndPAD
 $EndMODULE WE-VD_5MM-2.7
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-3.0
+$MODULE SignalCommunications-WE-VD_5MM-3.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-3.0
+Li SignalCommunications-WE-VD_5MM-3.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65033,9 +65033,9 @@ Ne 0 ""
 Po 984 590 
 $EndPAD
 $EndMODULE WE-VD_5MM-3.0
-$MODULE SignalCommunications (rev18a)-WE-VD_5MM-DIA
+$MODULE SignalCommunications-WE-VD_5MM-DIA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_5MM-DIA
+Li SignalCommunications-WE-VD_5MM-DIA
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65072,9 +65072,9 @@ Ne 0 ""
 Po 984 157 
 $EndPAD
 $EndMODULE WE-VD_5MM-DIA
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.0
+$MODULE SignalCommunications-WE-VD_7MM-1.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.0
+Li SignalCommunications-WE-VD_7MM-1.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65111,9 +65111,9 @@ Ne 0 ""
 Po 984 196 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.0
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.1
+$MODULE SignalCommunications-WE-VD_7MM-1.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.1
+Li SignalCommunications-WE-VD_7MM-1.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65150,9 +65150,9 @@ Ne 0 ""
 Po 984 216 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.1
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.3
+$MODULE SignalCommunications-WE-VD_7MM-1.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.3
+Li SignalCommunications-WE-VD_7MM-1.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65189,9 +65189,9 @@ Ne 0 ""
 Po 984 255 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.3
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.4
+$MODULE SignalCommunications-WE-VD_7MM-1.4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.4
+Li SignalCommunications-WE-VD_7MM-1.4
 Cd 
 Kw 
 Sc 00000000
@@ -65222,9 +65222,9 @@ Ne 0 ""
 Po 984 275 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.4
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.5
+$MODULE SignalCommunications-WE-VD_7MM-1.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.5
+Li SignalCommunications-WE-VD_7MM-1.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65261,9 +65261,9 @@ Ne 0 ""
 Po 984 295 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.5
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.7
+$MODULE SignalCommunications-WE-VD_7MM-1.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.7
+Li SignalCommunications-WE-VD_7MM-1.7
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65300,9 +65300,9 @@ Ne 0 ""
 Po 984 334 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.7
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-1.8
+$MODULE SignalCommunications-WE-VD_7MM-1.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-1.8
+Li SignalCommunications-WE-VD_7MM-1.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65339,9 +65339,9 @@ Ne 0 ""
 Po 984 354 
 $EndPAD
 $EndMODULE WE-VD_7MM-1.8
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-2.1
+$MODULE SignalCommunications-WE-VD_7MM-2.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-2.1
+Li SignalCommunications-WE-VD_7MM-2.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65378,9 +65378,9 @@ Ne 0 ""
 Po 984 413 
 $EndPAD
 $EndMODULE WE-VD_7MM-2.1
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-2.4
+$MODULE SignalCommunications-WE-VD_7MM-2.4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-2.4
+Li SignalCommunications-WE-VD_7MM-2.4
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65417,9 +65417,9 @@ Ne 0 ""
 Po 984 472 
 $EndPAD
 $EndMODULE WE-VD_7MM-2.4
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-2.7
+$MODULE SignalCommunications-WE-VD_7MM-2.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-2.7
+Li SignalCommunications-WE-VD_7MM-2.7
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65456,9 +65456,9 @@ Ne 0 ""
 Po 984 531 
 $EndPAD
 $EndMODULE WE-VD_7MM-2.7
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-3.0
+$MODULE SignalCommunications-WE-VD_7MM-3.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-3.0
+Li SignalCommunications-WE-VD_7MM-3.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65495,9 +65495,9 @@ Ne 0 ""
 Po 984 590 
 $EndPAD
 $EndMODULE WE-VD_7MM-3.0
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-3.1
+$MODULE SignalCommunications-WE-VD_7MM-3.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-3.1
+Li SignalCommunications-WE-VD_7MM-3.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65534,9 +65534,9 @@ Ne 0 ""
 Po 984 610 
 $EndPAD
 $EndMODULE WE-VD_7MM-3.1
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-3.3
+$MODULE SignalCommunications-WE-VD_7MM-3.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-3.3
+Li SignalCommunications-WE-VD_7MM-3.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65573,9 +65573,9 @@ Ne 0 ""
 Po 984 649 
 $EndPAD
 $EndMODULE WE-VD_7MM-3.3
-$MODULE SignalCommunications (rev18a)-WE-VD_7MM-DIA
+$MODULE SignalCommunications-WE-VD_7MM-DIA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_7MM-DIA
+Li SignalCommunications-WE-VD_7MM-DIA
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65612,9 +65612,9 @@ Ne 0 ""
 Po 984 157 
 $EndPAD
 $EndMODULE WE-VD_7MM-DIA
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-0.9
+$MODULE SignalCommunications-WE-VD_10MM-0.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-0.9
+Li SignalCommunications-WE-VD_10MM-0.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65651,9 +65651,9 @@ Ne 0 ""
 Po 1476 177 
 $EndPAD
 $EndMODULE WE-VD_10MM-0.9
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-1.1
+$MODULE SignalCommunications-WE-VD_10MM-1.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-1.1
+Li SignalCommunications-WE-VD_10MM-1.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65690,9 +65690,9 @@ Ne 0 ""
 Po 1476 216 
 $EndPAD
 $EndMODULE WE-VD_10MM-1.1
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-1.3
+$MODULE SignalCommunications-WE-VD_10MM-1.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-1.3
+Li SignalCommunications-WE-VD_10MM-1.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65729,9 +65729,9 @@ Ne 0 ""
 Po 1476 255 
 $EndPAD
 $EndMODULE WE-VD_10MM-1.3
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-1.5
+$MODULE SignalCommunications-WE-VD_10MM-1.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-1.5
+Li SignalCommunications-WE-VD_10MM-1.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65769,9 +65769,9 @@ Ne 0 ""
 Po 1476 295 
 $EndPAD
 $EndMODULE WE-VD_10MM-1.5
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-1.6
+$MODULE SignalCommunications-WE-VD_10MM-1.6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-1.6
+Li SignalCommunications-WE-VD_10MM-1.6
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65808,9 +65808,9 @@ Ne 0 ""
 Po 1476 314 
 $EndPAD
 $EndMODULE WE-VD_10MM-1.6
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-1.9
+$MODULE SignalCommunications-WE-VD_10MM-1.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-1.9
+Li SignalCommunications-WE-VD_10MM-1.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65847,9 +65847,9 @@ Ne 0 ""
 Po 1476 374 
 $EndPAD
 $EndMODULE WE-VD_10MM-1.9
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-2.2
+$MODULE SignalCommunications-WE-VD_10MM-2.2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-2.2
+Li SignalCommunications-WE-VD_10MM-2.2
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65886,9 +65886,9 @@ Ne 0 ""
 Po 1476 433 
 $EndPAD
 $EndMODULE WE-VD_10MM-2.2
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-2.5
+$MODULE SignalCommunications-WE-VD_10MM-2.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-2.5
+Li SignalCommunications-WE-VD_10MM-2.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65925,9 +65925,9 @@ Ne 0 ""
 Po 1476 492 
 $EndPAD
 $EndMODULE WE-VD_10MM-2.5
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-2.8
+$MODULE SignalCommunications-WE-VD_10MM-2.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-2.8
+Li SignalCommunications-WE-VD_10MM-2.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -65964,9 +65964,9 @@ Ne 0 ""
 Po 1476 551 
 $EndPAD
 $EndMODULE WE-VD_10MM-2.8
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-2.9
+$MODULE SignalCommunications-WE-VD_10MM-2.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-2.9
+Li SignalCommunications-WE-VD_10MM-2.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66003,9 +66003,9 @@ Ne 0 ""
 Po 1476 570 
 $EndPAD
 $EndMODULE WE-VD_10MM-2.9
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-3.1
+$MODULE SignalCommunications-WE-VD_10MM-3.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-3.1
+Li SignalCommunications-WE-VD_10MM-3.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66042,9 +66042,9 @@ Ne 0 ""
 Po 1476 610 
 $EndPAD
 $EndMODULE WE-VD_10MM-3.1
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-3.7
+$MODULE SignalCommunications-WE-VD_10MM-3.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-3.7
+Li SignalCommunications-WE-VD_10MM-3.7
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66081,9 +66081,9 @@ Ne 0 ""
 Po 1476 708 
 $EndPAD
 $EndMODULE WE-VD_10MM-3.7
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-4.0
+$MODULE SignalCommunications-WE-VD_10MM-4.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-4.0
+Li SignalCommunications-WE-VD_10MM-4.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66120,9 +66120,9 @@ Ne 0 ""
 Po 1476 787 
 $EndPAD
 $EndMODULE WE-VD_10MM-4.0
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-4.5
+$MODULE SignalCommunications-WE-VD_10MM-4.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-4.5
+Li SignalCommunications-WE-VD_10MM-4.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66159,9 +66159,9 @@ Ne 0 ""
 Po 1476 885 
 $EndPAD
 $EndMODULE WE-VD_10MM-4.5
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-9.8
+$MODULE SignalCommunications-WE-VD_10MM-9.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-9.8
+Li SignalCommunications-WE-VD_10MM-9.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66198,9 +66198,9 @@ Ne 0 ""
 Po 1476 1929 
 $EndPAD
 $EndMODULE WE-VD_10MM-9.8
-$MODULE SignalCommunications (rev18a)-WE-VD_10MM-DIA
+$MODULE SignalCommunications-WE-VD_10MM-DIA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_10MM-DIA
+Li SignalCommunications-WE-VD_10MM-DIA
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66237,9 +66237,9 @@ Ne 0 ""
 Po 1476 177 
 $EndPAD
 $EndMODULE WE-VD_10MM-DIA
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-0.9
+$MODULE SignalCommunications-WE-VD_14MM-0.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-0.9
+Li SignalCommunications-WE-VD_14MM-0.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66276,9 +66276,9 @@ Ne 0 ""
 Po 1476 177 
 $EndPAD
 $EndMODULE WE-VD_14MM-0.9
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-1.1
+$MODULE SignalCommunications-WE-VD_14MM-1.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-1.1
+Li SignalCommunications-WE-VD_14MM-1.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66315,9 +66315,9 @@ Ne 0 ""
 Po 1476 216 
 $EndPAD
 $EndMODULE WE-VD_14MM-1.1
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-1.3
+$MODULE SignalCommunications-WE-VD_14MM-1.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-1.3
+Li SignalCommunications-WE-VD_14MM-1.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66354,9 +66354,9 @@ Ne 0 ""
 Po 1476 255 
 $EndPAD
 $EndMODULE WE-VD_14MM-1.3
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-1.5
+$MODULE SignalCommunications-WE-VD_14MM-1.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-1.5
+Li SignalCommunications-WE-VD_14MM-1.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66393,9 +66393,9 @@ Ne 0 ""
 Po 1476 295 
 $EndPAD
 $EndMODULE WE-VD_14MM-1.5
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-1.6
+$MODULE SignalCommunications-WE-VD_14MM-1.6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-1.6
+Li SignalCommunications-WE-VD_14MM-1.6
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66432,9 +66432,9 @@ Ne 0 ""
 Po 1476 314 
 $EndPAD
 $EndMODULE WE-VD_14MM-1.6
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-1.9
+$MODULE SignalCommunications-WE-VD_14MM-1.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-1.9
+Li SignalCommunications-WE-VD_14MM-1.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66471,9 +66471,9 @@ Ne 0 ""
 Po 1476 374 
 $EndPAD
 $EndMODULE WE-VD_14MM-1.9
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-2.2
+$MODULE SignalCommunications-WE-VD_14MM-2.2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-2.2
+Li SignalCommunications-WE-VD_14MM-2.2
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66510,9 +66510,9 @@ Ne 0 ""
 Po 1476 433 
 $EndPAD
 $EndMODULE WE-VD_14MM-2.2
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-2.5
+$MODULE SignalCommunications-WE-VD_14MM-2.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-2.5
+Li SignalCommunications-WE-VD_14MM-2.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66549,9 +66549,9 @@ Ne 0 ""
 Po 1476 492 
 $EndPAD
 $EndMODULE WE-VD_14MM-2.5
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-2.8
+$MODULE SignalCommunications-WE-VD_14MM-2.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-2.8
+Li SignalCommunications-WE-VD_14MM-2.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66588,9 +66588,9 @@ Ne 0 ""
 Po 1476 551 
 $EndPAD
 $EndMODULE WE-VD_14MM-2.8
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-2.9
+$MODULE SignalCommunications-WE-VD_14MM-2.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-2.9
+Li SignalCommunications-WE-VD_14MM-2.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66627,9 +66627,9 @@ Ne 0 ""
 Po 1476 570 
 $EndPAD
 $EndMODULE WE-VD_14MM-2.9
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-3.1
+$MODULE SignalCommunications-WE-VD_14MM-3.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-3.1
+Li SignalCommunications-WE-VD_14MM-3.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66666,9 +66666,9 @@ Ne 0 ""
 Po 1476 610 
 $EndPAD
 $EndMODULE WE-VD_14MM-3.1
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-3.6
+$MODULE SignalCommunications-WE-VD_14MM-3.6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-3.6
+Li SignalCommunications-WE-VD_14MM-3.6
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66705,9 +66705,9 @@ Ne 0 ""
 Po 1476 708 
 $EndPAD
 $EndMODULE WE-VD_14MM-3.6
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-4.0
+$MODULE SignalCommunications-WE-VD_14MM-4.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-4.0
+Li SignalCommunications-WE-VD_14MM-4.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66744,9 +66744,9 @@ Ne 0 ""
 Po 1476 787 
 $EndPAD
 $EndMODULE WE-VD_14MM-4.0
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-4.5
+$MODULE SignalCommunications-WE-VD_14MM-4.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-4.5
+Li SignalCommunications-WE-VD_14MM-4.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66783,9 +66783,9 @@ Ne 0 ""
 Po 1476 885 
 $EndPAD
 $EndMODULE WE-VD_14MM-4.5
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-10.2
+$MODULE SignalCommunications-WE-VD_14MM-10.2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-10.2
+Li SignalCommunications-WE-VD_14MM-10.2
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66822,9 +66822,9 @@ Ne 0 ""
 Po 1476 2007 
 $EndPAD
 $EndMODULE WE-VD_14MM-10.2
-$MODULE SignalCommunications (rev18a)-WE-VD_14MM-DIA
+$MODULE SignalCommunications-WE-VD_14MM-DIA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_14MM-DIA
+Li SignalCommunications-WE-VD_14MM-DIA
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66861,9 +66861,9 @@ Ne 0 ""
 Po 1476 157 
 $EndPAD
 $EndMODULE WE-VD_14MM-DIA
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-0.9
+$MODULE SignalCommunications-WE-VD_20MM-0.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-0.9
+Li SignalCommunications-WE-VD_20MM-0.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66900,9 +66900,9 @@ Ne 0 ""
 Po 1968 177 
 $EndPAD
 $EndMODULE WE-VD_20MM-0.9
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-1.1
+$MODULE SignalCommunications-WE-VD_20MM-1.1
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-1.1
+Li SignalCommunications-WE-VD_20MM-1.1
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66939,9 +66939,9 @@ Ne 0 ""
 Po 1968 216 
 $EndPAD
 $EndMODULE WE-VD_20MM-1.1
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-1.2
+$MODULE SignalCommunications-WE-VD_20MM-1.2
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-1.2
+Li SignalCommunications-WE-VD_20MM-1.2
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -66978,9 +66978,9 @@ Ne 0 ""
 Po 1968 236 
 $EndPAD
 $EndMODULE WE-VD_20MM-1.2
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-1.3
+$MODULE SignalCommunications-WE-VD_20MM-1.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-1.3
+Li SignalCommunications-WE-VD_20MM-1.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67017,9 +67017,9 @@ Ne 0 ""
 Po 1968 255 
 $EndPAD
 $EndMODULE WE-VD_20MM-1.3
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-1.5
+$MODULE SignalCommunications-WE-VD_20MM-1.5
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-1.5
+Li SignalCommunications-WE-VD_20MM-1.5
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67056,9 +67056,9 @@ Ne 0 ""
 Po 1968 295 
 $EndPAD
 $EndMODULE WE-VD_20MM-1.5
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-1.7
+$MODULE SignalCommunications-WE-VD_20MM-1.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-1.7
+Li SignalCommunications-WE-VD_20MM-1.7
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67095,9 +67095,9 @@ Ne 0 ""
 Po 1968 334 
 $EndPAD
 $EndMODULE WE-VD_20MM-1.7
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-2.0
+$MODULE SignalCommunications-WE-VD_20MM-2.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-2.0
+Li SignalCommunications-WE-VD_20MM-2.0
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67134,9 +67134,9 @@ Ne 0 ""
 Po 1968 393 
 $EndPAD
 $EndMODULE WE-VD_20MM-2.0
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-2.3
+$MODULE SignalCommunications-WE-VD_20MM-2.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-2.3
+Li SignalCommunications-WE-VD_20MM-2.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67173,9 +67173,9 @@ Ne 0 ""
 Po 1968 452 
 $EndPAD
 $EndMODULE WE-VD_20MM-2.3
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-2.6
+$MODULE SignalCommunications-WE-VD_20MM-2.6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-2.6
+Li SignalCommunications-WE-VD_20MM-2.6
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67212,9 +67212,9 @@ Ne 0 ""
 Po 1968 511 
 $EndPAD
 $EndMODULE WE-VD_20MM-2.6
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-2.8
+$MODULE SignalCommunications-WE-VD_20MM-2.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-2.8
+Li SignalCommunications-WE-VD_20MM-2.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67251,9 +67251,9 @@ Ne 0 ""
 Po 1968 551 
 $EndPAD
 $EndMODULE WE-VD_20MM-2.8
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-2.9
+$MODULE SignalCommunications-WE-VD_20MM-2.9
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-2.9
+Li SignalCommunications-WE-VD_20MM-2.9
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67290,9 +67290,9 @@ Ne 0 ""
 Po 1968 570 
 $EndPAD
 $EndMODULE WE-VD_20MM-2.9
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-3.4
+$MODULE SignalCommunications-WE-VD_20MM-3.4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-3.4
+Li SignalCommunications-WE-VD_20MM-3.4
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67329,9 +67329,9 @@ Ne 0 ""
 Po 1968 669 
 $EndPAD
 $EndMODULE WE-VD_20MM-3.4
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-3.8
+$MODULE SignalCommunications-WE-VD_20MM-3.8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-3.8
+Li SignalCommunications-WE-VD_20MM-3.8
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67368,9 +67368,9 @@ Ne 0 ""
 Po 1968 748 
 $EndPAD
 $EndMODULE WE-VD_20MM-3.8
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-4.3
+$MODULE SignalCommunications-WE-VD_20MM-4.3
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-4.3
+Li SignalCommunications-WE-VD_20MM-4.3
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67407,9 +67407,9 @@ Ne 0 ""
 Po 1968 846 
 $EndPAD
 $EndMODULE WE-VD_20MM-4.3
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-4.7
+$MODULE SignalCommunications-WE-VD_20MM-4.7
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-4.7
+Li SignalCommunications-WE-VD_20MM-4.7
 Cd 
 Kw 
 Sc 00000000
@@ -67440,9 +67440,9 @@ Ne 0 ""
 Po 1968 925 
 $EndPAD
 $EndMODULE WE-VD_20MM-4.7
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-5.0
+$MODULE SignalCommunications-WE-VD_20MM-5.0
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-5.0
+Li SignalCommunications-WE-VD_20MM-5.0
 Cd 
 Kw 
 Sc 00000000
@@ -67473,9 +67473,9 @@ Ne 0 ""
 Po 1968 984 
 $EndPAD
 $EndMODULE WE-VD_20MM-5.0
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-10.4
+$MODULE SignalCommunications-WE-VD_20MM-10.4
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-10.4
+Li SignalCommunications-WE-VD_20MM-10.4
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67512,9 +67512,9 @@ Ne 0 ""
 Po 1968 2047 
 $EndPAD
 $EndMODULE WE-VD_20MM-10.4
-$MODULE SignalCommunications (rev18a)-WE-VD_20MM-DIA
+$MODULE SignalCommunications-WE-VD_20MM-DIA
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VD_20MM-DIA
+Li SignalCommunications-WE-VD_20MM-DIA
 Cd VARISTOR
 Kw VARISTOR
 Sc 00000000
@@ -67551,9 +67551,9 @@ Ne 0 ""
 Po 1968 157 
 $EndPAD
 $EndMODULE WE-VD_20MM-DIA
-$MODULE SignalCommunications (rev18a)-WE-VEA_0508
+$MODULE SignalCommunications-WE-VEA_0508
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VEA_0508
+Li SignalCommunications-WE-VEA_0508
 Cd WESURGE ESD SUPPRESSOR-ARRAY WE-VEA
 Kw WESURGE ESD SUPPRESSOR-ARRAY WE-VEA
 Sc 00000000
@@ -67631,9 +67631,9 @@ Ne 0 ""
 Po 246 295 
 $EndPAD
 $EndMODULE WE-VEA_0508
-$MODULE SignalCommunications (rev18a)-WE-VEA_0612
+$MODULE SignalCommunications-WE-VEA_0612
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VEA_0612
+Li SignalCommunications-WE-VEA_0612
 Cd WESURGE ESD SUPPRESSOR-ARRAY WE-VEA
 Kw WESURGE ESD SUPPRESSOR-ARRAY WE-VEA
 Sc 00000000
@@ -67711,9 +67711,9 @@ Ne 0 ""
 Po 334 472 
 $EndPAD
 $EndMODULE WE-VEA_0612
-$MODULE SignalCommunications (rev18a)-WE-VE_FEMTOF_0402
+$MODULE SignalCommunications-WE-VE_FEMTOF_0402
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VE_FEMTOF_0402
+Li SignalCommunications-WE-VE_FEMTOF_0402
 Cd 
 Kw 
 Sc 00000000
@@ -67744,9 +67744,9 @@ Ne 0 ""
 Po 236 0 
 $EndPAD
 $EndMODULE WE-VE_FEMTOF_0402
-$MODULE SignalCommunications (rev18a)-WE-VE_FEMTOF_0603
+$MODULE SignalCommunications-WE-VE_FEMTOF_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VE_FEMTOF_0603
+Li SignalCommunications-WE-VE_FEMTOF_0603
 Cd 
 Kw 
 Sc 00000000
@@ -67777,9 +67777,9 @@ Ne 0 ""
 Po 305 0 
 $EndPAD
 $EndMODULE WE-VE_FEMTOF_0603
-$MODULE SignalCommunications (rev18a)-WE-VE_ULC_0402
+$MODULE SignalCommunications-WE-VE_ULC_0402
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VE_ULC_0402
+Li SignalCommunications-WE-VE_ULC_0402
 Cd 
 Kw 
 Sc 00000000
@@ -67810,9 +67810,9 @@ Ne 0 ""
 Po 196 0 
 $EndPAD
 $EndMODULE WE-VE_ULC_0402
-$MODULE SignalCommunications (rev18a)-WE-VE_ULC_0603
+$MODULE SignalCommunications-WE-VE_ULC_0603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-VE_ULC_0603
+Li SignalCommunications-WE-VE_ULC_0603
 Cd 
 Kw 
 Sc 00000000
@@ -67845,9 +67845,9 @@ Ne 0 ""
 Po 334 0 
 $EndPAD
 $EndMODULE WE-VE_ULC_0603
-$MODULE SignalCommunications (rev18a)-WE-WAFB_7427602
+$MODULE SignalCommunications-WE-WAFB_7427602
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_7427602
+Li SignalCommunications-WE-WAFB_7427602
 Cd 
 Kw 
 Sc 00000000
@@ -67882,9 +67882,9 @@ Ne 0 ""
 Po 1929 0 
 $EndPAD
 $EndMODULE WE-WAFB_7427602
-$MODULE SignalCommunications (rev18a)-WE-WAFB_7427603
+$MODULE SignalCommunications-WE-WAFB_7427603
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_7427603
+Li SignalCommunications-WE-WAFB_7427603
 Cd 
 Kw 
 Sc 00000000
@@ -67919,9 +67919,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-WAFB_7427603
-$MODULE SignalCommunications (rev18a)-WE-WAFB_7427604
+$MODULE SignalCommunications-WE-WAFB_7427604
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_7427604
+Li SignalCommunications-WE-WAFB_7427604
 Cd 
 Kw 
 Sc 00000000
@@ -67956,9 +67956,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-WAFB_7427604
-$MODULE SignalCommunications (rev18a)-WE-WAFB_7427605
+$MODULE SignalCommunications-WE-WAFB_7427605
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_7427605
+Li SignalCommunications-WE-WAFB_7427605
 Cd 
 Kw 
 Sc 00000000
@@ -67993,9 +67993,9 @@ Ne 0 ""
 Po 1791 0 
 $EndPAD
 $EndMODULE WE-WAFB_7427605
-$MODULE SignalCommunications (rev18a)-WE-WAFB_7427606
+$MODULE SignalCommunications-WE-WAFB_7427606
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_7427606
+Li SignalCommunications-WE-WAFB_7427606
 Cd 
 Kw 
 Sc 00000000
@@ -68030,9 +68030,9 @@ Ne 0 ""
 Po 2066 0 
 $EndPAD
 $EndMODULE WE-WAFB_7427606
-$MODULE SignalCommunications (rev18a)-WE-WAFB_74276031
+$MODULE SignalCommunications-WE-WAFB_74276031
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_74276031
+Li SignalCommunications-WE-WAFB_74276031
 Cd 
 Kw 
 Sc 00000000
@@ -68067,9 +68067,9 @@ Ne 0 ""
 Po 1181 0 
 $EndPAD
 $EndMODULE WE-WAFB_74276031
-$MODULE SignalCommunications (rev18a)-WE-WAFB_74276032
+$MODULE SignalCommunications-WE-WAFB_74276032
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_74276032
+Li SignalCommunications-WE-WAFB_74276032
 Cd 
 Kw 
 Sc 00000000
@@ -68104,9 +68104,9 @@ Ne 0 ""
 Po 1279 0 
 $EndPAD
 $EndMODULE WE-WAFB_74276032
-$MODULE SignalCommunications (rev18a)-WE-WAFB_74276041
+$MODULE SignalCommunications-WE-WAFB_74276041
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_74276041
+Li SignalCommunications-WE-WAFB_74276041
 Cd 
 Kw 
 Sc 00000000
@@ -68141,9 +68141,9 @@ Ne 0 ""
 Po 1476 0 
 $EndPAD
 $EndMODULE WE-WAFB_74276041
-$MODULE SignalCommunications (rev18a)-WE-WAFB_74276051
+$MODULE SignalCommunications-WE-WAFB_74276051
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WAFB_74276051
+Li SignalCommunications-WE-WAFB_74276051
 Cd 
 Kw 
 Sc 00000000
@@ -68178,9 +68178,9 @@ Ne 0 ""
 Po 1830 0 
 $EndPAD
 $EndMODULE WE-WAFB_74276051
-$MODULE SignalCommunications (rev18a)-WE-WPCC_2815
+$MODULE SignalCommunications-WE-WPCC_2815
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_2815
+Li SignalCommunications-WE-WPCC_2815
 Cd 
 Kw 
 Sc 00000000
@@ -68217,9 +68217,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_2815
-$MODULE SignalCommunications (rev18a)-WE-WPCC_2929
+$MODULE SignalCommunications-WE-WPCC_2929
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_2929
+Li SignalCommunications-WE-WPCC_2929
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68256,9 +68256,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_2929
-$MODULE SignalCommunications (rev18a)-WE-WPCC_3426
+$MODULE SignalCommunications-WE-WPCC_3426
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_3426
+Li SignalCommunications-WE-WPCC_3426
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68295,9 +68295,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_3426
-$MODULE SignalCommunications (rev18a)-WE-WPCC_3737
+$MODULE SignalCommunications-WE-WPCC_3737
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_3737
+Li SignalCommunications-WE-WPCC_3737
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68334,9 +68334,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_3737
-$MODULE SignalCommunications (rev18a)-WE-WPCC_3830
+$MODULE SignalCommunications-WE-WPCC_3830
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_3830
+Li SignalCommunications-WE-WPCC_3830
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68373,9 +68373,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_3830
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4027
+$MODULE SignalCommunications-WE-WPCC_4027
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4027
+Li SignalCommunications-WE-WPCC_4027
 Cd 
 Kw 
 Sc 00000000
@@ -68432,9 +68432,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-WPCC_4027
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4040
+$MODULE SignalCommunications-WE-WPCC_4040
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4040
+Li SignalCommunications-WE-WPCC_4040
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68471,9 +68471,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_4040
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4444
+$MODULE SignalCommunications-WE-WPCC_4444
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4444
+Li SignalCommunications-WE-WPCC_4444
 Cd 
 Kw 
 Sc 00000000
@@ -68530,9 +68530,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-WPCC_4444
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4544
+$MODULE SignalCommunications-WE-WPCC_4544
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4544
+Li SignalCommunications-WE-WPCC_4544
 Cd 
 Kw 
 Sc 00000000
@@ -68589,9 +68589,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-WPCC_4544
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4636
+$MODULE SignalCommunications-WE-WPCC_4636
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4636
+Li SignalCommunications-WE-WPCC_4636
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68628,9 +68628,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_4636
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4832
+$MODULE SignalCommunications-WE-WPCC_4832
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4832
+Li SignalCommunications-WE-WPCC_4832
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68673,9 +68673,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_4832
-$MODULE SignalCommunications (rev18a)-WE-WPCC_4832_760308103215
+$MODULE SignalCommunications-WE-WPCC_4832_760308103215
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_4832_760308103215
+Li SignalCommunications-WE-WPCC_4832_760308103215
 Cd 
 Kw 
 Sc 00000000
@@ -68712,9 +68712,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_4832_760308103215
-$MODULE SignalCommunications (rev18a)-WE-WPCC_5030
+$MODULE SignalCommunications-WE-WPCC_5030
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_5030
+Li SignalCommunications-WE-WPCC_5030
 Cd 
 Kw 
 Sc 00000000
@@ -68749,9 +68749,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_5030
-$MODULE SignalCommunications (rev18a)-WE-WPCC_5353_760308141
+$MODULE SignalCommunications-WE-WPCC_5353_760308141
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_5353_760308141
+Li SignalCommunications-WE-WPCC_5353_760308141
 Cd 
 Kw 
 Sc 00000000
@@ -68790,9 +68790,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_5353_760308141
-$MODULE SignalCommunications (rev18a)-WE-WPCC_5353_760308102142
+$MODULE SignalCommunications-WE-WPCC_5353_760308102142
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_5353_760308102142
+Li SignalCommunications-WE-WPCC_5353_760308102142
 Cd 
 Kw 
 Sc 00000000
@@ -68831,9 +68831,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_5353_760308102142
-$MODULE SignalCommunications (rev18a)-WE-WPCC_5353_760308103102
+$MODULE SignalCommunications-WE-WPCC_5353_760308103102
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_5353_760308103102
+Li SignalCommunications-WE-WPCC_5353_760308103102
 Cd 
 Kw 
 Sc 00000000
@@ -68872,9 +68872,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_5353_760308103102
-$MODULE SignalCommunications (rev18a)-WE-WPCC_5353_DRILL:2MM
+$MODULE SignalCommunications-WE-WPCC_5353_DRILL:2MM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_5353_DRILL:2MM
+Li SignalCommunications-WE-WPCC_5353_DRILL:2MM
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68913,9 +68913,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_5353_DRILL:2MM
-$MODULE SignalCommunications (rev18a)-WE-WPCC_5353_DRILL:4MM
+$MODULE SignalCommunications-WE-WPCC_5353_DRILL:4MM
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_5353_DRILL:4MM
+Li SignalCommunications-WE-WPCC_5353_DRILL:4MM
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -68954,9 +68954,9 @@ Ne 0 ""
 Po 1574 0 
 $EndPAD
 $EndMODULE WE-WPCC_5353_DRILL:4MM
-$MODULE SignalCommunications (rev18a)-WE-WPCC_6052
+$MODULE SignalCommunications-WE-WPCC_6052
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_6052
+Li SignalCommunications-WE-WPCC_6052
 Cd WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Sc 00000000
@@ -68991,9 +68991,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_6052
-$MODULE SignalCommunications (rev18a)-WE-WPCC_13055
+$MODULE SignalCommunications-WE-WPCC_13055
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_13055
+Li SignalCommunications-WE-WPCC_13055
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69080,9 +69080,9 @@ Ne 0 ""
 Po 21653 0 
 $EndPAD
 $EndMODULE WE-WPCC_13055
-$MODULE SignalCommunications (rev18a)-WE-WPCC_760308101221
+$MODULE SignalCommunications-WE-WPCC_760308101221
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_760308101221
+Li SignalCommunications-WE-WPCC_760308101221
 Cd 
 Kw 
 Sc 00000000
@@ -69117,9 +69117,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_760308101221
-$MODULE SignalCommunications (rev18a)-WE-WPCC_760308103148
+$MODULE SignalCommunications-WE-WPCC_760308103148
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_760308103148
+Li SignalCommunications-WE-WPCC_760308103148
 Cd 
 Kw 
 Sc 00000000
@@ -69171,9 +69171,9 @@ Ne 0 ""
 Po 0 -6496 
 $EndPAD
 $EndMODULE WE-WPCC_760308103148
-$MODULE SignalCommunications (rev18a)-WE-WPCC_A6
+$MODULE SignalCommunications-WE-WPCC_A6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_A6
+Li SignalCommunications-WE-WPCC_A6
 Cd WE-WPCC WIRELESS POWER ARRAY
 Kw WE-WPCC WIRELESS POWER ARRAY
 Sc 00000000
@@ -69248,9 +69248,9 @@ Ne 0 ""
 Po 19881 0 
 $EndPAD
 $EndMODULE WE-WPCC_A6
-$MODULE SignalCommunications (rev18a)-WE-WPCC_A19
+$MODULE SignalCommunications-WE-WPCC_A19
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_A19
+Li SignalCommunications-WE-WPCC_A19
 Cd WE-WPCC WIRELESS POWER ARRAY
 Kw WE-WPCC WIRELESS POWER ARRAY
 Sc 00000000
@@ -69304,9 +69304,9 @@ Ne 0 ""
 Po 10433 0 
 $EndPAD
 $EndMODULE WE-WPCC_A19
-$MODULE SignalCommunications (rev18a)-WE-WPCC_A28
+$MODULE SignalCommunications-WE-WPCC_A28
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_A28
+Li SignalCommunications-WE-WPCC_A28
 Cd WE-WPCC WIRELESS POWER ARRAY
 Kw WE-WPCC WIRELESS POWER ARRAY
 Sc 00000000
@@ -69379,9 +69379,9 @@ Ne 0 ""
 Po -10826 0 
 $EndPAD
 $EndMODULE WE-WPCC_A28
-$MODULE SignalCommunications (rev18a)-WE-WPCC_MP_A6
+$MODULE SignalCommunications-WE-WPCC_MP_A6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_MP_A6
+Li SignalCommunications-WE-WPCC_MP_A6
 Cd 
 Kw 
 Sc 00000000
@@ -69455,9 +69455,9 @@ Ne 0 ""
 Po 0 9618 
 $EndPAD
 $EndMODULE WE-WPCC_MP_A6
-$MODULE SignalCommunications (rev18a)-WE-WPCC_MP_A8
+$MODULE SignalCommunications-WE-WPCC_MP_A8
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_MP_A8
+Li SignalCommunications-WE-WPCC_MP_A8
 Cd 
 Kw 
 Sc 00000000
@@ -69525,9 +69525,9 @@ Ne 0 ""
 Po 0 11220 
 $EndPAD
 $EndMODULE WE-WPCC_MP_A8
-$MODULE SignalCommunications (rev18a)-WE-WPCC_QI-A29
+$MODULE SignalCommunications-WE-WPCC_QI-A29
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_QI-A29
+Li SignalCommunications-WE-WPCC_QI-A29
 Cd 
 Kw 
 Sc 00000000
@@ -69562,9 +69562,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_QI-A29
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ6
+$MODULE SignalCommunications-WE-WPCC_Φ6
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ6
+Li SignalCommunications-WE-WPCC_Φ6
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69596,9 +69596,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ6
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ10
+$MODULE SignalCommunications-WE-WPCC_Φ10
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ10
+Li SignalCommunications-WE-WPCC_Φ10
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69630,9 +69630,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ10
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ15
+$MODULE SignalCommunications-WE-WPCC_Φ15
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ15
+Li SignalCommunications-WE-WPCC_Φ15
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69664,9 +69664,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ15
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ17
+$MODULE SignalCommunications-WE-WPCC_Φ17
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ17
+Li SignalCommunications-WE-WPCC_Φ17
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69698,9 +69698,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ17
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ19
+$MODULE SignalCommunications-WE-WPCC_Φ19
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ19
+Li SignalCommunications-WE-WPCC_Φ19
 Cd WE-WPCC WIRELESS POWER
 Kw WE-WPCC WIRELESS POWER
 Sc 00000000
@@ -69732,9 +69732,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ19
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ20
+$MODULE SignalCommunications-WE-WPCC_Φ20
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ20
+Li SignalCommunications-WE-WPCC_Φ20
 Cd WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Sc 00000000
@@ -69768,9 +69768,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ20
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ26
+$MODULE SignalCommunications-WE-WPCC_Φ26
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ26
+Li SignalCommunications-WE-WPCC_Φ26
 Cd WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69802,9 +69802,9 @@ Ne 0 ""
 Po 393 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ26
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ30
+$MODULE SignalCommunications-WE-WPCC_Φ30
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ30
+Li SignalCommunications-WE-WPCC_Φ30
 Cd WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Sc 00000000
@@ -69838,9 +69838,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ30
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ48
+$MODULE SignalCommunications-WE-WPCC_Φ48
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ48
+Li SignalCommunications-WE-WPCC_Φ48
 Cd WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Kw WE-WPCC WIRELESS POWER CHARGING TRANSMITTER COIL
 Sc 00000000
@@ -69875,9 +69875,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ48
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100110
+$MODULE SignalCommunications-WE-WPCC_Φ50_760308100110
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100110
+Li SignalCommunications-WE-WPCC_Φ50_760308100110
 Cd WIRELESS POWER CHARGING RECEIVER COIL
 Kw WIRELESS POWER CHARGING RECEIVER COIL
 Sc 00000000
@@ -69912,9 +69912,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ50_760308100110
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100111
+$MODULE SignalCommunications-WE-WPCC_Φ50_760308100111
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100111
+Li SignalCommunications-WE-WPCC_Φ50_760308100111
 Cd 
 Kw 
 Sc 00000000
@@ -69949,9 +69949,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ50_760308100111
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100141
+$MODULE SignalCommunications-WE-WPCC_Φ50_760308100141
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100141
+Li SignalCommunications-WE-WPCC_Φ50_760308100141
 Cd 
 Kw 
 Sc 00000000
@@ -69987,9 +69987,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ50_760308100141
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100143
+$MODULE SignalCommunications-WE-WPCC_Φ50_760308100143
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ50_760308100143
+Li SignalCommunications-WE-WPCC_Φ50_760308100143
 Cd 
 Kw 
 Sc 00000000
@@ -70024,9 +70024,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ50_760308100143
-$MODULE SignalCommunications (rev18a)-WE-WPCC_Φ50_760308101302
+$MODULE SignalCommunications-WE-WPCC_Φ50_760308101302
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-WPCC_Φ50_760308101302
+Li SignalCommunications-WE-WPCC_Φ50_760308101302
 Cd 
 Kw 
 Sc 00000000
@@ -70061,9 +70061,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-WPCC_Φ50_760308101302
-$MODULE SignalCommunications (rev18a)-WE-XHMI_7070
+$MODULE SignalCommunications-WE-XHMI_7070
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-XHMI_7070
+Li SignalCommunications-WE-XHMI_7070
 Cd 
 Kw 
 Sc 00000000
@@ -70108,9 +70108,9 @@ Ne 0 ""
 Po 885 0 
 $EndPAD
 $EndMODULE WE-XHMI_7070
-$MODULE SignalCommunications (rev18a)-WE-XHMI_7443934XXXX
+$MODULE SignalCommunications-WE-XHMI_7443934XXXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-XHMI_7443934XXXX
+Li SignalCommunications-WE-XHMI_7443934XXXX
 Cd 
 Kw 
 Sc 00000000
@@ -70155,9 +70155,9 @@ Ne 0 ""
 Po 787 0 
 $EndPAD
 $EndMODULE WE-XHMI_7443934XXXX
-$MODULE SignalCommunications (rev18a)-WE-XHMI_74439358XXX
+$MODULE SignalCommunications-WE-XHMI_74439358XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-XHMI_74439358XXX
+Li SignalCommunications-WE-XHMI_74439358XXX
 Cd WE-XHMI XTREME HIGH CURRENT MOLDED INDUCTOR
 Kw WE-XHMI XTREME HIGH CURRENT MOLDED INDUCTOR
 Sc 00000000
@@ -70202,9 +70202,9 @@ Ne 0 ""
 Po 984 0 
 $EndPAD
 $EndMODULE WE-XHMI_74439358XXX
-$MODULE SignalCommunications (rev18a)-WE-XHMI_74439369XXX
+$MODULE SignalCommunications-WE-XHMI_74439369XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-XHMI_74439369XXX
+Li SignalCommunications-WE-XHMI_74439369XXX
 Cd 
 Kw 
 Sc 00000000
@@ -70249,9 +70249,9 @@ Ne 0 ""
 Po 1259 0 
 $EndPAD
 $EndMODULE WE-XHMI_74439369XXX
-$MODULE SignalCommunications (rev18a)-WE-XHMI_74439370XXX
+$MODULE SignalCommunications-WE-XHMI_74439370XXX
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE-XHMI_74439370XXX
+Li SignalCommunications-WE-XHMI_74439370XXX
 Cd 
 Kw 
 Sc 00000000
@@ -70296,9 +70296,9 @@ Ne 0 ""
 Po 2086 0 
 $EndPAD
 $EndMODULE WE-XHMI_74439370XXX
-$MODULE SignalCommunications (rev18a)-WESURGE_0201
+$MODULE SignalCommunications-WESURGE_0201
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0201
+Li SignalCommunications-WESURGE_0201
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70329,9 +70329,9 @@ Ne 0 ""
 Po 108 0 
 $EndPAD
 $EndMODULE WESURGE_0201
-$MODULE SignalCommunications (rev18a)-WESURGE_0402_REFLOW
+$MODULE SignalCommunications-WESURGE_0402_REFLOW
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0402_REFLOW
+Li SignalCommunications-WESURGE_0402_REFLOW
 Cd 
 Kw 
 Sc 00000000
@@ -70364,9 +70364,9 @@ Ne 0 ""
 Po 196 0 
 $EndPAD
 $EndMODULE WESURGE_0402_REFLOW
-$MODULE SignalCommunications (rev18a)-WESURGE_0402_WAVE
+$MODULE SignalCommunications-WESURGE_0402_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0402_WAVE
+Li SignalCommunications-WESURGE_0402_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70399,9 +70399,9 @@ Ne 0 ""
 Po 275 0 
 $EndPAD
 $EndMODULE WESURGE_0402_WAVE
-$MODULE SignalCommunications (rev18a)-WESURGE_0603_REFLOW
+$MODULE SignalCommunications-WESURGE_0603_REFLOW
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0603_REFLOW
+Li SignalCommunications-WESURGE_0603_REFLOW
 Cd 
 Kw 
 Sc 00000000
@@ -70438,9 +70438,9 @@ Ne 0 ""
 Po 305 0 
 $EndPAD
 $EndMODULE WESURGE_0603_REFLOW
-$MODULE SignalCommunications (rev18a)-WESURGE_0603_WAVE
+$MODULE SignalCommunications-WESURGE_0603_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0603_WAVE
+Li SignalCommunications-WESURGE_0603_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70473,9 +70473,9 @@ Ne 0 ""
 Po 462 0 
 $EndPAD
 $EndMODULE WESURGE_0603_WAVE
-$MODULE SignalCommunications (rev18a)-WESURGE_0805_REFLOW
+$MODULE SignalCommunications-WESURGE_0805_REFLOW
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0805_REFLOW
+Li SignalCommunications-WESURGE_0805_REFLOW
 Cd 
 Kw 
 Sc 00000000
@@ -70512,9 +70512,9 @@ Ne 0 ""
 Po 433 0 
 $EndPAD
 $EndMODULE WESURGE_0805_REFLOW
-$MODULE SignalCommunications (rev18a)-WESURGE_0805_WAVE
+$MODULE SignalCommunications-WESURGE_0805_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_0805_WAVE
+Li SignalCommunications-WESURGE_0805_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70547,9 +70547,9 @@ Ne 0 ""
 Po 580 0 
 $EndPAD
 $EndMODULE WESURGE_0805_WAVE
-$MODULE SignalCommunications (rev18a)-WESURGE_1206_REFLOW
+$MODULE SignalCommunications-WESURGE_1206_REFLOW
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_1206_REFLOW
+Li SignalCommunications-WESURGE_1206_REFLOW
 Cd 
 Kw 
 Sc 00000000
@@ -70586,9 +70586,9 @@ Ne 0 ""
 Po 590 0 
 $EndPAD
 $EndMODULE WESURGE_1206_REFLOW
-$MODULE SignalCommunications (rev18a)-WESURGE_1206_WAVE
+$MODULE SignalCommunications-WESURGE_1206_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_1206_WAVE
+Li SignalCommunications-WESURGE_1206_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70623,9 +70623,9 @@ Ne 0 ""
 Po 866 0 
 $EndPAD
 $EndMODULE WESURGE_1206_WAVE
-$MODULE SignalCommunications (rev18a)-WESURGE_1210_WAVE
+$MODULE SignalCommunications-WESURGE_1210_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_1210_WAVE
+Li SignalCommunications-WESURGE_1210_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70660,9 +70660,9 @@ Ne 0 ""
 Po 895 0 
 $EndPAD
 $EndMODULE WESURGE_1210_WAVE
-$MODULE SignalCommunications (rev18a)-WESURGE_1812_WAVE
+$MODULE SignalCommunications-WESURGE_1812_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_1812_WAVE
+Li SignalCommunications-WESURGE_1812_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70696,9 +70696,9 @@ Ne 0 ""
 Po 1112 0 
 $EndPAD
 $EndMODULE WESURGE_1812_WAVE
-$MODULE SignalCommunications (rev18a)-WESURGE_2220_WAVE
+$MODULE SignalCommunications-WESURGE_2220_WAVE
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WESURGE_2220_WAVE
+Li SignalCommunications-WESURGE_2220_WAVE
 Cd WESURGE SMD
 Kw WESURGE SMD
 Sc 00000000
@@ -70733,9 +70733,9 @@ Ne 0 ""
 Po 1328 0 
 $EndPAD
 $EndMODULE WESURGE_2220_WAVE
-$MODULE SignalCommunications (rev18a)-WE_EP5_SMD_6PIN
+$MODULE SignalCommunications-WE_EP5_SMD_6PIN
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE_EP5_SMD_6PIN
+Li SignalCommunications-WE_EP5_SMD_6PIN
 Cd TRANSFORMER, EP5 SMD 6 PIN
 Kw TRANSFORMER, EP5 SMD 6 PIN
 Sc 00000000
@@ -70804,9 +70804,9 @@ Ne 0 ""
 Po 1435 728 
 $EndPAD
 $EndMODULE WE_EP5_SMD_6PIN
-$MODULE SignalCommunications (rev18a)-WE_EP7_SMD_8PIN
+$MODULE SignalCommunications-WE_EP7_SMD_8PIN
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE_EP7_SMD_8PIN
+Li SignalCommunications-WE_EP7_SMD_8PIN
 Cd TRANSFORMER, EP7 SMD 8 PIN
 Kw TRANSFORMER, EP7 SMD 8 PIN
 Sc 00000000
@@ -70895,9 +70895,9 @@ Ne 0 ""
 Po 1600 1470 
 $EndPAD
 $EndMODULE WE_EP7_SMD_8PIN
-$MODULE SignalCommunications (rev18a)-WE_EP13_SMD_9PIN
+$MODULE SignalCommunications-WE_EP13_SMD_9PIN
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE_EP13_SMD_9PIN
+Li SignalCommunications-WE_EP13_SMD_9PIN
 Cd SMD-XDSL TRANSFORMER WE-DSL
 Kw SMD-XDSL TRANSFORMER WE-DSL
 Sc 00000000
@@ -70994,9 +70994,9 @@ Ne 0 ""
 Po 3220 1952 
 $EndPAD
 $EndMODULE WE_EP13_SMD_9PIN
-$MODULE SignalCommunications (rev18a)-WE_EP13_SMD_12PIN
+$MODULE SignalCommunications-WE_EP13_SMD_12PIN
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE_EP13_SMD_12PIN
+Li SignalCommunications-WE_EP13_SMD_12PIN
 Cd TRANSFORMER,  EP13 SMD 12 PIN
 Kw TRANSFORMER,  EP13 SMD 12 PIN
 Sc 00000000
@@ -71110,9 +71110,9 @@ Ne 0 ""
 Po 3104 2342 
 $EndPAD
 $EndMODULE WE_EP13_SMD_12PIN
-$MODULE SignalCommunications (rev18a)-WE_EPQ13_SMD_10PIN
+$MODULE SignalCommunications-WE_EPQ13_SMD_10PIN
 Po 0 0 0 15 00200000 00000000 ~~
-Li SignalCommunications (rev18a)-WE_EPQ13_SMD_10PIN
+Li SignalCommunications-WE_EPQ13_SMD_10PIN
 Cd 
 Kw 
 Sc 00000000
