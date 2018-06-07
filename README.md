@@ -6,6 +6,7 @@
 - EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b.lbr (Rev. 16b)
 - EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c.lbr (Rev. 16c)
 - EAGLE-WIRE-TO-BOARD-rev17a.lbr (Rev. 17a)
+- EAGLE-SIGNAL_AND_COMMUNICATIONS-rev17b.lbr (Rev. 18)
 
 
 ## Library Component TODO:
@@ -36,7 +37,6 @@
 - EAGLE-CAPACITORS-rev16a.lbr (Rev. 16a)
 - EAGLE-EMC_COMPONENTS-rev17b.lbr (Rev. 17b)
 - EAGLE-POWER_MAGNETICS-rev17b.lbr (Rev. 17b)
-- EAGLE-SIGNAL_AND_COMMUNICATIONS-rev17b.lbr (Rev. 17b)
 - EAGLE-STEP-DOWN-CONVERTER-rev16e.lbr (Rev. 16e)
 
 Electronic Cats invests time and resources providing this open source design, please support Electronic Cats and open-source hardware by purchasing products from Electronic Cats!
@@ -45,4 +45,4 @@ Work by Electronic Cats.
 
 Thanks Edi!
 
-20 Jun 2017
+Update 7 Jun 2018
